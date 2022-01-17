@@ -1,0 +1,491 @@
+@prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#> .
+@prefix ldcOnt: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000151/GPE> a rdf:Statement ;
+    rdf:object ldcOnt:GPE ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000151> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000151/VOA_EN_NW_2017_03_12_3761985_2/72/79> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000165/GPE> a rdf:Statement ;
+    rdf:object ldcOnt:GPE ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000165> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000165/VOA_EN_NW_2017_03_12_3761985_2/155/162> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000166/GPE> a rdf:Statement ;
+    rdf:object ldcOnt:GPE ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000166> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000166/VOA_EN_NW_2017_03_12_3761985_2/165/167> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000537/PER> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000537> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/0/13>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/118/120>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/20/27> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000538/ORG> a rdf:Statement ;
+    rdf:object ldcOnt:ORG ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000538> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000538/VOA_EN_NW_2017_03_12_3761985_2/32/41> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000539/PER> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000539> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/122/127>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/56/62>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/81/83>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/86/98> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000540/PER> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000540> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000540/VOA_EN_NW_2017_03_12_3761985_2/108/113> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000151/VOA_EN_NW_2017_03_12_3761985_2/72/79> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "79"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "72"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000165/VOA_EN_NW_2017_03_12_3761985_2/155/162> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "162"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "155"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000166/VOA_EN_NW_2017_03_12_3761985_2/165/167> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "167"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "165"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/0/13> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "13"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "0"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000538/VOA_EN_NW_2017_03_12_3761985_2/32/41> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "41"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "32"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/86/98> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "98"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "86"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000540/VOA_EN_NW_2017_03_12_3761985_2/108/113> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "113"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "108"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000151> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Arkansas"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000151/VOA_EN_NW_2017_03_12_3761985_2/72/79> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000151/VOA_EN_NW_2017_03_12_3761985_2/72/79> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:4099753_VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000165> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Columbia"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000165/VOA_EN_NW_2017_03_12_3761985_2/155/162> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000165/VOA_EN_NW_2017_03_12_3761985_2/155/162> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:4575352_VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000166> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "S.C"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000166/VOA_EN_NW_2017_03_12_3761985_2/165/167> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000166/VOA_EN_NW_2017_03_12_3761985_2/165/167> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:4597040_VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000537> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Sarah Huckabee"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/0/13> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/0/13>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/118/120>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/20/27> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000288_VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000538> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Republican"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000538/VOA_EN_NW_2017_03_12_3761985_2/32/41> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000538/VOA_EN_NW_2017_03_12_3761985_2/32/41> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000289_VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000539> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Mike Huckabee"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/86/98> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/122/127>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/56/62>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/81/83>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/86/98> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000290_VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_12_3761985_2/EN_Entity_EDL_0000540> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000540/VOA_EN_NW_2017_03_12_3761985_2/108/113> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000540/VOA_EN_NW_2017_03_12_3761985_2/108/113> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000291_VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000151/VOA_EN_NW_2017_03_12_3761985_2/72/79> a aida:TextJustification ;
+    skos:prefLabel "Arkansas" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "79"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "72"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000165/VOA_EN_NW_2017_03_12_3761985_2/155/162> a aida:TextJustification ;
+    skos:prefLabel "Columbia" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "162"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "155"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000166/VOA_EN_NW_2017_03_12_3761985_2/165/167> a aida:TextJustification ;
+    skos:prefLabel "S.C" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "167"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "165"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/0/13> a aida:TextJustification ;
+    skos:prefLabel "Sarah Huckabee" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "13"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "0"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/118/120> a aida:TextJustification ;
+    skos:prefLabel "her" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "120"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"pronominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "118"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000537/VOA_EN_NW_2017_03_12_3761985_2/20/27> a aida:TextJustification ;
+    skos:prefLabel "daughter" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "27"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "20"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000538/VOA_EN_NW_2017_03_12_3761985_2/32/41> a aida:TextJustification ;
+    skos:prefLabel "Republican" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "41"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "32"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/122/127> a aida:TextJustification ;
+    skos:prefLabel "father" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "127"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "122"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/56/62> a aida:TextJustification ;
+    skos:prefLabel "hopeful" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "62"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "56"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/81/83> a aida:TextJustification ;
+    skos:prefLabel "Gov" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "83"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "81"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000539/VOA_EN_NW_2017_03_12_3761985_2/86/98> a aida:TextJustification ;
+    skos:prefLabel "Mike Huckabee" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "98"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "86"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000540/VOA_EN_NW_2017_03_12_3761985_2/108/113> a aida:TextJustification ;
+    skos:prefLabel "friend" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "113"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_12_3761985_2"^^xsd:string ;
+    aida:startOffset "108"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.uiuc.edu/fileType> a aida:System .
+
+<http://www.uiuc.edu> a aida:System .
+

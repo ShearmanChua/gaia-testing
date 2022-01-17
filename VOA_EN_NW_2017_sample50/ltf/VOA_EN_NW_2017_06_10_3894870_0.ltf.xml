@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_10_3894870_0">
+		<TEXT>
+			<SEG end_char="95" id="VOA_EN_NW_2017_06_10_3894870_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - The Trump International Hotel at 1100 Pennsylvania Ave. NW, in Washington, Dec. 21, 2016.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="9" id="token-0-2" start_char="7">The</TOKEN>
+				<TOKEN end_char="15" id="token-0-3" start_char="11">Trump</TOKEN>
+				<TOKEN end_char="29" id="token-0-4" start_char="17">International</TOKEN>
+				<TOKEN end_char="35" id="token-0-5" start_char="31">Hotel</TOKEN>
+				<TOKEN end_char="38" id="token-0-6" start_char="37">at</TOKEN>
+				<TOKEN end_char="43" id="token-0-7" start_char="40">1100</TOKEN>
+				<TOKEN end_char="56" id="token-0-8" start_char="45">Pennsylvania</TOKEN>
+				<TOKEN end_char="60" id="token-0-9" start_char="58">Ave</TOKEN>
+				<TOKEN end_char="61" id="token-0-10" start_char="61">.</TOKEN>
+				<TOKEN end_char="64" id="token-0-11" start_char="63">NW</TOKEN>
+				<TOKEN end_char="65" id="token-0-12" start_char="65">,</TOKEN>
+				<TOKEN end_char="68" id="token-0-13" start_char="67">in</TOKEN>
+				<TOKEN end_char="79" id="token-0-14" start_char="70">Washington</TOKEN>
+				<TOKEN end_char="80" id="token-0-15" start_char="80">,</TOKEN>
+				<TOKEN end_char="84" id="token-0-16" start_char="82">Dec</TOKEN>
+				<TOKEN end_char="85" id="token-0-17" start_char="85">.</TOKEN>
+				<TOKEN end_char="88" id="token-0-18" start_char="87">21</TOKEN>
+				<TOKEN end_char="89" id="token-0-19" start_char="89">,</TOKEN>
+				<TOKEN end_char="94" id="token-0-20" start_char="91">2016</TOKEN>
+				<TOKEN end_char="95" id="token-0-21" start_char="95">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

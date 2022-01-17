@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_04_11_3805653_1">
+		<TEXT>
+			<SEG end_char="119" id="VOA_EN_NW_2017_04_11_3805653_1-0" start_char="0">
+				<ORIGINAL_TEXT>Bolivarian National Guard officers advance towards demonstrators during a protest in Caracas, Venezuela, April 10, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="9" id="token-0-0" start_char="0">Bolivarian</TOKEN>
+				<TOKEN end_char="18" id="token-0-1" start_char="11">National</TOKEN>
+				<TOKEN end_char="24" id="token-0-2" start_char="20">Guard</TOKEN>
+				<TOKEN end_char="33" id="token-0-3" start_char="26">officers</TOKEN>
+				<TOKEN end_char="41" id="token-0-4" start_char="35">advance</TOKEN>
+				<TOKEN end_char="49" id="token-0-5" start_char="43">towards</TOKEN>
+				<TOKEN end_char="63" id="token-0-6" start_char="51">demonstrators</TOKEN>
+				<TOKEN end_char="70" id="token-0-7" start_char="65">during</TOKEN>
+				<TOKEN end_char="72" id="token-0-8" start_char="72">a</TOKEN>
+				<TOKEN end_char="80" id="token-0-9" start_char="74">protest</TOKEN>
+				<TOKEN end_char="83" id="token-0-10" start_char="82">in</TOKEN>
+				<TOKEN end_char="91" id="token-0-11" start_char="85">Caracas</TOKEN>
+				<TOKEN end_char="92" id="token-0-12" start_char="92">,</TOKEN>
+				<TOKEN end_char="102" id="token-0-13" start_char="94">Venezuela</TOKEN>
+				<TOKEN end_char="103" id="token-0-14" start_char="103">,</TOKEN>
+				<TOKEN end_char="109" id="token-0-15" start_char="105">April</TOKEN>
+				<TOKEN end_char="112" id="token-0-16" start_char="111">10</TOKEN>
+				<TOKEN end_char="113" id="token-0-17" start_char="113">,</TOKEN>
+				<TOKEN end_char="118" id="token-0-18" start_char="115">2017</TOKEN>
+				<TOKEN end_char="119" id="token-0-19" start_char="119">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

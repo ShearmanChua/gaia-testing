@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_29_3786911_0">
+		<TEXT>
+			<SEG end_char="127" id="VOA_EN_NW_2017_03_29_3786911_0-0" start_char="0">
+				<ORIGINAL_TEXT>Arab leaders and head of delegations attend the 28th Ordinary Summit of the Arab League at the Dead Sea, Jordan, March 29, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">Arab</TOKEN>
+				<TOKEN end_char="11" id="token-0-1" start_char="5">leaders</TOKEN>
+				<TOKEN end_char="15" id="token-0-2" start_char="13">and</TOKEN>
+				<TOKEN end_char="20" id="token-0-3" start_char="17">head</TOKEN>
+				<TOKEN end_char="23" id="token-0-4" start_char="22">of</TOKEN>
+				<TOKEN end_char="35" id="token-0-5" start_char="25">delegations</TOKEN>
+				<TOKEN end_char="42" id="token-0-6" start_char="37">attend</TOKEN>
+				<TOKEN end_char="46" id="token-0-7" start_char="44">the</TOKEN>
+				<TOKEN end_char="51" id="token-0-8" start_char="48">28th</TOKEN>
+				<TOKEN end_char="60" id="token-0-9" start_char="53">Ordinary</TOKEN>
+				<TOKEN end_char="67" id="token-0-10" start_char="62">Summit</TOKEN>
+				<TOKEN end_char="70" id="token-0-11" start_char="69">of</TOKEN>
+				<TOKEN end_char="74" id="token-0-12" start_char="72">the</TOKEN>
+				<TOKEN end_char="79" id="token-0-13" start_char="76">Arab</TOKEN>
+				<TOKEN end_char="86" id="token-0-14" start_char="81">League</TOKEN>
+				<TOKEN end_char="89" id="token-0-15" start_char="88">at</TOKEN>
+				<TOKEN end_char="93" id="token-0-16" start_char="91">the</TOKEN>
+				<TOKEN end_char="98" id="token-0-17" start_char="95">Dead</TOKEN>
+				<TOKEN end_char="102" id="token-0-18" start_char="100">Sea</TOKEN>
+				<TOKEN end_char="103" id="token-0-19" start_char="103">,</TOKEN>
+				<TOKEN end_char="110" id="token-0-20" start_char="105">Jordan</TOKEN>
+				<TOKEN end_char="111" id="token-0-21" start_char="111">,</TOKEN>
+				<TOKEN end_char="117" id="token-0-22" start_char="113">March</TOKEN>
+				<TOKEN end_char="120" id="token-0-23" start_char="119">29</TOKEN>
+				<TOKEN end_char="121" id="token-0-24" start_char="121">,</TOKEN>
+				<TOKEN end_char="126" id="token-0-25" start_char="123">2017</TOKEN>
+				<TOKEN end_char="127" id="token-0-26" start_char="127">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

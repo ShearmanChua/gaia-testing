@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_17_3904403_0">
+		<TEXT>
+			<SEG end_char="65" id="VOA_EN_NW_2017_06_17_3904403_0-0" start_char="0">
+				<ORIGINAL_TEXT>A Taxify driver enters his car in Tallinn, Estonia, June 13, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="0" id="token-0-0" start_char="0">A</TOKEN>
+				<TOKEN end_char="7" id="token-0-1" start_char="2">Taxify</TOKEN>
+				<TOKEN end_char="14" id="token-0-2" start_char="9">driver</TOKEN>
+				<TOKEN end_char="21" id="token-0-3" start_char="16">enters</TOKEN>
+				<TOKEN end_char="25" id="token-0-4" start_char="23">his</TOKEN>
+				<TOKEN end_char="29" id="token-0-5" start_char="27">car</TOKEN>
+				<TOKEN end_char="32" id="token-0-6" start_char="31">in</TOKEN>
+				<TOKEN end_char="40" id="token-0-7" start_char="34">Tallinn</TOKEN>
+				<TOKEN end_char="41" id="token-0-8" start_char="41">,</TOKEN>
+				<TOKEN end_char="49" id="token-0-9" start_char="43">Estonia</TOKEN>
+				<TOKEN end_char="50" id="token-0-10" start_char="50">,</TOKEN>
+				<TOKEN end_char="55" id="token-0-11" start_char="52">June</TOKEN>
+				<TOKEN end_char="58" id="token-0-12" start_char="57">13</TOKEN>
+				<TOKEN end_char="59" id="token-0-13" start_char="59">,</TOKEN>
+				<TOKEN end_char="64" id="token-0-14" start_char="61">2017</TOKEN>
+				<TOKEN end_char="65" id="token-0-15" start_char="65">.</TOKEN>
+			</SEG>
+			<SEG end_char="133" id="VOA_EN_NW_2017_06_17_3904403_0-1" start_char="67">
+				<ORIGINAL_TEXT>The Estonia upstart is hoping to win over drivers and take on Uber.</ORIGINAL_TEXT>
+				<TOKEN end_char="69" id="token-1-0" start_char="67">The</TOKEN>
+				<TOKEN end_char="77" id="token-1-1" start_char="71">Estonia</TOKEN>
+				<TOKEN end_char="85" id="token-1-2" start_char="79">upstart</TOKEN>
+				<TOKEN end_char="88" id="token-1-3" start_char="87">is</TOKEN>
+				<TOKEN end_char="95" id="token-1-4" start_char="90">hoping</TOKEN>
+				<TOKEN end_char="98" id="token-1-5" start_char="97">to</TOKEN>
+				<TOKEN end_char="102" id="token-1-6" start_char="100">win</TOKEN>
+				<TOKEN end_char="107" id="token-1-7" start_char="104">over</TOKEN>
+				<TOKEN end_char="115" id="token-1-8" start_char="109">drivers</TOKEN>
+				<TOKEN end_char="119" id="token-1-9" start_char="117">and</TOKEN>
+				<TOKEN end_char="124" id="token-1-10" start_char="121">take</TOKEN>
+				<TOKEN end_char="127" id="token-1-11" start_char="126">on</TOKEN>
+				<TOKEN end_char="132" id="token-1-12" start_char="129">Uber</TOKEN>
+				<TOKEN end_char="133" id="token-1-13" start_char="133">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

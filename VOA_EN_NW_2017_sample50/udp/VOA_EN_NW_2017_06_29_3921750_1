@@ -1,0 +1,26 @@
+1	Germany	Germany	ADJ	JJ	Degree=Pos	2	amod	_	VOA_EN_NW_2017_06_29_3921750_1:0-6
+2	'	'	NOUN	NNS	Number=Plur	4	nmod:poss	_	VOA_EN_NW_2017_06_29_3921750_1:7-7
+3	s	's	PART	POS	_	2	case	_	VOA_EN_NW_2017_06_29_3921750_1:8-8
+4	candidate	candidate	NOUN	NN	Number=Sing	9	compound	_	VOA_EN_NW_2017_06_29_3921750_1:10-18
+5	for	for	ADP	IN	_	6	case	_	VOA_EN_NW_2017_06_29_3921750_1:20-22
+6	chancellor	chancellor	NOUN	NN	Number=Sing	4	nmod	_	VOA_EN_NW_2017_06_29_3921750_1:24-33
+7	Martin	Martin	PROPN	NNP	Number=Sing	9	compound	_	VOA_EN_NW_2017_06_29_3921750_1:35-40
+8	Schulz	Schulz	PROPN	NNP	Number=Sing	7	flat	_	VOA_EN_NW_2017_06_29_3921750_1:42-47
+9	talks	talk	NOUN	NNS	Number=Plur	0	root	_	VOA_EN_NW_2017_06_29_3921750_1:49-53
+10	to	to	ADP	IN	_	11	case	_	VOA_EN_NW_2017_06_29_3921750_1:55-56
+11	journalists	journalist	NOUN	NNS	Number=Plur	9	nmod	_	VOA_EN_NW_2017_06_29_3921750_1:58-68
+12	after	after	ADP	IN	_	15	case	_	VOA_EN_NW_2017_06_29_3921750_1:70-74
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	VOA_EN_NW_2017_06_29_3921750_1:76-76
+14	news	news	NOUN	NN	Number=Sing	15	compound	_	VOA_EN_NW_2017_06_29_3921750_1:78-81
+15	conference	conference	NOUN	NN	Number=Sing	9	nmod	_	VOA_EN_NW_2017_06_29_3921750_1:83-92
+16	in	in	ADP	IN	_	17	case	_	VOA_EN_NW_2017_06_29_3921750_1:94-95
+17	Berlin	Berlin	PROPN	NNP	Number=Sing	15	nmod	_	VOA_EN_NW_2017_06_29_3921750_1:97-102
+18	,	,	PUNCT	,	_	17	punct	_	VOA_EN_NW_2017_06_29_3921750_1:103-103
+19	Germany	Germany	PROPN	NNP	Number=Sing	17	appos	_	VOA_EN_NW_2017_06_29_3921750_1:105-111
+20	,	,	PUNCT	,	_	17	punct	_	VOA_EN_NW_2017_06_29_3921750_1:112-112
+21	June	June	PROPN	NNP	Number=Sing	17	appos	_	VOA_EN_NW_2017_06_29_3921750_1:114-117
+22	27	27	NUM	CD	NumType=Card	21	nummod	_	VOA_EN_NW_2017_06_29_3921750_1:119-120
+23	,	,	PUNCT	,	_	15	punct	_	VOA_EN_NW_2017_06_29_3921750_1:121-121
+24	2017	2017	NUM	CD	NumType=Card	15	nummod	_	VOA_EN_NW_2017_06_29_3921750_1:123-126
+25	.	.	PUNCT	.	_	9	punct	_	VOA_EN_NW_2017_06_29_3921750_1:127-127
+

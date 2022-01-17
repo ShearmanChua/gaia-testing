@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_19_3907026_0">
+		<TEXT>
+			<SEG end_char="158" id="VOA_EN_NW_2017_06_19_3907026_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - A U.S. Navy F/A-18E Super Hornet launches from the flight deck of the aircraft carrier USS Dwight D. Eisenhower in the Mediterranean Sea, June 28, 2016.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="7" id="token-0-2" start_char="7">A</TOKEN>
+				<TOKEN end_char="9" id="token-0-3" start_char="9">U</TOKEN>
+				<TOKEN end_char="10" id="token-0-4" start_char="10">.</TOKEN>
+				<TOKEN end_char="11" id="token-0-5" start_char="11">S</TOKEN>
+				<TOKEN end_char="12" id="token-0-6" start_char="12">.</TOKEN>
+				<TOKEN end_char="17" id="token-0-7" start_char="14">Navy</TOKEN>
+				<TOKEN end_char="19" id="token-0-8" start_char="19">F</TOKEN>
+				<TOKEN end_char="20" id="token-0-9" start_char="20">/</TOKEN>
+				<TOKEN end_char="21" id="token-0-10" start_char="21">A</TOKEN>
+				<TOKEN end_char="22" id="token-0-11" start_char="22">-</TOKEN>
+				<TOKEN end_char="25" id="token-0-12" start_char="23">18E</TOKEN>
+				<TOKEN end_char="31" id="token-0-13" start_char="27">Super</TOKEN>
+				<TOKEN end_char="38" id="token-0-14" start_char="33">Hornet</TOKEN>
+				<TOKEN end_char="47" id="token-0-15" start_char="40">launches</TOKEN>
+				<TOKEN end_char="52" id="token-0-16" start_char="49">from</TOKEN>
+				<TOKEN end_char="56" id="token-0-17" start_char="54">the</TOKEN>
+				<TOKEN end_char="63" id="token-0-18" start_char="58">flight</TOKEN>
+				<TOKEN end_char="68" id="token-0-19" start_char="65">deck</TOKEN>
+				<TOKEN end_char="71" id="token-0-20" start_char="70">of</TOKEN>
+				<TOKEN end_char="75" id="token-0-21" start_char="73">the</TOKEN>
+				<TOKEN end_char="84" id="token-0-22" start_char="77">aircraft</TOKEN>
+				<TOKEN end_char="92" id="token-0-23" start_char="86">carrier</TOKEN>
+				<TOKEN end_char="96" id="token-0-24" start_char="94">USS</TOKEN>
+				<TOKEN end_char="103" id="token-0-25" start_char="98">Dwight</TOKEN>
+				<TOKEN end_char="105" id="token-0-26" start_char="105">D</TOKEN>
+				<TOKEN end_char="106" id="token-0-27" start_char="106">.</TOKEN>
+				<TOKEN end_char="117" id="token-0-28" start_char="108">Eisenhower</TOKEN>
+				<TOKEN end_char="120" id="token-0-29" start_char="119">in</TOKEN>
+				<TOKEN end_char="124" id="token-0-30" start_char="122">the</TOKEN>
+				<TOKEN end_char="138" id="token-0-31" start_char="126">Mediterranean</TOKEN>
+				<TOKEN end_char="142" id="token-0-32" start_char="140">Sea</TOKEN>
+				<TOKEN end_char="143" id="token-0-33" start_char="143">,</TOKEN>
+				<TOKEN end_char="148" id="token-0-34" start_char="145">June</TOKEN>
+				<TOKEN end_char="151" id="token-0-35" start_char="150">28</TOKEN>
+				<TOKEN end_char="152" id="token-0-36" start_char="152">,</TOKEN>
+				<TOKEN end_char="157" id="token-0-37" start_char="154">2016</TOKEN>
+				<TOKEN end_char="158" id="token-0-38" start_char="158">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

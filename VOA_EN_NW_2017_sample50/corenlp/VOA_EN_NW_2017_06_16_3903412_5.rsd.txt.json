@@ -1,0 +1,378 @@
+{
+  "docId": "VOA_EN_NW_2017_06_16_3903412_5.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 10,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "German",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 50,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 11,
+          "tokenBegin": 10,
+          "tokenEnd": 11,
+          "text": "Chancellor",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 61,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 13,
+          "tokenBegin": 11,
+          "tokenEnd": 13,
+          "text": "Helmut Kohl",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 73,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 14,
+          "docTokenEnd": 15,
+          "tokenBegin": 14,
+          "tokenEnd": 15,
+          "text": "Oggersheim",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 87,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "Germany",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 96,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 22,
+          "tokenBegin": 18,
+          "tokenEnd": 22,
+          "text": "June 16, 2017",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 111,
+          "ner": "DATE",
+          "normalizedNER": "2017-06-16",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-16"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Flowers",
+          "originalText": "Flowers",
+          "lemma": "flower",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 7,
+          "pos": "NNS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "sit",
+          "originalText": "sit",
+          "lemma": "sit",
+          "characterOffsetBegin": 8,
+          "characterOffsetEnd": 11,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 14,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "front",
+          "originalText": "front",
+          "lemma": "front",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 20,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 23,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 27,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "house",
+          "originalText": "house",
+          "lemma": "house",
+          "characterOffsetBegin": 28,
+          "characterOffsetEnd": 33,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 36,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "former",
+          "originalText": "former",
+          "lemma": "former",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 43,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "German",
+          "originalText": "German",
+          "lemma": "German",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 50,
+          "pos": "NNP",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Chancellor",
+          "originalText": "Chancellor",
+          "lemma": "Chancellor",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 61,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Helmut",
+          "originalText": "Helmut",
+          "lemma": "Helmut",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 68,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Kohl",
+          "originalText": "Kohl",
+          "lemma": "Kohl",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 73,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 76,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Oggersheim",
+          "originalText": "Oggersheim",
+          "lemma": "Oggersheim",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 87,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 88,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Germany",
+          "originalText": "Germany",
+          "lemma": "Germany",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 96,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 97,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 102,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-16",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-16"
+          }
+        },
+        {
+          "index": 20,
+          "word": "16",
+          "originalText": "16",
+          "lemma": "16",
+          "characterOffsetBegin": 103,
+          "characterOffsetEnd": 105,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-16"
+          }
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 106,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-16",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-16"
+          }
+        },
+        {
+          "index": 22,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 111,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-16"
+          }
+        },
+        {
+          "index": 23,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 112,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

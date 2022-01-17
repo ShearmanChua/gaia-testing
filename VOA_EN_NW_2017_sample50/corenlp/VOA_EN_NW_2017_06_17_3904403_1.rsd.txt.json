@@ -1,0 +1,607 @@
+{
+  "docId": "VOA_EN_NW_2017_06_17_3904403_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 2,
+          "tokenBegin": 1,
+          "tokenEnd": 2,
+          "text": "CEO",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 10,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 4,
+          "tokenBegin": 2,
+          "tokenEnd": 4,
+          "text": "Markus Villig",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 24,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 12,
+          "tokenBegin": 11,
+          "tokenEnd": 12,
+          "text": "18",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "ner": "NUMBER",
+          "normalizedNER": "~18.0"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 17,
+          "tokenBegin": 15,
+          "tokenEnd": 17,
+          "text": "Eastern Europe",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 99,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 19,
+          "tokenBegin": 18,
+          "tokenEnd": 19,
+          "text": "Africa",
+          "characterOffsetBegin": 104,
+          "characterOffsetEnd": 110,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 6,
+          "tokenBegin": 5,
+          "tokenEnd": 6,
+          "text": "his",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 33,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Taxify",
+          "originalText": "Taxify",
+          "lemma": "Taxify",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "pos": "NNP",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "CEO",
+          "originalText": "CEO",
+          "lemma": "CEO",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 10,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Markus",
+          "originalText": "Markus",
+          "lemma": "Markus",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 17,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Villig",
+          "originalText": "Villig",
+          "lemma": "Villig",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 24,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "says",
+          "originalText": "says",
+          "lemma": "say",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 29,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "his",
+          "originalText": "his",
+          "lemma": "he",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 33,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "company",
+          "originalText": "company",
+          "lemma": "company",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 41,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 44,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "launching",
+          "originalText": "launching",
+          "lemma": "launch",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 54,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 57,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "about",
+          "originalText": "about",
+          "lemma": "about",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 63,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "18",
+          "originalText": "18",
+          "lemma": "18",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "pos": "CD",
+          "ner": "NUMBER",
+          "normalizedNER": "~18.0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "countries",
+          "originalText": "countries",
+          "lemma": "country",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 76,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 77,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "mainly",
+          "originalText": "mainly",
+          "lemma": "mainly",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 84,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Eastern",
+          "originalText": "Eastern",
+          "lemma": "Eastern",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 92,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Europe",
+          "originalText": "Europe",
+          "lemma": "Europe",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 99,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 103,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Africa",
+          "originalText": "Africa",
+          "lemma": "Africa",
+          "characterOffsetBegin": 104,
+          "characterOffsetEnd": 110,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 110,
+          "characterOffsetEnd": 111,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 29,
+          "docTokenEnd": 30,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "Tallinn",
+          "characterOffsetBegin": 161,
+          "characterOffsetEnd": 168,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 31,
+          "docTokenEnd": 32,
+          "tokenBegin": 11,
+          "tokenEnd": 12,
+          "text": "Estonia",
+          "characterOffsetBegin": 170,
+          "characterOffsetEnd": 177,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 33,
+          "docTokenEnd": 37,
+          "tokenBegin": 13,
+          "tokenEnd": 17,
+          "text": "June 13, 2017",
+          "characterOffsetBegin": 179,
+          "characterOffsetEnd": 192,
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 21,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "He",
+          "characterOffsetBegin": 112,
+          "characterOffsetEnd": 114,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "He",
+          "originalText": "He",
+          "lemma": "he",
+          "characterOffsetBegin": 112,
+          "characterOffsetEnd": 114,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 117,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "shown",
+          "originalText": "shown",
+          "lemma": "show",
+          "characterOffsetBegin": 118,
+          "characterOffsetEnd": 123,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "working",
+          "originalText": "working",
+          "lemma": "work",
+          "characterOffsetBegin": 124,
+          "characterOffsetEnd": 131,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 132,
+          "characterOffsetEnd": 134,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "company",
+          "originalText": "company",
+          "lemma": "company",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 142,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 142,
+          "characterOffsetEnd": 144,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "headquarters",
+          "originalText": "headquarters",
+          "lemma": "headquarters",
+          "characterOffsetBegin": 145,
+          "characterOffsetEnd": 157,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 160,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Tallinn",
+          "originalText": "Tallinn",
+          "lemma": "Tallinn",
+          "characterOffsetBegin": 161,
+          "characterOffsetEnd": 168,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 168,
+          "characterOffsetEnd": 169,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Estonia",
+          "originalText": "Estonia",
+          "lemma": "Estonia",
+          "characterOffsetBegin": 170,
+          "characterOffsetEnd": 177,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 177,
+          "characterOffsetEnd": 178,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 179,
+          "characterOffsetEnd": 183,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 15,
+          "word": "13",
+          "originalText": "13",
+          "lemma": "13",
+          "characterOffsetBegin": 184,
+          "characterOffsetEnd": 186,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 186,
+          "characterOffsetEnd": 187,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 17,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 188,
+          "characterOffsetEnd": 192,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 18,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 192,
+          "characterOffsetEnd": 193,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

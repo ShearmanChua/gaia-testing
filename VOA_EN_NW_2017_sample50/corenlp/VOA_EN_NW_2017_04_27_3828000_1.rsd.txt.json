@@ -1,0 +1,498 @@
+{
+  "docId": "VOA_EN_NW_2017_04_27_3828000_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 5,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "Boss",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 21,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 6,
+          "docTokenEnd": 7,
+          "tokenBegin": 6,
+          "tokenEnd": 7,
+          "text": "Yoovidhya",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 32,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 18,
+          "tokenBegin": 16,
+          "tokenEnd": 18,
+          "text": "Red Bull",
+          "characterOffsetBegin": 92,
+          "characterOffsetEnd": 100,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 24,
+          "docTokenEnd": 25,
+          "tokenBegin": 24,
+          "tokenEnd": 25,
+          "text": "Bangkok",
+          "characterOffsetBegin": 127,
+          "characterOffsetEnd": 134,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 26,
+          "docTokenEnd": 27,
+          "tokenBegin": 26,
+          "tokenEnd": 27,
+          "text": "Thailand",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 144,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 28,
+          "docTokenEnd": 32,
+          "tokenBegin": 28,
+          "tokenEnd": 32,
+          "text": "Sept. 3, 2012",
+          "characterOffsetBegin": 146,
+          "characterOffsetEnd": 159,
+          "ner": "DATE",
+          "normalizedNER": "2012-09-03",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2012-09-03"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Vorayuth",
+          "originalText": "Vorayuth",
+          "lemma": "Vorayuth",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 15,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "``",
+          "originalText": "\"",
+          "lemma": "``",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 17,
+          "pos": "``",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": "Boss",
+          "originalText": "Boss",
+          "lemma": "Boss",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 21,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": "''",
+          "originalText": "\"",
+          "lemma": "''",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 22,
+          "pos": "''",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Yoovidhya",
+          "originalText": "Yoovidhya",
+          "lemma": "Yoovidhya",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 32,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 33,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "center",
+          "originalText": "center",
+          "lemma": "center",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 40,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 10,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 41,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "whose",
+          "originalText": "whose",
+          "lemma": "whose",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 47,
+          "pos": "WP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "grandfather",
+          "originalText": "grandfather",
+          "lemma": "grandfather",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 59,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "co-founded",
+          "originalText": "co-founded",
+          "lemma": "co-found",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 70,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "energy",
+          "originalText": "energy",
+          "lemma": "energy",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 77,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "drink",
+          "originalText": "drink",
+          "lemma": "drink",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 83,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "company",
+          "originalText": "company",
+          "lemma": "company",
+          "characterOffsetBegin": 84,
+          "characterOffsetEnd": 91,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Red",
+          "originalText": "Red",
+          "lemma": "Red",
+          "characterOffsetBegin": 92,
+          "characterOffsetEnd": 95,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Bull",
+          "originalText": "Bull",
+          "lemma": "Bull",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 100,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 101,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 104,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "escorted",
+          "originalText": "escorted",
+          "lemma": "escort",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 113,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "by",
+          "originalText": "by",
+          "lemma": "by",
+          "characterOffsetBegin": 114,
+          "characterOffsetEnd": 116,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "police",
+          "originalText": "police",
+          "lemma": "police",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 123,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 124,
+          "characterOffsetEnd": 126,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "Bangkok",
+          "originalText": "Bangkok",
+          "lemma": "Bangkok",
+          "characterOffsetBegin": 127,
+          "characterOffsetEnd": 134,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 26,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 134,
+          "characterOffsetEnd": 135,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "Thailand",
+          "originalText": "Thailand",
+          "lemma": "Thailand",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 144,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 28,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 144,
+          "characterOffsetEnd": 145,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "Sept.",
+          "originalText": "Sept.",
+          "lemma": "Sept.",
+          "characterOffsetBegin": 146,
+          "characterOffsetEnd": 151,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2012-09-03",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2012-09-03"
+          }
+        },
+        {
+          "index": 30,
+          "word": "3",
+          "originalText": "3",
+          "lemma": "3",
+          "characterOffsetBegin": 152,
+          "characterOffsetEnd": 153,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2012-09-03",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2012-09-03"
+          }
+        },
+        {
+          "index": 31,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 153,
+          "characterOffsetEnd": 154,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2012-09-03",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2012-09-03"
+          }
+        },
+        {
+          "index": 32,
+          "word": "2012",
+          "originalText": "2012",
+          "lemma": "2012",
+          "characterOffsetBegin": 155,
+          "characterOffsetEnd": 159,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2012-09-03",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2012-09-03"
+          }
+        },
+        {
+          "index": 33,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 159,
+          "characterOffsetEnd": 160,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

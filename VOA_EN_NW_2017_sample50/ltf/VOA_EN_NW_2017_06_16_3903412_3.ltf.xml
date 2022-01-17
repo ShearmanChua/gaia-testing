@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_16_3903412_3">
+		<TEXT>
+			<SEG end_char="250" id="VOA_EN_NW_2017_06_16_3903412_3-0" start_char="0">
+				<ORIGINAL_TEXT>FILE German Chancellor Helmut Kohl walks with retired German Air Force General Johannes Steinhoff (frt) and former President Ronald Reagan accompanied by retired U.S. General Matthew Ridgway through the German military cemetary in Bitburg, May 5 1985.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="10" id="token-0-1" start_char="5">German</TOKEN>
+				<TOKEN end_char="21" id="token-0-2" start_char="12">Chancellor</TOKEN>
+				<TOKEN end_char="28" id="token-0-3" start_char="23">Helmut</TOKEN>
+				<TOKEN end_char="33" id="token-0-4" start_char="30">Kohl</TOKEN>
+				<TOKEN end_char="39" id="token-0-5" start_char="35">walks</TOKEN>
+				<TOKEN end_char="44" id="token-0-6" start_char="41">with</TOKEN>
+				<TOKEN end_char="52" id="token-0-7" start_char="46">retired</TOKEN>
+				<TOKEN end_char="59" id="token-0-8" start_char="54">German</TOKEN>
+				<TOKEN end_char="63" id="token-0-9" start_char="61">Air</TOKEN>
+				<TOKEN end_char="69" id="token-0-10" start_char="65">Force</TOKEN>
+				<TOKEN end_char="77" id="token-0-11" start_char="71">General</TOKEN>
+				<TOKEN end_char="86" id="token-0-12" start_char="79">Johannes</TOKEN>
+				<TOKEN end_char="96" id="token-0-13" start_char="88">Steinhoff</TOKEN>
+				<TOKEN end_char="98" id="token-0-14" start_char="98">(</TOKEN>
+				<TOKEN end_char="101" id="token-0-15" start_char="99">frt</TOKEN>
+				<TOKEN end_char="102" id="token-0-16" start_char="102">)</TOKEN>
+				<TOKEN end_char="106" id="token-0-17" start_char="104">and</TOKEN>
+				<TOKEN end_char="113" id="token-0-18" start_char="108">former</TOKEN>
+				<TOKEN end_char="123" id="token-0-19" start_char="115">President</TOKEN>
+				<TOKEN end_char="130" id="token-0-20" start_char="125">Ronald</TOKEN>
+				<TOKEN end_char="137" id="token-0-21" start_char="132">Reagan</TOKEN>
+				<TOKEN end_char="149" id="token-0-22" start_char="139">accompanied</TOKEN>
+				<TOKEN end_char="152" id="token-0-23" start_char="151">by</TOKEN>
+				<TOKEN end_char="160" id="token-0-24" start_char="154">retired</TOKEN>
+				<TOKEN end_char="162" id="token-0-25" start_char="162">U</TOKEN>
+				<TOKEN end_char="163" id="token-0-26" start_char="163">.</TOKEN>
+				<TOKEN end_char="164" id="token-0-27" start_char="164">S</TOKEN>
+				<TOKEN end_char="165" id="token-0-28" start_char="165">.</TOKEN>
+				<TOKEN end_char="173" id="token-0-29" start_char="167">General</TOKEN>
+				<TOKEN end_char="181" id="token-0-30" start_char="175">Matthew</TOKEN>
+				<TOKEN end_char="189" id="token-0-31" start_char="183">Ridgway</TOKEN>
+				<TOKEN end_char="197" id="token-0-32" start_char="191">through</TOKEN>
+				<TOKEN end_char="201" id="token-0-33" start_char="199">the</TOKEN>
+				<TOKEN end_char="208" id="token-0-34" start_char="203">German</TOKEN>
+				<TOKEN end_char="217" id="token-0-35" start_char="210">military</TOKEN>
+				<TOKEN end_char="226" id="token-0-36" start_char="219">cemetary</TOKEN>
+				<TOKEN end_char="229" id="token-0-37" start_char="228">in</TOKEN>
+				<TOKEN end_char="237" id="token-0-38" start_char="231">Bitburg</TOKEN>
+				<TOKEN end_char="238" id="token-0-39" start_char="238">,</TOKEN>
+				<TOKEN end_char="242" id="token-0-40" start_char="240">May</TOKEN>
+				<TOKEN end_char="244" id="token-0-41" start_char="244">5</TOKEN>
+				<TOKEN end_char="249" id="token-0-42" start_char="246">1985</TOKEN>
+				<TOKEN end_char="250" id="token-0-43" start_char="250">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

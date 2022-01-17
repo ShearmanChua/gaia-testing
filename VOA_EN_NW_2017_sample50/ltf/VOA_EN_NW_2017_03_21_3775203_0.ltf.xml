@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_21_3775203_0">
+		<TEXT>
+			<SEG end_char="134" id="VOA_EN_NW_2017_03_21_3775203_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - In this Monday, Feb. 1, 2016, file photo, electronic screens post prices of Alphabet stock at the Nasdaq MarketSite in New York.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="8" id="token-0-2" start_char="7">In</TOKEN>
+				<TOKEN end_char="13" id="token-0-3" start_char="10">this</TOKEN>
+				<TOKEN end_char="20" id="token-0-4" start_char="15">Monday</TOKEN>
+				<TOKEN end_char="21" id="token-0-5" start_char="21">,</TOKEN>
+				<TOKEN end_char="25" id="token-0-6" start_char="23">Feb</TOKEN>
+				<TOKEN end_char="26" id="token-0-7" start_char="26">.</TOKEN>
+				<TOKEN end_char="28" id="token-0-8" start_char="28">1</TOKEN>
+				<TOKEN end_char="29" id="token-0-9" start_char="29">,</TOKEN>
+				<TOKEN end_char="34" id="token-0-10" start_char="31">2016</TOKEN>
+				<TOKEN end_char="35" id="token-0-11" start_char="35">,</TOKEN>
+				<TOKEN end_char="40" id="token-0-12" start_char="37">file</TOKEN>
+				<TOKEN end_char="46" id="token-0-13" start_char="42">photo</TOKEN>
+				<TOKEN end_char="47" id="token-0-14" start_char="47">,</TOKEN>
+				<TOKEN end_char="58" id="token-0-15" start_char="49">electronic</TOKEN>
+				<TOKEN end_char="66" id="token-0-16" start_char="60">screens</TOKEN>
+				<TOKEN end_char="71" id="token-0-17" start_char="68">post</TOKEN>
+				<TOKEN end_char="78" id="token-0-18" start_char="73">prices</TOKEN>
+				<TOKEN end_char="81" id="token-0-19" start_char="80">of</TOKEN>
+				<TOKEN end_char="90" id="token-0-20" start_char="83">Alphabet</TOKEN>
+				<TOKEN end_char="96" id="token-0-21" start_char="92">stock</TOKEN>
+				<TOKEN end_char="99" id="token-0-22" start_char="98">at</TOKEN>
+				<TOKEN end_char="103" id="token-0-23" start_char="101">the</TOKEN>
+				<TOKEN end_char="110" id="token-0-24" start_char="105">Nasdaq</TOKEN>
+				<TOKEN end_char="121" id="token-0-25" start_char="112">MarketSite</TOKEN>
+				<TOKEN end_char="124" id="token-0-26" start_char="123">in</TOKEN>
+				<TOKEN end_char="128" id="token-0-27" start_char="126">New</TOKEN>
+				<TOKEN end_char="133" id="token-0-28" start_char="130">York</TOKEN>
+				<TOKEN end_char="134" id="token-0-29" start_char="134">.</TOKEN>
+			</SEG>
+			<SEG end_char="283" id="VOA_EN_NW_2017_03_21_3775203_0-1" start_char="136">
+				<ORIGINAL_TEXT>An organization affiliated with Google is offering tools for news organizations and other election-related sites to protect themselves from hacking.</ORIGINAL_TEXT>
+				<TOKEN end_char="137" id="token-1-0" start_char="136">An</TOKEN>
+				<TOKEN end_char="150" id="token-1-1" start_char="139">organization</TOKEN>
+				<TOKEN end_char="161" id="token-1-2" start_char="152">affiliated</TOKEN>
+				<TOKEN end_char="166" id="token-1-3" start_char="163">with</TOKEN>
+				<TOKEN end_char="173" id="token-1-4" start_char="168">Google</TOKEN>
+				<TOKEN end_char="176" id="token-1-5" start_char="175">is</TOKEN>
+				<TOKEN end_char="185" id="token-1-6" start_char="178">offering</TOKEN>
+				<TOKEN end_char="191" id="token-1-7" start_char="187">tools</TOKEN>
+				<TOKEN end_char="195" id="token-1-8" start_char="193">for</TOKEN>
+				<TOKEN end_char="200" id="token-1-9" start_char="197">news</TOKEN>
+				<TOKEN end_char="214" id="token-1-10" start_char="202">organizations</TOKEN>
+				<TOKEN end_char="218" id="token-1-11" start_char="216">and</TOKEN>
+				<TOKEN end_char="224" id="token-1-12" start_char="220">other</TOKEN>
+				<TOKEN end_char="233" id="token-1-13" start_char="226">election</TOKEN>
+				<TOKEN end_char="234" id="token-1-14" start_char="234">-</TOKEN>
+				<TOKEN end_char="241" id="token-1-15" start_char="235">related</TOKEN>
+				<TOKEN end_char="247" id="token-1-16" start_char="243">sites</TOKEN>
+				<TOKEN end_char="250" id="token-1-17" start_char="249">to</TOKEN>
+				<TOKEN end_char="258" id="token-1-18" start_char="252">protect</TOKEN>
+				<TOKEN end_char="269" id="token-1-19" start_char="260">themselves</TOKEN>
+				<TOKEN end_char="274" id="token-1-20" start_char="271">from</TOKEN>
+				<TOKEN end_char="282" id="token-1-21" start_char="276">hacking</TOKEN>
+				<TOKEN end_char="283" id="token-1-22" start_char="283">.</TOKEN>
+			</SEG>
+			<SEG end_char="529" id="VOA_EN_NW_2017_03_21_3775203_0-2" start_char="285">
+				<ORIGINAL_TEXT>Jigsaw, a research arm of Google parent company Alphabet Inc., says that free and fair elections depend on access to information, and to ensure such access, news, human rights and election-monitoring sites need to be protected from cyberattacks.</ORIGINAL_TEXT>
+				<TOKEN end_char="290" id="token-2-0" start_char="285">Jigsaw</TOKEN>
+				<TOKEN end_char="291" id="token-2-1" start_char="291">,</TOKEN>
+				<TOKEN end_char="293" id="token-2-2" start_char="293">a</TOKEN>
+				<TOKEN end_char="302" id="token-2-3" start_char="295">research</TOKEN>
+				<TOKEN end_char="306" id="token-2-4" start_char="304">arm</TOKEN>
+				<TOKEN end_char="309" id="token-2-5" start_char="308">of</TOKEN>
+				<TOKEN end_char="316" id="token-2-6" start_char="311">Google</TOKEN>
+				<TOKEN end_char="323" id="token-2-7" start_char="318">parent</TOKEN>
+				<TOKEN end_char="331" id="token-2-8" start_char="325">company</TOKEN>
+				<TOKEN end_char="340" id="token-2-9" start_char="333">Alphabet</TOKEN>
+				<TOKEN end_char="344" id="token-2-10" start_char="342">Inc</TOKEN>
+				<TOKEN end_char="346" id="token-2-11" start_char="345">.,</TOKEN>
+				<TOKEN end_char="351" id="token-2-12" start_char="348">says</TOKEN>
+				<TOKEN end_char="356" id="token-2-13" start_char="353">that</TOKEN>
+				<TOKEN end_char="361" id="token-2-14" start_char="358">free</TOKEN>
+				<TOKEN end_char="365" id="token-2-15" start_char="363">and</TOKEN>
+				<TOKEN end_char="370" id="token-2-16" start_char="367">fair</TOKEN>
+				<TOKEN end_char="380" id="token-2-17" start_char="372">elections</TOKEN>
+				<TOKEN end_char="387" id="token-2-18" start_char="382">depend</TOKEN>
+				<TOKEN end_char="390" id="token-2-19" start_char="389">on</TOKEN>
+				<TOKEN end_char="397" id="token-2-20" start_char="392">access</TOKEN>
+				<TOKEN end_char="400" id="token-2-21" start_char="399">to</TOKEN>
+				<TOKEN end_char="412" id="token-2-22" start_char="402">information</TOKEN>
+				<TOKEN end_char="413" id="token-2-23" start_char="413">,</TOKEN>
+				<TOKEN end_char="417" id="token-2-24" start_char="415">and</TOKEN>
+				<TOKEN end_char="420" id="token-2-25" start_char="419">to</TOKEN>
+				<TOKEN end_char="427" id="token-2-26" start_char="422">ensure</TOKEN>
+				<TOKEN end_char="432" id="token-2-27" start_char="429">such</TOKEN>
+				<TOKEN end_char="439" id="token-2-28" start_char="434">access</TOKEN>
+				<TOKEN end_char="440" id="token-2-29" start_char="440">,</TOKEN>
+				<TOKEN end_char="445" id="token-2-30" start_char="442">news</TOKEN>
+				<TOKEN end_char="446" id="token-2-31" start_char="446">,</TOKEN>
+				<TOKEN end_char="452" id="token-2-32" start_char="448">human</TOKEN>
+				<TOKEN end_char="459" id="token-2-33" start_char="454">rights</TOKEN>
+				<TOKEN end_char="463" id="token-2-34" start_char="461">and</TOKEN>
+				<TOKEN end_char="472" id="token-2-35" start_char="465">election</TOKEN>
+				<TOKEN end_char="473" id="token-2-36" start_char="473">-</TOKEN>
+				<TOKEN end_char="483" id="token-2-37" start_char="474">monitoring</TOKEN>
+				<TOKEN end_char="489" id="token-2-38" start_char="485">sites</TOKEN>
+				<TOKEN end_char="494" id="token-2-39" start_char="491">need</TOKEN>
+				<TOKEN end_char="497" id="token-2-40" start_char="496">to</TOKEN>
+				<TOKEN end_char="500" id="token-2-41" start_char="499">be</TOKEN>
+				<TOKEN end_char="510" id="token-2-42" start_char="502">protected</TOKEN>
+				<TOKEN end_char="515" id="token-2-43" start_char="512">from</TOKEN>
+				<TOKEN end_char="528" id="token-2-44" start_char="517">cyberattacks</TOKEN>
+				<TOKEN end_char="529" id="token-2-45" start_char="529">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

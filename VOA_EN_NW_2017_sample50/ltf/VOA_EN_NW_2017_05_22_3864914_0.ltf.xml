@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_22_3864914_0">
+		<TEXT>
+			<SEG end_char="231" id="VOA_EN_NW_2017_05_22_3864914_0-0" start_char="0">
+				<ORIGINAL_TEXT>A combination of file photos shows Donald Trump (L) speaking at a campaign event in Charlotte, North Carolina, July 26, 2016, and Pope Francis looking on during his Wednesday general audience at Saint Peter's Square, March 19, 2014.</ORIGINAL_TEXT>
+				<TOKEN end_char="0" id="token-0-0" start_char="0">A</TOKEN>
+				<TOKEN end_char="12" id="token-0-1" start_char="2">combination</TOKEN>
+				<TOKEN end_char="15" id="token-0-2" start_char="14">of</TOKEN>
+				<TOKEN end_char="20" id="token-0-3" start_char="17">file</TOKEN>
+				<TOKEN end_char="27" id="token-0-4" start_char="22">photos</TOKEN>
+				<TOKEN end_char="33" id="token-0-5" start_char="29">shows</TOKEN>
+				<TOKEN end_char="40" id="token-0-6" start_char="35">Donald</TOKEN>
+				<TOKEN end_char="46" id="token-0-7" start_char="42">Trump</TOKEN>
+				<TOKEN end_char="48" id="token-0-8" start_char="48">(</TOKEN>
+				<TOKEN end_char="49" id="token-0-9" start_char="49">L</TOKEN>
+				<TOKEN end_char="50" id="token-0-10" start_char="50">)</TOKEN>
+				<TOKEN end_char="59" id="token-0-11" start_char="52">speaking</TOKEN>
+				<TOKEN end_char="62" id="token-0-12" start_char="61">at</TOKEN>
+				<TOKEN end_char="64" id="token-0-13" start_char="64">a</TOKEN>
+				<TOKEN end_char="73" id="token-0-14" start_char="66">campaign</TOKEN>
+				<TOKEN end_char="79" id="token-0-15" start_char="75">event</TOKEN>
+				<TOKEN end_char="82" id="token-0-16" start_char="81">in</TOKEN>
+				<TOKEN end_char="92" id="token-0-17" start_char="84">Charlotte</TOKEN>
+				<TOKEN end_char="93" id="token-0-18" start_char="93">,</TOKEN>
+				<TOKEN end_char="99" id="token-0-19" start_char="95">North</TOKEN>
+				<TOKEN end_char="108" id="token-0-20" start_char="101">Carolina</TOKEN>
+				<TOKEN end_char="109" id="token-0-21" start_char="109">,</TOKEN>
+				<TOKEN end_char="114" id="token-0-22" start_char="111">July</TOKEN>
+				<TOKEN end_char="117" id="token-0-23" start_char="116">26</TOKEN>
+				<TOKEN end_char="118" id="token-0-24" start_char="118">,</TOKEN>
+				<TOKEN end_char="123" id="token-0-25" start_char="120">2016</TOKEN>
+				<TOKEN end_char="124" id="token-0-26" start_char="124">,</TOKEN>
+				<TOKEN end_char="128" id="token-0-27" start_char="126">and</TOKEN>
+				<TOKEN end_char="133" id="token-0-28" start_char="130">Pope</TOKEN>
+				<TOKEN end_char="141" id="token-0-29" start_char="135">Francis</TOKEN>
+				<TOKEN end_char="149" id="token-0-30" start_char="143">looking</TOKEN>
+				<TOKEN end_char="152" id="token-0-31" start_char="151">on</TOKEN>
+				<TOKEN end_char="159" id="token-0-32" start_char="154">during</TOKEN>
+				<TOKEN end_char="163" id="token-0-33" start_char="161">his</TOKEN>
+				<TOKEN end_char="173" id="token-0-34" start_char="165">Wednesday</TOKEN>
+				<TOKEN end_char="181" id="token-0-35" start_char="175">general</TOKEN>
+				<TOKEN end_char="190" id="token-0-36" start_char="183">audience</TOKEN>
+				<TOKEN end_char="193" id="token-0-37" start_char="192">at</TOKEN>
+				<TOKEN end_char="199" id="token-0-38" start_char="195">Saint</TOKEN>
+				<TOKEN end_char="205" id="token-0-39" start_char="201">Peter</TOKEN>
+				<TOKEN end_char="206" id="token-0-40" start_char="206">'</TOKEN>
+				<TOKEN end_char="207" id="token-0-41" start_char="207">s</TOKEN>
+				<TOKEN end_char="214" id="token-0-42" start_char="209">Square</TOKEN>
+				<TOKEN end_char="215" id="token-0-43" start_char="215">,</TOKEN>
+				<TOKEN end_char="221" id="token-0-44" start_char="217">March</TOKEN>
+				<TOKEN end_char="224" id="token-0-45" start_char="223">19</TOKEN>
+				<TOKEN end_char="225" id="token-0-46" start_char="225">,</TOKEN>
+				<TOKEN end_char="230" id="token-0-47" start_char="227">2014</TOKEN>
+				<TOKEN end_char="231" id="token-0-48" start_char="231">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

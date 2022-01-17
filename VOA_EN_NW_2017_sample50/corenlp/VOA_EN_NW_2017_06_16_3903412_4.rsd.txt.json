@@ -1,0 +1,648 @@
+{
+  "docId": "VOA_EN_NW_2017_06_16_3903412_4.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 2,
+          "tokenBegin": 0,
+          "tokenEnd": 2,
+          "text": "Helmut Kohl",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 11,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 5,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "German",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 26,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 6,
+          "tokenBegin": 5,
+          "tokenEnd": 6,
+          "text": "Chancellor",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 37,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 26,
+          "docTokenEnd": 27,
+          "tokenBegin": 26,
+          "tokenEnd": 27,
+          "text": "Erinnerungen",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 148,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 27,
+          "docTokenEnd": 28,
+          "tokenBegin": 27,
+          "tokenEnd": 28,
+          "text": "1982-1990",
+          "characterOffsetBegin": 149,
+          "characterOffsetEnd": 158,
+          "ner": "DATE",
+          "normalizedNER": "PT70128H",
+          "timex": {
+            "tid": "t3",
+            "type": "DURATION",
+            "value": "PT70128H"
+          }
+        },
+        {
+          "docTokenBegin": 31,
+          "docTokenEnd": 32,
+          "tokenBegin": 31,
+          "tokenEnd": 32,
+          "text": "1982-1990",
+          "characterOffsetBegin": 170,
+          "characterOffsetEnd": 179,
+          "ner": "DURATION",
+          "normalizedNER": "PT70128H",
+          "timex": {
+            "tid": "t6",
+            "type": "DURATION",
+            "value": "PT70128H"
+          }
+        },
+        {
+          "docTokenBegin": 34,
+          "docTokenEnd": 35,
+          "tokenBegin": 34,
+          "tokenEnd": 35,
+          "text": "Berlin",
+          "characterOffsetBegin": 184,
+          "characterOffsetEnd": 190,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 36,
+          "docTokenEnd": 40,
+          "tokenBegin": 36,
+          "tokenEnd": 40,
+          "text": "Nov. 2, 2005",
+          "characterOffsetBegin": 192,
+          "characterOffsetEnd": 204,
+          "ner": "DATE",
+          "normalizedNER": "2005-11-02",
+          "timex": {
+            "tid": "t7",
+            "type": "DATE",
+            "value": "2005-11-02"
+          }
+        },
+        {
+          "docTokenBegin": 21,
+          "docTokenEnd": 22,
+          "tokenBegin": 21,
+          "tokenEnd": 22,
+          "text": "his",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 124,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Helmut",
+          "originalText": "Helmut",
+          "lemma": "Helmut",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Kohl",
+          "originalText": "Kohl",
+          "lemma": "Kohl",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 11,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 12,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "former",
+          "originalText": "former",
+          "lemma": "former",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 19,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "German",
+          "originalText": "German",
+          "lemma": "German",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 26,
+          "pos": "NNP",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Chancellor",
+          "originalText": "Chancellor",
+          "lemma": "Chancellor",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 37,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "sits",
+          "originalText": "sits",
+          "lemma": "sit",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 42,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 43,
+          "characterOffsetEnd": 45,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "front",
+          "originalText": "front",
+          "lemma": "front",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 51,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 54,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 56,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "large",
+          "originalText": "large",
+          "lemma": "large",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 62,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "photograph",
+          "originalText": "photograph",
+          "lemma": "photograph",
+          "characterOffsetBegin": 63,
+          "characterOffsetEnd": 73,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 76,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "himself",
+          "originalText": "himself",
+          "lemma": "himself",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 84,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "during",
+          "originalText": "during",
+          "lemma": "during",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 91,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 92,
+          "characterOffsetEnd": 93,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "news",
+          "originalText": "news",
+          "lemma": "news",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 98,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "conference",
+          "originalText": "conference",
+          "lemma": "conference",
+          "characterOffsetBegin": 99,
+          "characterOffsetEnd": 109,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 110,
+          "characterOffsetEnd": 112,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "promote",
+          "originalText": "promote",
+          "lemma": "promote",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 120,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "his",
+          "originalText": "his",
+          "lemma": "he",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 124,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "new",
+          "originalText": "new",
+          "lemma": "new",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 128,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "book",
+          "originalText": "book",
+          "lemma": "book",
+          "characterOffsetBegin": 129,
+          "characterOffsetEnd": 133,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 133,
+          "characterOffsetEnd": 134,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "`",
+          "originalText": "'",
+          "lemma": "`",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 136,
+          "pos": "``",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": "Erinnerungen",
+          "originalText": "Erinnerungen",
+          "lemma": "erinnerungen",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 148,
+          "pos": "NN",
+          "ner": "PERSON",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "1982-1990",
+          "originalText": "1982-1990",
+          "lemma": "1982-1990",
+          "characterOffsetBegin": 149,
+          "characterOffsetEnd": 158,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "PT70128H",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t3",
+            "type": "DURATION",
+            "value": "PT70128H"
+          }
+        },
+        {
+          "index": 29,
+          "word": "'",
+          "originalText": "'",
+          "lemma": "'",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 159,
+          "pos": "''",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "-LRB-",
+          "originalText": "(",
+          "lemma": "-lrb-",
+          "characterOffsetBegin": 160,
+          "characterOffsetEnd": 161,
+          "pos": "-LRB-",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 31,
+          "word": "Memories",
+          "originalText": "Memories",
+          "lemma": "Memories",
+          "characterOffsetBegin": 161,
+          "characterOffsetEnd": 169,
+          "pos": "NNP",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 32,
+          "word": "1982-1990",
+          "originalText": "1982-1990",
+          "lemma": "1982-1990",
+          "characterOffsetBegin": 170,
+          "characterOffsetEnd": 179,
+          "pos": "CD",
+          "ner": "DURATION",
+          "normalizedNER": "PT70128H",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t6",
+            "type": "DURATION",
+            "value": "PT70128H"
+          }
+        },
+        {
+          "index": 33,
+          "word": "-RRB-",
+          "originalText": ")",
+          "lemma": "-rrb-",
+          "characterOffsetBegin": 179,
+          "characterOffsetEnd": 180,
+          "pos": "-RRB-",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 34,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 183,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 35,
+          "word": "Berlin",
+          "originalText": "Berlin",
+          "lemma": "Berlin",
+          "characterOffsetBegin": 184,
+          "characterOffsetEnd": 190,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 36,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 190,
+          "characterOffsetEnd": 191,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 37,
+          "word": "Nov.",
+          "originalText": "Nov.",
+          "lemma": "Nov.",
+          "characterOffsetBegin": 192,
+          "characterOffsetEnd": 196,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2005-11-02",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t7",
+            "type": "DATE",
+            "value": "2005-11-02"
+          }
+        },
+        {
+          "index": 38,
+          "word": "2",
+          "originalText": "2",
+          "lemma": "2",
+          "characterOffsetBegin": 197,
+          "characterOffsetEnd": 198,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2005-11-02",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t7",
+            "type": "DATE",
+            "value": "2005-11-02"
+          }
+        },
+        {
+          "index": 39,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 198,
+          "characterOffsetEnd": 199,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2005-11-02",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t7",
+            "type": "DATE",
+            "value": "2005-11-02"
+          }
+        },
+        {
+          "index": 40,
+          "word": "2005",
+          "originalText": "2005",
+          "lemma": "2005",
+          "characterOffsetBegin": 200,
+          "characterOffsetEnd": 204,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2005-11-02",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t7",
+            "type": "DATE",
+            "value": "2005-11-02"
+          }
+        },
+        {
+          "index": 41,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 204,
+          "characterOffsetEnd": 205,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

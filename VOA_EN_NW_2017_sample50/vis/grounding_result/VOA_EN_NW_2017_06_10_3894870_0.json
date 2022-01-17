@@ -1,0 +1,25 @@
+{
+    "http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_06_10_3894870_0/EN_Entity_EDL_0000331": {
+        "offset": [
+            "VOA_EN_NW_2017_06_10_3894870_0:11-35"
+        ],
+        "bboxs": [
+            "VOA_EN_NW_2017_06_10_3894870_0-411-936-5128-3394.png"
+        ],
+        "bboxs_confidence": [
+            "0.8654124"
+        ]
+    },
+    "http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_06_10_3894870_0/EN_Entity_EDL_0000332": {
+        "offset": [
+            "VOA_EN_NW_2017_06_10_3894870_0:45-64",
+            "VOA_EN_NW_2017_06_10_3894870_0:40-43"
+        ],
+        "bboxs": [
+            "VOA_EN_NW_2017_06_10_3894870_0-344-876-5150-3396.png"
+        ],
+        "bboxs_confidence": [
+            "0.5370567"
+        ]
+    }
+}

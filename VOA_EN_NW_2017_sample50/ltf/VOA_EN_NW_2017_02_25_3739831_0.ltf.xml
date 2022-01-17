@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_02_25_3739831_0">
+		<TEXT>
+			<SEG end_char="200" id="VOA_EN_NW_2017_02_25_3739831_0-0" start_char="0">
+				<ORIGINAL_TEXT>A handout picture released by the Iraqi Prime Minister's press office on February 25, 2017, shows Iraqi Prime Minister Haider al-Abadi (R) meeting with Saudi Foreign Minister Adel al-Jubeir in Baghdad.</ORIGINAL_TEXT>
+				<TOKEN end_char="0" id="token-0-0" start_char="0">A</TOKEN>
+				<TOKEN end_char="8" id="token-0-1" start_char="2">handout</TOKEN>
+				<TOKEN end_char="16" id="token-0-2" start_char="10">picture</TOKEN>
+				<TOKEN end_char="25" id="token-0-3" start_char="18">released</TOKEN>
+				<TOKEN end_char="28" id="token-0-4" start_char="27">by</TOKEN>
+				<TOKEN end_char="32" id="token-0-5" start_char="30">the</TOKEN>
+				<TOKEN end_char="38" id="token-0-6" start_char="34">Iraqi</TOKEN>
+				<TOKEN end_char="44" id="token-0-7" start_char="40">Prime</TOKEN>
+				<TOKEN end_char="53" id="token-0-8" start_char="46">Minister</TOKEN>
+				<TOKEN end_char="54" id="token-0-9" start_char="54">'</TOKEN>
+				<TOKEN end_char="55" id="token-0-10" start_char="55">s</TOKEN>
+				<TOKEN end_char="61" id="token-0-11" start_char="57">press</TOKEN>
+				<TOKEN end_char="68" id="token-0-12" start_char="63">office</TOKEN>
+				<TOKEN end_char="71" id="token-0-13" start_char="70">on</TOKEN>
+				<TOKEN end_char="80" id="token-0-14" start_char="73">February</TOKEN>
+				<TOKEN end_char="83" id="token-0-15" start_char="82">25</TOKEN>
+				<TOKEN end_char="84" id="token-0-16" start_char="84">,</TOKEN>
+				<TOKEN end_char="89" id="token-0-17" start_char="86">2017</TOKEN>
+				<TOKEN end_char="90" id="token-0-18" start_char="90">,</TOKEN>
+				<TOKEN end_char="96" id="token-0-19" start_char="92">shows</TOKEN>
+				<TOKEN end_char="102" id="token-0-20" start_char="98">Iraqi</TOKEN>
+				<TOKEN end_char="108" id="token-0-21" start_char="104">Prime</TOKEN>
+				<TOKEN end_char="117" id="token-0-22" start_char="110">Minister</TOKEN>
+				<TOKEN end_char="124" id="token-0-23" start_char="119">Haider</TOKEN>
+				<TOKEN end_char="127" id="token-0-24" start_char="126">al</TOKEN>
+				<TOKEN end_char="128" id="token-0-25" start_char="128">-</TOKEN>
+				<TOKEN end_char="133" id="token-0-26" start_char="129">Abadi</TOKEN>
+				<TOKEN end_char="135" id="token-0-27" start_char="135">(</TOKEN>
+				<TOKEN end_char="136" id="token-0-28" start_char="136">R</TOKEN>
+				<TOKEN end_char="137" id="token-0-29" start_char="137">)</TOKEN>
+				<TOKEN end_char="145" id="token-0-30" start_char="139">meeting</TOKEN>
+				<TOKEN end_char="150" id="token-0-31" start_char="147">with</TOKEN>
+				<TOKEN end_char="156" id="token-0-32" start_char="152">Saudi</TOKEN>
+				<TOKEN end_char="164" id="token-0-33" start_char="158">Foreign</TOKEN>
+				<TOKEN end_char="173" id="token-0-34" start_char="166">Minister</TOKEN>
+				<TOKEN end_char="178" id="token-0-35" start_char="175">Adel</TOKEN>
+				<TOKEN end_char="181" id="token-0-36" start_char="180">al</TOKEN>
+				<TOKEN end_char="182" id="token-0-37" start_char="182">-</TOKEN>
+				<TOKEN end_char="188" id="token-0-38" start_char="183">Jubeir</TOKEN>
+				<TOKEN end_char="191" id="token-0-39" start_char="190">in</TOKEN>
+				<TOKEN end_char="199" id="token-0-40" start_char="193">Baghdad</TOKEN>
+				<TOKEN end_char="200" id="token-0-41" start_char="200">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

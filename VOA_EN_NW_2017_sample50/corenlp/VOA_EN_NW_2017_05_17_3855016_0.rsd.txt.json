@@ -1,0 +1,506 @@
+{
+  "docId": "VOA_EN_NW_2017_05_17_3855016_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 3,
+          "docTokenEnd": 4,
+          "tokenBegin": 3,
+          "tokenEnd": 4,
+          "text": "physician",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 18,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 6,
+          "docTokenEnd": 7,
+          "tokenBegin": 6,
+          "tokenEnd": 7,
+          "text": "CT",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 28,
+          "ner": "STATE_OR_PROVINCE"
+        },
+        {
+          "docTokenBegin": 7,
+          "docTokenEnd": 8,
+          "tokenBegin": 7,
+          "tokenEnd": 8,
+          "text": "scanner",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 36,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 13,
+          "docTokenEnd": 15,
+          "tokenBegin": 13,
+          "tokenEnd": 15,
+          "text": "lung cancer",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 72,
+          "ner": "CAUSE_OF_DEATH"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 21,
+          "tokenBegin": 16,
+          "tokenEnd": 21,
+          "text": "Southern New Hampshire Medical Center",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 113,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 22,
+          "docTokenEnd": 23,
+          "tokenBegin": 22,
+          "tokenEnd": 23,
+          "text": "Nashua",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 123,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 24,
+          "docTokenEnd": 26,
+          "tokenBegin": 24,
+          "tokenEnd": 26,
+          "text": "New Hampshire",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 138,
+          "ner": "STATE_OR_PROVINCE"
+        },
+        {
+          "docTokenBegin": 27,
+          "docTokenEnd": 31,
+          "tokenBegin": 27,
+          "tokenEnd": 31,
+          "text": "June 3, 2010",
+          "characterOffsetBegin": 140,
+          "characterOffsetEnd": 152,
+          "ner": "DATE",
+          "normalizedNER": "2010-06-03",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2010-06-03"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "A",
+          "originalText": "A",
+          "lemma": "a",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 8,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "physician",
+          "originalText": "physician",
+          "lemma": "physician",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 18,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "uses",
+          "originalText": "uses",
+          "lemma": "use",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 23,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 25,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "CT",
+          "originalText": "CT",
+          "lemma": "CT",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 28,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "scanner",
+          "originalText": "scanner",
+          "lemma": "scanner",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 36,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 39,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "screen",
+          "originalText": "screen",
+          "lemma": "screen",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 46,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 48,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "patient",
+          "originalText": "patient",
+          "lemma": "patient",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 56,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "for",
+          "originalText": "for",
+          "lemma": "for",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 60,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "lung",
+          "originalText": "lung",
+          "lemma": "lung",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 65,
+          "pos": "NN",
+          "ner": "CAUSE_OF_DEATH",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "cancer",
+          "originalText": "cancer",
+          "lemma": "cancer",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 72,
+          "pos": "NN",
+          "ner": "CAUSE_OF_DEATH",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 73,
+          "characterOffsetEnd": 75,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Southern",
+          "originalText": "Southern",
+          "lemma": "Southern",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 84,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "New",
+          "originalText": "New",
+          "lemma": "New",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 88,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Hampshire",
+          "originalText": "Hampshire",
+          "lemma": "Hampshire",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 98,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Medical",
+          "originalText": "Medical",
+          "lemma": "Medical",
+          "characterOffsetBegin": 99,
+          "characterOffsetEnd": 106,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Center",
+          "originalText": "Center",
+          "lemma": "Center",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 113,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 114,
+          "characterOffsetEnd": 116,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "Nashua",
+          "originalText": "Nashua",
+          "lemma": "Nashua",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 123,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 124,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "New",
+          "originalText": "New",
+          "lemma": "New",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 128,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "Hampshire",
+          "originalText": "Hampshire",
+          "lemma": "Hampshire",
+          "characterOffsetBegin": 129,
+          "characterOffsetEnd": 138,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 139,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 140,
+          "characterOffsetEnd": 144,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2010-06-03",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2010-06-03"
+          }
+        },
+        {
+          "index": 29,
+          "word": "3",
+          "originalText": "3",
+          "lemma": "3",
+          "characterOffsetBegin": 145,
+          "characterOffsetEnd": 146,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2010-06-03",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2010-06-03"
+          }
+        },
+        {
+          "index": 30,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 146,
+          "characterOffsetEnd": 147,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2010-06-03",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2010-06-03"
+          }
+        },
+        {
+          "index": 31,
+          "word": "2010",
+          "originalText": "2010",
+          "lemma": "2010",
+          "characterOffsetBegin": 148,
+          "characterOffsetEnd": 152,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2010-06-03",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2010-06-03"
+          }
+        },
+        {
+          "index": 32,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 152,
+          "characterOffsetEnd": 153,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

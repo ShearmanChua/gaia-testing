@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_14_3899965_1">
+		<TEXT>
+			<SEG end_char="38" id="VOA_EN_NW_2017_06_14_3899965_1-0" start_char="0">
+				<ORIGINAL_TEXT>Guatemala earthquake map, June 14, 2017</ORIGINAL_TEXT>
+				<TOKEN end_char="8" id="token-0-0" start_char="0">Guatemala</TOKEN>
+				<TOKEN end_char="19" id="token-0-1" start_char="10">earthquake</TOKEN>
+				<TOKEN end_char="23" id="token-0-2" start_char="21">map</TOKEN>
+				<TOKEN end_char="24" id="token-0-3" start_char="24">,</TOKEN>
+				<TOKEN end_char="29" id="token-0-4" start_char="26">June</TOKEN>
+				<TOKEN end_char="32" id="token-0-5" start_char="31">14</TOKEN>
+				<TOKEN end_char="33" id="token-0-6" start_char="33">,</TOKEN>
+				<TOKEN end_char="38" id="token-0-7" start_char="35">2017</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

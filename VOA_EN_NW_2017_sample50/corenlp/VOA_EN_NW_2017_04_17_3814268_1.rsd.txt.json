@@ -1,0 +1,586 @@
+{
+  "docId": "VOA_EN_NW_2017_04_17_3814268_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Turkey",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 3,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "President",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 18,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 3,
+          "docTokenEnd": 6,
+          "tokenBegin": 3,
+          "tokenEnd": 6,
+          "text": "Recep Tayyip Erdogan",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 39,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 11,
+          "tokenBegin": 9,
+          "tokenEnd": 11,
+          "text": "Emine Erdogan",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 66,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 28,
+          "docTokenEnd": 29,
+          "tokenBegin": 28,
+          "tokenEnd": 29,
+          "text": "Istanbul",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 189,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 30,
+          "docTokenEnd": 37,
+          "tokenBegin": 30,
+          "tokenEnd": 37,
+          "text": "late Sunday, April 16, 2017",
+          "characterOffsetBegin": 191,
+          "characterOffsetEnd": 218,
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "docTokenBegin": 7,
+          "docTokenEnd": 8,
+          "tokenBegin": 7,
+          "tokenEnd": 8,
+          "text": "his",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 47,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Turkey",
+          "originalText": "Turkey",
+          "lemma": "Turkey",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 8,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "President",
+          "originalText": "President",
+          "lemma": "President",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 18,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Recep",
+          "originalText": "Recep",
+          "lemma": "Recep",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 24,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Tayyip",
+          "originalText": "Tayyip",
+          "lemma": "Tayyip",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 31,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Erdogan",
+          "originalText": "Erdogan",
+          "lemma": "Erdogan",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 39,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 43,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "his",
+          "originalText": "his",
+          "lemma": "he",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 47,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "wife",
+          "originalText": "wife",
+          "lemma": "wife",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 52,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Emine",
+          "originalText": "Emine",
+          "lemma": "Emine",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 58,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Erdogan",
+          "originalText": "Erdogan",
+          "lemma": "Erdogan",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 66,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "pose",
+          "originalText": "pose",
+          "lemma": "pose",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 71,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "for",
+          "originalText": "for",
+          "lemma": "for",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 75,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "photos",
+          "originalText": "photos",
+          "lemma": "photo",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 82,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "with",
+          "originalText": "with",
+          "lemma": "with",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 87,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "cheering",
+          "originalText": "cheering",
+          "lemma": "cheer",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 96,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "supporters",
+          "originalText": "supporters",
+          "lemma": "supporter",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 107,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 110,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 114,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "background",
+          "originalText": "background",
+          "lemma": "background",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 125,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "after",
+          "originalText": "after",
+          "lemma": "after",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 131,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "unofficial",
+          "originalText": "unofficial",
+          "lemma": "unofficial",
+          "characterOffsetBegin": 132,
+          "characterOffsetEnd": 142,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "referendum",
+          "originalText": "referendum",
+          "lemma": "referendum",
+          "characterOffsetBegin": 143,
+          "characterOffsetEnd": 153,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "results",
+          "originalText": "results",
+          "lemma": "result",
+          "characterOffsetBegin": 154,
+          "characterOffsetEnd": 161,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "were",
+          "originalText": "were",
+          "lemma": "be",
+          "characterOffsetBegin": 162,
+          "characterOffsetEnd": 166,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "announced",
+          "originalText": "announced",
+          "lemma": "announce",
+          "characterOffsetBegin": 167,
+          "characterOffsetEnd": 176,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 176,
+          "characterOffsetEnd": 177,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 178,
+          "characterOffsetEnd": 180,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "Istanbul",
+          "originalText": "Istanbul",
+          "lemma": "Istanbul",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 189,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 30,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 189,
+          "characterOffsetEnd": 190,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 31,
+          "word": "late",
+          "originalText": "late",
+          "lemma": "late",
+          "characterOffsetBegin": 191,
+          "characterOffsetEnd": 195,
+          "pos": "JJ",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 32,
+          "word": "Sunday",
+          "originalText": "Sunday",
+          "lemma": "Sunday",
+          "characterOffsetBegin": 196,
+          "characterOffsetEnd": 202,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 33,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 202,
+          "characterOffsetEnd": 203,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 34,
+          "word": "April",
+          "originalText": "April",
+          "lemma": "April",
+          "characterOffsetBegin": 204,
+          "characterOffsetEnd": 209,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 35,
+          "word": "16",
+          "originalText": "16",
+          "lemma": "16",
+          "characterOffsetBegin": 210,
+          "characterOffsetEnd": 212,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 36,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 212,
+          "characterOffsetEnd": 213,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 37,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 214,
+          "characterOffsetEnd": 218,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 38,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 218,
+          "characterOffsetEnd": 219,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

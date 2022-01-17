@@ -1,0 +1,395 @@
+{
+  "docId": "VOA_EN_NW_2017_01_06_3666451_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 3,
+          "tokenBegin": 0,
+          "tokenEnd": 3,
+          "text": "Marine Le Pen",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 13,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 8,
+          "tokenBegin": 5,
+          "tokenEnd": 8,
+          "text": "National Front party",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 41,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "French",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 84,
+          "ner": "NATIONALITY"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Marine",
+          "originalText": "Marine",
+          "lemma": "Marine",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Le",
+          "originalText": "Le",
+          "lemma": "Le",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 9,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Pen",
+          "originalText": "Pen",
+          "lemma": "Pen",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 13,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 16,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 20,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "National",
+          "originalText": "National",
+          "lemma": "National",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 29,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Front",
+          "originalText": "Front",
+          "lemma": "front",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 35,
+          "pos": "NN",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "party",
+          "originalText": "party",
+          "lemma": "party",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 41,
+          "pos": "NN",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 44,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "seen",
+          "originalText": "seen",
+          "lemma": "see",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 49,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "as",
+          "originalText": "as",
+          "lemma": "as",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 52,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "making",
+          "originalText": "making",
+          "lemma": "make",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 59,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 63,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "runoff",
+          "originalText": "runoff",
+          "lemma": "runoff",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 70,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 73,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 77,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "French",
+          "originalText": "French",
+          "lemma": "french",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 84,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "presidential",
+          "originalText": "presidential",
+          "lemma": "presidential",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 97,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "election",
+          "originalText": "election",
+          "lemma": "election",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 106,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "but",
+          "originalText": "but",
+          "lemma": "but",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 110,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "failing",
+          "originalText": "failing",
+          "lemma": "fail",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 118,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 121,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "win",
+          "originalText": "win",
+          "lemma": "win",
+          "characterOffsetBegin": 122,
+          "characterOffsetEnd": 125,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 126,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 25,
+          "docTokenEnd": 27,
+          "tokenBegin": 1,
+          "tokenEnd": 3,
+          "text": "L. Bryant/VOA",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 141,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "-LRB-",
+          "originalText": "(",
+          "lemma": "-lrb-",
+          "characterOffsetBegin": 127,
+          "characterOffsetEnd": 128,
+          "pos": "-LRB-",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": "L.",
+          "originalText": "L.",
+          "lemma": "l.",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 130,
+          "pos": "NN",
+          "ner": "PERSON",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Bryant/VOA",
+          "originalText": "Bryant/VOA",
+          "lemma": "bryant/voa",
+          "characterOffsetBegin": 131,
+          "characterOffsetEnd": 141,
+          "pos": "NN",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": "-RRB-",
+          "originalText": ")",
+          "lemma": "-rrb-",
+          "characterOffsetBegin": 141,
+          "characterOffsetEnd": 142,
+          "pos": "-RRB-",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

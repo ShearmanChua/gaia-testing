@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_14_3900403_1">
+		<TEXT>
+			<SEG end_char="143" id="VOA_EN_NW_2017_06_14_3900403_1-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Zambia's President Edgar Chagwa Lungu addresses the United Nations General Assembly in the Manhattan borough of New York, Sept. 20, 2016.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="12" id="token-0-2" start_char="7">Zambia</TOKEN>
+				<TOKEN end_char="13" id="token-0-3" start_char="13">'</TOKEN>
+				<TOKEN end_char="14" id="token-0-4" start_char="14">s</TOKEN>
+				<TOKEN end_char="24" id="token-0-5" start_char="16">President</TOKEN>
+				<TOKEN end_char="30" id="token-0-6" start_char="26">Edgar</TOKEN>
+				<TOKEN end_char="37" id="token-0-7" start_char="32">Chagwa</TOKEN>
+				<TOKEN end_char="43" id="token-0-8" start_char="39">Lungu</TOKEN>
+				<TOKEN end_char="53" id="token-0-9" start_char="45">addresses</TOKEN>
+				<TOKEN end_char="57" id="token-0-10" start_char="55">the</TOKEN>
+				<TOKEN end_char="64" id="token-0-11" start_char="59">United</TOKEN>
+				<TOKEN end_char="72" id="token-0-12" start_char="66">Nations</TOKEN>
+				<TOKEN end_char="80" id="token-0-13" start_char="74">General</TOKEN>
+				<TOKEN end_char="89" id="token-0-14" start_char="82">Assembly</TOKEN>
+				<TOKEN end_char="92" id="token-0-15" start_char="91">in</TOKEN>
+				<TOKEN end_char="96" id="token-0-16" start_char="94">the</TOKEN>
+				<TOKEN end_char="106" id="token-0-17" start_char="98">Manhattan</TOKEN>
+				<TOKEN end_char="114" id="token-0-18" start_char="108">borough</TOKEN>
+				<TOKEN end_char="117" id="token-0-19" start_char="116">of</TOKEN>
+				<TOKEN end_char="121" id="token-0-20" start_char="119">New</TOKEN>
+				<TOKEN end_char="126" id="token-0-21" start_char="123">York</TOKEN>
+				<TOKEN end_char="127" id="token-0-22" start_char="127">,</TOKEN>
+				<TOKEN end_char="132" id="token-0-23" start_char="129">Sept</TOKEN>
+				<TOKEN end_char="133" id="token-0-24" start_char="133">.</TOKEN>
+				<TOKEN end_char="136" id="token-0-25" start_char="135">20</TOKEN>
+				<TOKEN end_char="137" id="token-0-26" start_char="137">,</TOKEN>
+				<TOKEN end_char="142" id="token-0-27" start_char="139">2016</TOKEN>
+				<TOKEN end_char="143" id="token-0-28" start_char="143">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

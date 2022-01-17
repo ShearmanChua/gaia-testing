@@ -1,0 +1,454 @@
+{
+  "docId": "VOA_EN_NW_2017_04_11_3805653_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 3,
+          "docTokenEnd": 4,
+          "tokenBegin": 3,
+          "tokenEnd": 4,
+          "text": "journalist",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 31,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 20,
+          "tokenBegin": 17,
+          "tokenEnd": 20,
+          "text": "Bolivarian National Guard",
+          "characterOffsetBegin": 110,
+          "characterOffsetEnd": 135,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 24,
+          "docTokenEnd": 25,
+          "tokenBegin": 24,
+          "tokenEnd": 25,
+          "text": "Caracas",
+          "characterOffsetBegin": 156,
+          "characterOffsetEnd": 163,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 26,
+          "docTokenEnd": 30,
+          "tokenBegin": 26,
+          "tokenEnd": 30,
+          "text": "April 10, 2017",
+          "characterOffsetBegin": 165,
+          "characterOffsetEnd": 179,
+          "ner": "DATE",
+          "normalizedNER": "2017-04-10",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-10"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Demonstrators",
+          "originalText": "Demonstrators",
+          "lemma": "demonstrator",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 13,
+          "pos": "NNS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "help",
+          "originalText": "help",
+          "lemma": "help",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 18,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 20,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "journalist",
+          "originalText": "journalist",
+          "lemma": "journalist",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 31,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "who",
+          "originalText": "who",
+          "lemma": "who",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 35,
+          "pos": "WP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "was",
+          "originalText": "was",
+          "lemma": "be",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 39,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "injured",
+          "originalText": "injured",
+          "lemma": "injure",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 47,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 50,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 52,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "leg",
+          "originalText": "leg",
+          "lemma": "leg",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 56,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "while",
+          "originalText": "while",
+          "lemma": "while",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 62,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "covering",
+          "originalText": "covering",
+          "lemma": "cover",
+          "characterOffsetBegin": 63,
+          "characterOffsetEnd": 71,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "clashes",
+          "originalText": "clashes",
+          "lemma": "clash",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 79,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "between",
+          "originalText": "between",
+          "lemma": "between",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 87,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "demonstrators",
+          "originalText": "demonstrators",
+          "lemma": "demonstrator",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 101,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "and",
+          "originalText": "and",
+          "lemma": "and",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 105,
+          "pos": "CC",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 109,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Bolivarian",
+          "originalText": "Bolivarian",
+          "lemma": "Bolivarian",
+          "characterOffsetBegin": 110,
+          "characterOffsetEnd": 120,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "National",
+          "originalText": "National",
+          "lemma": "National",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 129,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Guard",
+          "originalText": "Guard",
+          "lemma": "Guard",
+          "characterOffsetBegin": 130,
+          "characterOffsetEnd": 135,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "during",
+          "originalText": "during",
+          "lemma": "during",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 142,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 143,
+          "characterOffsetEnd": 144,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "protest",
+          "originalText": "protest",
+          "lemma": "protest",
+          "characterOffsetBegin": 145,
+          "characterOffsetEnd": 152,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 153,
+          "characterOffsetEnd": 155,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "Caracas",
+          "originalText": "Caracas",
+          "lemma": "Caracas",
+          "characterOffsetBegin": 156,
+          "characterOffsetEnd": 163,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 26,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 163,
+          "characterOffsetEnd": 164,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "April",
+          "originalText": "April",
+          "lemma": "April",
+          "characterOffsetBegin": 165,
+          "characterOffsetEnd": 170,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-10",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-10"
+          }
+        },
+        {
+          "index": 28,
+          "word": "10",
+          "originalText": "10",
+          "lemma": "10",
+          "characterOffsetBegin": 171,
+          "characterOffsetEnd": 173,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-10",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-10"
+          }
+        },
+        {
+          "index": 29,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 173,
+          "characterOffsetEnd": 174,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-10",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-10"
+          }
+        },
+        {
+          "index": 30,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 175,
+          "characterOffsetEnd": 179,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-10",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-10"
+          }
+        },
+        {
+          "index": 31,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 179,
+          "characterOffsetEnd": 180,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

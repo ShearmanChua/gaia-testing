@@ -1,0 +1,434 @@
+{
+    "3996063": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "4099753": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "360995": {
+        "feature_code": "P.PPLA",
+        "feature_class": "P"
+    },
+    "1282988": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "5090174": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "163843": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "9675434": {
+        "feature_code": "L.PRK",
+        "feature_class": "L"
+    },
+    "792680": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "3590979": {
+        "feature_code": "P.PPLA",
+        "feature_class": "P"
+    },
+    "5090046": {
+        "feature_code": "P.PPL",
+        "feature_class": "P"
+    },
+    "2950159": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "745044": {
+        "feature_code": "P.PPLA",
+        "feature_class": "P"
+    },
+    "6438625": {
+        "feature_code": "A.ADM4",
+        "feature_class": "A"
+    },
+    "3017382": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "5001836": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "78754": {
+        "feature_code": "P.PPLA",
+        "feature_class": "P"
+    },
+    "3175395": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "295347": {
+        "feature_code": "H.LK",
+        "feature_class": "H"
+    },
+    "4138106": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "4575352": {
+        "feature_code": "P.PPLA",
+        "feature_class": "P"
+    },
+    "4412697": {
+        "feature_code": "P.PPL",
+        "feature_class": "P"
+    },
+    "3164670": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "51537": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "298795": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "248816": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "927384": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "7729884": {
+        "feature_code": "L.RGN",
+        "feature_class": "L"
+    },
+    "3595528": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "1642903": {
+        "feature_code": "A.ADM2",
+        "feature_class": "A"
+    },
+    "4887398": {
+        "feature_code": "P.PPLA2",
+        "feature_class": "P"
+    },
+    "4597040": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "964137": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "1642911": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "2875376": {
+        "feature_code": "P.PPLA3",
+        "feature_class": "P"
+    },
+    "1643084": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "2948184": {
+        "feature_code": "P.PPLA4",
+        "feature_class": "P"
+    },
+    "2823680": {
+        "feature_code": "H.LK",
+        "feature_class": "H"
+    },
+    "3646738": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "275597": {
+        "feature_code": "P.PPL",
+        "feature_class": "P"
+    },
+    "2389853": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "1880251": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "4694500": {
+        "feature_code": "H.STM",
+        "feature_class": "H"
+    },
+    "290340": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "1820814": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "250441": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "2017370": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "6252001": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "2750405": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "895949": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "1605651": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "8504726": {
+        "feature_code": "P.PPL",
+        "feature_class": "P"
+    },
+    "6290252": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "4736286": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "587116": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "4180439": {
+        "feature_code": "P.PPLA",
+        "feature_class": "P"
+    },
+    "290291": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "3625428": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "690791": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "453733": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "323786": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "2220957": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "366755": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "3194360": {
+        "feature_code": "P.PPLA",
+        "feature_class": "P"
+    },
+    "99072": {
+        "feature_code": "P.PPLA",
+        "feature_class": "P"
+    },
+    "239880": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "2969958": {
+        "feature_code": "P.PPLA3",
+        "feature_class": "P"
+    },
+    "1283240": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "1835848": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "6255146": {
+        "feature_code": "L.CONT",
+        "feature_class": "L"
+    },
+    "2953318": {
+        "feature_code": "P.PPLA4",
+        "feature_class": "P"
+    },
+    "4407066": {
+        "feature_code": "P.PPLA2",
+        "feature_class": "P"
+    },
+    "2233387": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "69543": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "1609350": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "363196": {
+        "feature_code": "H.SEA",
+        "feature_class": "H"
+    },
+    "311044": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "2744118": {
+        "feature_code": "P.PPL",
+        "feature_class": "P"
+    },
+    "4171563": {
+        "feature_code": "P.PPL",
+        "feature_class": "P"
+    },
+    "4482348": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "588409": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "5128638": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "108410": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "4560349": {
+        "feature_code": "P.PPLA2",
+        "feature_class": "P"
+    },
+    "5125771": {
+        "feature_code": "P.PPLA2",
+        "feature_class": "P"
+    },
+    "4460243": {
+        "feature_code": "P.PPLA2",
+        "feature_class": "P"
+    },
+    "6553048": {
+        "feature_code": "A.ADM4",
+        "feature_class": "A"
+    },
+    "4992982": {
+        "feature_code": "P.PPLA2",
+        "feature_class": "P"
+    },
+    "524901": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "357994": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "433561": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "130758": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "98182": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "2921044": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "6254928": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "4398678": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "99237": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "909137": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "5772445": {
+        "feature_code": "P.PPLX",
+        "feature_class": "P"
+    },
+    "1835841": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "5815135": {
+        "feature_code": "A.ADM1",
+        "feature_class": "A"
+    },
+    "2800866": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "360630": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    },
+    "953987": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "102358": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "192950": {
+        "feature_code": "A.PCLI",
+        "feature_class": "A"
+    },
+    "4013708": {
+        "feature_code": "P.PPL",
+        "feature_class": "P"
+    },
+    "6695072": {
+        "feature_code": "A.ZN",
+        "feature_class": "A"
+    },
+    "587084": {
+        "feature_code": "P.PPLC",
+        "feature_class": "P"
+    }
+}

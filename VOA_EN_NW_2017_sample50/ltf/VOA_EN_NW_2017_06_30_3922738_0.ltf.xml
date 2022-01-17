@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_30_3922738_0">
+		<TEXT>
+			<SEG end_char="142" id="VOA_EN_NW_2017_06_30_3922738_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Chicago police display some of the thousands of illegal firearms confiscated in 2014 in their battle against gun violence, July 7, 2014.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="13" id="token-0-2" start_char="7">Chicago</TOKEN>
+				<TOKEN end_char="20" id="token-0-3" start_char="15">police</TOKEN>
+				<TOKEN end_char="28" id="token-0-4" start_char="22">display</TOKEN>
+				<TOKEN end_char="33" id="token-0-5" start_char="30">some</TOKEN>
+				<TOKEN end_char="36" id="token-0-6" start_char="35">of</TOKEN>
+				<TOKEN end_char="40" id="token-0-7" start_char="38">the</TOKEN>
+				<TOKEN end_char="50" id="token-0-8" start_char="42">thousands</TOKEN>
+				<TOKEN end_char="53" id="token-0-9" start_char="52">of</TOKEN>
+				<TOKEN end_char="61" id="token-0-10" start_char="55">illegal</TOKEN>
+				<TOKEN end_char="70" id="token-0-11" start_char="63">firearms</TOKEN>
+				<TOKEN end_char="82" id="token-0-12" start_char="72">confiscated</TOKEN>
+				<TOKEN end_char="85" id="token-0-13" start_char="84">in</TOKEN>
+				<TOKEN end_char="90" id="token-0-14" start_char="87">2014</TOKEN>
+				<TOKEN end_char="93" id="token-0-15" start_char="92">in</TOKEN>
+				<TOKEN end_char="99" id="token-0-16" start_char="95">their</TOKEN>
+				<TOKEN end_char="106" id="token-0-17" start_char="101">battle</TOKEN>
+				<TOKEN end_char="114" id="token-0-18" start_char="108">against</TOKEN>
+				<TOKEN end_char="118" id="token-0-19" start_char="116">gun</TOKEN>
+				<TOKEN end_char="127" id="token-0-20" start_char="120">violence</TOKEN>
+				<TOKEN end_char="128" id="token-0-21" start_char="128">,</TOKEN>
+				<TOKEN end_char="133" id="token-0-22" start_char="130">July</TOKEN>
+				<TOKEN end_char="135" id="token-0-23" start_char="135">7</TOKEN>
+				<TOKEN end_char="136" id="token-0-24" start_char="136">,</TOKEN>
+				<TOKEN end_char="141" id="token-0-25" start_char="138">2014</TOKEN>
+				<TOKEN end_char="142" id="token-0-26" start_char="142">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

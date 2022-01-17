@@ -1,0 +1,21 @@
+1	Bolivarian	Bolivarian	PROPN	NNP	Number=Sing	3	compound	_	VOA_EN_NW_2017_04_11_3805653_1:0-9
+2	National	National	PROPN	NNP	Number=Sing	3	compound	_	VOA_EN_NW_2017_04_11_3805653_1:11-18
+3	Guard	Guard	PROPN	NNP	Number=Sing	4	compound	_	VOA_EN_NW_2017_04_11_3805653_1:20-24
+4	officers	officers	NOUN	NNS	Number=Plur	0	root	_	VOA_EN_NW_2017_04_11_3805653_1:26-33
+5	advance	advance	ADJ	JJ	Degree=Pos	4	advmod	_	VOA_EN_NW_2017_04_11_3805653_1:35-41
+6	towards	towards	ADP	IN	_	7	case	_	VOA_EN_NW_2017_04_11_3805653_1:43-49
+7	demonstrators	demonstrator	NOUN	NNS	Number=Plur	5	obl	_	VOA_EN_NW_2017_04_11_3805653_1:51-63
+8	during	during	ADP	IN	_	10	case	_	VOA_EN_NW_2017_04_11_3805653_1:65-70
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	VOA_EN_NW_2017_04_11_3805653_1:72-72
+10	protest	protest	NOUN	NN	Number=Sing	4	nmod	_	VOA_EN_NW_2017_04_11_3805653_1:74-80
+11	in	in	ADP	IN	_	12	case	_	VOA_EN_NW_2017_04_11_3805653_1:82-83
+12	Caracas	Caracas	PROPN	NNP	Number=Sing	10	nmod	_	VOA_EN_NW_2017_04_11_3805653_1:85-91
+13	,	,	PUNCT	,	_	12	punct	_	VOA_EN_NW_2017_04_11_3805653_1:92-92
+14	Venezuela	Venezuela	PROPN	NNP	Number=Sing	12	appos	_	VOA_EN_NW_2017_04_11_3805653_1:94-102
+15	,	,	PUNCT	,	_	4	punct	_	VOA_EN_NW_2017_04_11_3805653_1:103-103
+16	April	April	PROPN	NNP	Number=Sing	4	appos	_	VOA_EN_NW_2017_04_11_3805653_1:105-109
+17	10	10	NUM	CD	NumType=Card	16	nummod	_	VOA_EN_NW_2017_04_11_3805653_1:111-112
+18	,	,	PUNCT	,	_	16	punct	_	VOA_EN_NW_2017_04_11_3805653_1:113-113
+19	2017	2017	NUM	CD	NumType=Card	16	nummod	_	VOA_EN_NW_2017_04_11_3805653_1:115-118
+20	.	.	PUNCT	.	_	4	punct	_	VOA_EN_NW_2017_04_11_3805653_1:119-119
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_12_3761985_2">
+		<TEXT>
+			<SEG end_char="84" id="VOA_EN_NW_2017_03_12_3761985_2-0" start_char="0">
+				<ORIGINAL_TEXT>Sarah Huckabee, the daughter of Republican presidential hopeful, former Arkansas Gov.</ORIGINAL_TEXT>
+				<TOKEN end_char="4" id="token-0-0" start_char="0">Sarah</TOKEN>
+				<TOKEN end_char="13" id="token-0-1" start_char="6">Huckabee</TOKEN>
+				<TOKEN end_char="14" id="token-0-2" start_char="14">,</TOKEN>
+				<TOKEN end_char="18" id="token-0-3" start_char="16">the</TOKEN>
+				<TOKEN end_char="27" id="token-0-4" start_char="20">daughter</TOKEN>
+				<TOKEN end_char="30" id="token-0-5" start_char="29">of</TOKEN>
+				<TOKEN end_char="41" id="token-0-6" start_char="32">Republican</TOKEN>
+				<TOKEN end_char="54" id="token-0-7" start_char="43">presidential</TOKEN>
+				<TOKEN end_char="62" id="token-0-8" start_char="56">hopeful</TOKEN>
+				<TOKEN end_char="63" id="token-0-9" start_char="63">,</TOKEN>
+				<TOKEN end_char="70" id="token-0-10" start_char="65">former</TOKEN>
+				<TOKEN end_char="79" id="token-0-11" start_char="72">Arkansas</TOKEN>
+				<TOKEN end_char="83" id="token-0-12" start_char="81">Gov</TOKEN>
+				<TOKEN end_char="84" id="token-0-13" start_char="84">.</TOKEN>
+			</SEG>
+			<SEG end_char="184" id="VOA_EN_NW_2017_03_12_3761985_2-1" start_char="86">
+				<ORIGINAL_TEXT>Mike Huckabee, hugs a friend at her father's election watch party in Columbia, S.C., Jan. 19, 2008.</ORIGINAL_TEXT>
+				<TOKEN end_char="89" id="token-1-0" start_char="86">Mike</TOKEN>
+				<TOKEN end_char="98" id="token-1-1" start_char="91">Huckabee</TOKEN>
+				<TOKEN end_char="99" id="token-1-2" start_char="99">,</TOKEN>
+				<TOKEN end_char="104" id="token-1-3" start_char="101">hugs</TOKEN>
+				<TOKEN end_char="106" id="token-1-4" start_char="106">a</TOKEN>
+				<TOKEN end_char="113" id="token-1-5" start_char="108">friend</TOKEN>
+				<TOKEN end_char="116" id="token-1-6" start_char="115">at</TOKEN>
+				<TOKEN end_char="120" id="token-1-7" start_char="118">her</TOKEN>
+				<TOKEN end_char="127" id="token-1-8" start_char="122">father</TOKEN>
+				<TOKEN end_char="128" id="token-1-9" start_char="128">'</TOKEN>
+				<TOKEN end_char="129" id="token-1-10" start_char="129">s</TOKEN>
+				<TOKEN end_char="138" id="token-1-11" start_char="131">election</TOKEN>
+				<TOKEN end_char="144" id="token-1-12" start_char="140">watch</TOKEN>
+				<TOKEN end_char="150" id="token-1-13" start_char="146">party</TOKEN>
+				<TOKEN end_char="153" id="token-1-14" start_char="152">in</TOKEN>
+				<TOKEN end_char="162" id="token-1-15" start_char="155">Columbia</TOKEN>
+				<TOKEN end_char="163" id="token-1-16" start_char="163">,</TOKEN>
+				<TOKEN end_char="165" id="token-1-17" start_char="165">S</TOKEN>
+				<TOKEN end_char="166" id="token-1-18" start_char="166">.</TOKEN>
+				<TOKEN end_char="167" id="token-1-19" start_char="167">C</TOKEN>
+				<TOKEN end_char="169" id="token-1-20" start_char="168">.,</TOKEN>
+				<TOKEN end_char="173" id="token-1-21" start_char="171">Jan</TOKEN>
+				<TOKEN end_char="174" id="token-1-22" start_char="174">.</TOKEN>
+				<TOKEN end_char="177" id="token-1-23" start_char="176">19</TOKEN>
+				<TOKEN end_char="178" id="token-1-24" start_char="178">,</TOKEN>
+				<TOKEN end_char="183" id="token-1-25" start_char="180">2008</TOKEN>
+				<TOKEN end_char="184" id="token-1-26" start_char="184">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

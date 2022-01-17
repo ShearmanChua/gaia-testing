@@ -1,0 +1,330 @@
+{
+  "docId": "VOA_EN_NW_2017_06_22_3911111_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 17,
+          "tokenBegin": 15,
+          "tokenEnd": 17,
+          "text": "Riyan Airport",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 93,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 19,
+          "docTokenEnd": 20,
+          "tokenBegin": 19,
+          "tokenEnd": 20,
+          "text": "Yemeni",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 107,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 22,
+          "docTokenEnd": 23,
+          "tokenBegin": 22,
+          "tokenEnd": 23,
+          "text": "Mukalla",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 123,
+          "ner": "LOCATION"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "This",
+          "originalText": "This",
+          "lemma": "this",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "DT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "sketch",
+          "originalText": "sketch",
+          "lemma": "sketch",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 11,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "drawn",
+          "originalText": "drawn",
+          "lemma": "draw",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 17,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "by",
+          "originalText": "by",
+          "lemma": "by",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 20,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 22,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "former",
+          "originalText": "former",
+          "lemma": "former",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 29,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "detainee",
+          "originalText": "detainee",
+          "lemma": "detainee",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 38,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "shows",
+          "originalText": "shows",
+          "lemma": "show",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 44,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 48,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "layout",
+          "originalText": "layout",
+          "lemma": "layout",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 55,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 58,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 62,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "secret",
+          "originalText": "secret",
+          "lemma": "secret",
+          "characterOffsetBegin": 63,
+          "characterOffsetEnd": 69,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "prison",
+          "originalText": "prison",
+          "lemma": "prison",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 76,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 79,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Riyan",
+          "originalText": "Riyan",
+          "lemma": "Riyan",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 85,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Airport",
+          "originalText": "Airport",
+          "lemma": "Airport",
+          "characterOffsetBegin": 86,
+          "characterOffsetEnd": 93,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 96,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 100,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Yemeni",
+          "originalText": "Yemeni",
+          "lemma": "Yemeni",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 107,
+          "pos": "NNP",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "city",
+          "originalText": "city",
+          "lemma": "city",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 112,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 115,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "Mukalla",
+          "originalText": "Mukalla",
+          "lemma": "Mukalla",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 123,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 124,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

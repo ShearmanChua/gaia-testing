@@ -1,0 +1,436 @@
+{
+  "docId": "VOA_EN_NW_2017_06_14_3900403_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 3,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "Zambia",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 5,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "President",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 25,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 8,
+          "tokenBegin": 5,
+          "tokenEnd": 8,
+          "text": "Edgar Chagwa Lungu",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 44,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 14,
+          "tokenBegin": 10,
+          "tokenEnd": 14,
+          "text": "United Nations General Assembly",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 90,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "Manhattan",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 107,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 19,
+          "docTokenEnd": 21,
+          "tokenBegin": 19,
+          "tokenEnd": 21,
+          "text": "New York",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 127,
+          "ner": "STATE_OR_PROVINCE"
+        },
+        {
+          "docTokenBegin": 22,
+          "docTokenEnd": 26,
+          "tokenBegin": 22,
+          "tokenEnd": 26,
+          "text": "Sept. 20, 2016",
+          "characterOffsetBegin": 129,
+          "characterOffsetEnd": 143,
+          "ner": "DATE",
+          "normalizedNER": "2016-09-20",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-09-20"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Zambia",
+          "originalText": "Zambia",
+          "lemma": "Zambia",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 15,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "President",
+          "originalText": "President",
+          "lemma": "President",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 25,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Edgar",
+          "originalText": "Edgar",
+          "lemma": "Edgar",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 31,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Chagwa",
+          "originalText": "Chagwa",
+          "lemma": "Chagwa",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 38,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Lungu",
+          "originalText": "Lungu",
+          "lemma": "Lungu",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 44,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "addresses",
+          "originalText": "addresses",
+          "lemma": "address",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 54,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 58,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "United",
+          "originalText": "United",
+          "lemma": "United",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 65,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Nations",
+          "originalText": "Nations",
+          "lemma": "Nations",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 73,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "General",
+          "originalText": "General",
+          "lemma": "General",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 81,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Assembly",
+          "originalText": "Assembly",
+          "lemma": "Assembly",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 90,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 93,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 97,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Manhattan",
+          "originalText": "Manhattan",
+          "lemma": "Manhattan",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 107,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "borough",
+          "originalText": "borough",
+          "lemma": "borough",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 115,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 118,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "New",
+          "originalText": "New",
+          "lemma": "New",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 122,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "York",
+          "originalText": "York",
+          "lemma": "York",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 127,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 127,
+          "characterOffsetEnd": 128,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "Sept.",
+          "originalText": "Sept.",
+          "lemma": "Sept.",
+          "characterOffsetBegin": 129,
+          "characterOffsetEnd": 134,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2016-09-20",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-09-20"
+          }
+        },
+        {
+          "index": 24,
+          "word": "20",
+          "originalText": "20",
+          "lemma": "20",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 137,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2016-09-20",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-09-20"
+          }
+        },
+        {
+          "index": 25,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 137,
+          "characterOffsetEnd": 138,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2016-09-20",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-09-20"
+          }
+        },
+        {
+          "index": 26,
+          "word": "2016",
+          "originalText": "2016",
+          "lemma": "2016",
+          "characterOffsetBegin": 139,
+          "characterOffsetEnd": 143,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2016-09-20",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-09-20"
+          }
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 143,
+          "characterOffsetEnd": 144,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

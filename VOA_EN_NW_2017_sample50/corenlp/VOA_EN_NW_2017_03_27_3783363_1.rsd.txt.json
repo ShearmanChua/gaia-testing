@@ -1,0 +1,266 @@
+{
+  "docId": "VOA_EN_NW_2017_03_27_3783363_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 3,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "Russia",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 5,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "ambassador",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 26,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 7,
+          "docTokenEnd": 8,
+          "tokenBegin": 7,
+          "tokenEnd": 8,
+          "text": "U.S.",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 38,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 8,
+          "docTokenEnd": 10,
+          "tokenBegin": 8,
+          "tokenEnd": 10,
+          "text": "Sergey Kislyak",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 53,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "Washington",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 90,
+          "ner": "STATE_OR_PROVINCE"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Russia",
+          "originalText": "Russia",
+          "lemma": "Russia",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 15,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "ambassador",
+          "originalText": "ambassador",
+          "lemma": "ambassador",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 26,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 29,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 33,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "U.S.",
+          "originalText": "U.S.",
+          "lemma": "U.S.",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 38,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Sergey",
+          "originalText": "Sergey",
+          "lemma": "Sergey",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 45,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Kislyak",
+          "originalText": "Kislyak",
+          "lemma": "Kislyak",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 53,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 54,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "speaks",
+          "originalText": "speaks",
+          "lemma": "speak",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 61,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "with",
+          "originalText": "with",
+          "lemma": "with",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 66,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "reporters",
+          "originalText": "reporters",
+          "lemma": "reporter",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 76,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 79,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Washington",
+          "originalText": "Washington",
+          "lemma": "Washington",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 90,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 91,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

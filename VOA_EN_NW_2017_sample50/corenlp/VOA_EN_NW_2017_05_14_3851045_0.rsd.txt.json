@@ -1,0 +1,392 @@
+{
+  "docId": "VOA_EN_NW_2017_05_14_3851045_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 3,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "Iraqi",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 12,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 12,
+          "docTokenEnd": 14,
+          "tokenBegin": 12,
+          "tokenEnd": 14,
+          "text": "Islah al-Zarai",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 79,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "Mosul",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 93,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 19,
+          "tokenBegin": 18,
+          "tokenEnd": 19,
+          "text": "Iraq",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 99,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 24,
+          "tokenBegin": 20,
+          "tokenEnd": 24,
+          "text": "May 11, 2017",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 113,
+          "ner": "DATE",
+          "normalizedNER": "2017-05-11",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-11"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Iraqi",
+          "originalText": "Iraqi",
+          "lemma": "iraqi",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 12,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "special",
+          "originalText": "special",
+          "lemma": "special",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 20,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "focus",
+          "originalText": "focus",
+          "lemma": "focus",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 26,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "advance",
+          "originalText": "advance",
+          "lemma": "advance",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 34,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 37,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "their",
+          "originalText": "their",
+          "lemma": "they",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 43,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "next",
+          "originalText": "next",
+          "lemma": "next",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 48,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "position",
+          "originalText": "position",
+          "lemma": "position",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 57,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 60,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 64,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Islah",
+          "originalText": "Islah",
+          "lemma": "Islah",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 70,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "al-Zarai",
+          "originalText": "al-Zarai",
+          "lemma": "al-Zarai",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 79,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "area",
+          "originalText": "area",
+          "lemma": "area",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 84,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 87,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Mosul",
+          "originalText": "Mosul",
+          "lemma": "Mosul",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 93,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 94,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Iraq",
+          "originalText": "Iraq",
+          "lemma": "Iraq",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 99,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 99,
+          "characterOffsetEnd": 100,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "May",
+          "originalText": "May",
+          "lemma": "May",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 104,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-11",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-11"
+          }
+        },
+        {
+          "index": 22,
+          "word": "11",
+          "originalText": "11",
+          "lemma": "11",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 107,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-11",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-11"
+          }
+        },
+        {
+          "index": 23,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 108,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-11",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-11"
+          }
+        },
+        {
+          "index": 24,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 113,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-11",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-11"
+          }
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 114,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

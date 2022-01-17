@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_25_3870543_2">
+		<TEXT>
+			<SEG end_char="133" id="VOA_EN_NW_2017_05_25_3870543_2-0" start_char="0">
+				<ORIGINAL_TEXT>Police officers escort men arrested in a raid on a gay sauna at North Jakarta police headquarters in Jakarta, Indonesia, May 22, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="5" id="token-0-0" start_char="0">Police</TOKEN>
+				<TOKEN end_char="14" id="token-0-1" start_char="7">officers</TOKEN>
+				<TOKEN end_char="21" id="token-0-2" start_char="16">escort</TOKEN>
+				<TOKEN end_char="25" id="token-0-3" start_char="23">men</TOKEN>
+				<TOKEN end_char="34" id="token-0-4" start_char="27">arrested</TOKEN>
+				<TOKEN end_char="37" id="token-0-5" start_char="36">in</TOKEN>
+				<TOKEN end_char="39" id="token-0-6" start_char="39">a</TOKEN>
+				<TOKEN end_char="44" id="token-0-7" start_char="41">raid</TOKEN>
+				<TOKEN end_char="47" id="token-0-8" start_char="46">on</TOKEN>
+				<TOKEN end_char="49" id="token-0-9" start_char="49">a</TOKEN>
+				<TOKEN end_char="53" id="token-0-10" start_char="51">gay</TOKEN>
+				<TOKEN end_char="59" id="token-0-11" start_char="55">sauna</TOKEN>
+				<TOKEN end_char="62" id="token-0-12" start_char="61">at</TOKEN>
+				<TOKEN end_char="68" id="token-0-13" start_char="64">North</TOKEN>
+				<TOKEN end_char="76" id="token-0-14" start_char="70">Jakarta</TOKEN>
+				<TOKEN end_char="83" id="token-0-15" start_char="78">police</TOKEN>
+				<TOKEN end_char="96" id="token-0-16" start_char="85">headquarters</TOKEN>
+				<TOKEN end_char="99" id="token-0-17" start_char="98">in</TOKEN>
+				<TOKEN end_char="107" id="token-0-18" start_char="101">Jakarta</TOKEN>
+				<TOKEN end_char="108" id="token-0-19" start_char="108">,</TOKEN>
+				<TOKEN end_char="118" id="token-0-20" start_char="110">Indonesia</TOKEN>
+				<TOKEN end_char="119" id="token-0-21" start_char="119">,</TOKEN>
+				<TOKEN end_char="123" id="token-0-22" start_char="121">May</TOKEN>
+				<TOKEN end_char="126" id="token-0-23" start_char="125">22</TOKEN>
+				<TOKEN end_char="127" id="token-0-24" start_char="127">,</TOKEN>
+				<TOKEN end_char="132" id="token-0-25" start_char="129">2017</TOKEN>
+				<TOKEN end_char="133" id="token-0-26" start_char="133">.</TOKEN>
+			</SEG>
+			<SEG end_char="223" id="VOA_EN_NW_2017_05_25_3870543_2-1" start_char="135">
+				<ORIGINAL_TEXT>Indonesian police detained dozens of men in a weekend raid on a gay sauna in the capital.</ORIGINAL_TEXT>
+				<TOKEN end_char="144" id="token-1-0" start_char="135">Indonesian</TOKEN>
+				<TOKEN end_char="151" id="token-1-1" start_char="146">police</TOKEN>
+				<TOKEN end_char="160" id="token-1-2" start_char="153">detained</TOKEN>
+				<TOKEN end_char="167" id="token-1-3" start_char="162">dozens</TOKEN>
+				<TOKEN end_char="170" id="token-1-4" start_char="169">of</TOKEN>
+				<TOKEN end_char="174" id="token-1-5" start_char="172">men</TOKEN>
+				<TOKEN end_char="177" id="token-1-6" start_char="176">in</TOKEN>
+				<TOKEN end_char="179" id="token-1-7" start_char="179">a</TOKEN>
+				<TOKEN end_char="187" id="token-1-8" start_char="181">weekend</TOKEN>
+				<TOKEN end_char="192" id="token-1-9" start_char="189">raid</TOKEN>
+				<TOKEN end_char="195" id="token-1-10" start_char="194">on</TOKEN>
+				<TOKEN end_char="197" id="token-1-11" start_char="197">a</TOKEN>
+				<TOKEN end_char="201" id="token-1-12" start_char="199">gay</TOKEN>
+				<TOKEN end_char="207" id="token-1-13" start_char="203">sauna</TOKEN>
+				<TOKEN end_char="210" id="token-1-14" start_char="209">in</TOKEN>
+				<TOKEN end_char="214" id="token-1-15" start_char="212">the</TOKEN>
+				<TOKEN end_char="222" id="token-1-16" start_char="216">capital</TOKEN>
+				<TOKEN end_char="223" id="token-1-17" start_char="223">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

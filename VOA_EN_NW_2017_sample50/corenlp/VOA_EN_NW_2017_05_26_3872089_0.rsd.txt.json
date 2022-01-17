@@ -1,0 +1,242 @@
+{
+  "docId": "VOA_EN_NW_2017_05_26_3872089_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 4,
+          "tokenBegin": 2,
+          "tokenEnd": 4,
+          "text": "South Korea",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 18,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 6,
+          "docTokenEnd": 7,
+          "tokenBegin": 6,
+          "tokenEnd": 7,
+          "text": "candidate",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 43,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 7,
+          "docTokenEnd": 9,
+          "tokenBegin": 7,
+          "tokenEnd": 9,
+          "text": "Moon Jae-in",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 55,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 11,
+          "tokenBegin": 10,
+          "tokenEnd": 11,
+          "text": "Seoul",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 64,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 12,
+          "docTokenEnd": 14,
+          "tokenBegin": 12,
+          "tokenEnd": 14,
+          "text": "South Korea",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 77,
+          "ner": "COUNTRY"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "South",
+          "originalText": "South",
+          "lemma": "South",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 12,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Korea",
+          "originalText": "Korea",
+          "lemma": "Korea",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 18,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 5,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 20,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "presidential",
+          "originalText": "presidential",
+          "lemma": "presidential",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 33,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "candidate",
+          "originalText": "candidate",
+          "lemma": "candidate",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 43,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Moon",
+          "originalText": "Moon",
+          "lemma": "moon",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 48,
+          "pos": "NN",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Jae-in",
+          "originalText": "Jae-in",
+          "lemma": "jae-in",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 55,
+          "pos": "NN",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 58,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Seoul",
+          "originalText": "Seoul",
+          "lemma": "Seoul",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 64,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 65,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "South",
+          "originalText": "South",
+          "lemma": "South",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 71,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Korea",
+          "originalText": "Korea",
+          "lemma": "Korea",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 77,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 78,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

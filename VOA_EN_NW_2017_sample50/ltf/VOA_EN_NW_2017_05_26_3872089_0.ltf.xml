@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_26_3872089_0">
+		<TEXT>
+			<SEG end_char="77" id="VOA_EN_NW_2017_05_26_3872089_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - South Korea's presidential candidate Moon Jae-in in Seoul, South Korea.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="11" id="token-0-2" start_char="7">South</TOKEN>
+				<TOKEN end_char="17" id="token-0-3" start_char="13">Korea</TOKEN>
+				<TOKEN end_char="18" id="token-0-4" start_char="18">'</TOKEN>
+				<TOKEN end_char="19" id="token-0-5" start_char="19">s</TOKEN>
+				<TOKEN end_char="32" id="token-0-6" start_char="21">presidential</TOKEN>
+				<TOKEN end_char="42" id="token-0-7" start_char="34">candidate</TOKEN>
+				<TOKEN end_char="47" id="token-0-8" start_char="44">Moon</TOKEN>
+				<TOKEN end_char="51" id="token-0-9" start_char="49">Jae</TOKEN>
+				<TOKEN end_char="52" id="token-0-10" start_char="52">-</TOKEN>
+				<TOKEN end_char="54" id="token-0-11" start_char="53">in</TOKEN>
+				<TOKEN end_char="57" id="token-0-12" start_char="56">in</TOKEN>
+				<TOKEN end_char="63" id="token-0-13" start_char="59">Seoul</TOKEN>
+				<TOKEN end_char="64" id="token-0-14" start_char="64">,</TOKEN>
+				<TOKEN end_char="70" id="token-0-15" start_char="66">South</TOKEN>
+				<TOKEN end_char="76" id="token-0-16" start_char="72">Korea</TOKEN>
+				<TOKEN end_char="77" id="token-0-17" start_char="77">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_01_06_3666451_0">
+		<TEXT>
+			<SEG end_char="173" id="VOA_EN_NW_2017_01_06_3666451_0-0" start_char="0">
+				<ORIGINAL_TEXT>Far-right French presidential candidate Marine Le Pen says she supports U.S. President-elect Donald Trump because his foreign policies appear not to be detrimental to France.</ORIGINAL_TEXT>
+				<TOKEN end_char="2" id="token-0-0" start_char="0">Far</TOKEN>
+				<TOKEN end_char="3" id="token-0-1" start_char="3">-</TOKEN>
+				<TOKEN end_char="8" id="token-0-2" start_char="4">right</TOKEN>
+				<TOKEN end_char="15" id="token-0-3" start_char="10">French</TOKEN>
+				<TOKEN end_char="28" id="token-0-4" start_char="17">presidential</TOKEN>
+				<TOKEN end_char="38" id="token-0-5" start_char="30">candidate</TOKEN>
+				<TOKEN end_char="45" id="token-0-6" start_char="40">Marine</TOKEN>
+				<TOKEN end_char="48" id="token-0-7" start_char="47">Le</TOKEN>
+				<TOKEN end_char="52" id="token-0-8" start_char="50">Pen</TOKEN>
+				<TOKEN end_char="57" id="token-0-9" start_char="54">says</TOKEN>
+				<TOKEN end_char="61" id="token-0-10" start_char="59">she</TOKEN>
+				<TOKEN end_char="70" id="token-0-11" start_char="63">supports</TOKEN>
+				<TOKEN end_char="72" id="token-0-12" start_char="72">U</TOKEN>
+				<TOKEN end_char="73" id="token-0-13" start_char="73">.</TOKEN>
+				<TOKEN end_char="74" id="token-0-14" start_char="74">S</TOKEN>
+				<TOKEN end_char="75" id="token-0-15" start_char="75">.</TOKEN>
+				<TOKEN end_char="85" id="token-0-16" start_char="77">President</TOKEN>
+				<TOKEN end_char="86" id="token-0-17" start_char="86">-</TOKEN>
+				<TOKEN end_char="91" id="token-0-18" start_char="87">elect</TOKEN>
+				<TOKEN end_char="98" id="token-0-19" start_char="93">Donald</TOKEN>
+				<TOKEN end_char="104" id="token-0-20" start_char="100">Trump</TOKEN>
+				<TOKEN end_char="112" id="token-0-21" start_char="106">because</TOKEN>
+				<TOKEN end_char="116" id="token-0-22" start_char="114">his</TOKEN>
+				<TOKEN end_char="124" id="token-0-23" start_char="118">foreign</TOKEN>
+				<TOKEN end_char="133" id="token-0-24" start_char="126">policies</TOKEN>
+				<TOKEN end_char="140" id="token-0-25" start_char="135">appear</TOKEN>
+				<TOKEN end_char="144" id="token-0-26" start_char="142">not</TOKEN>
+				<TOKEN end_char="147" id="token-0-27" start_char="146">to</TOKEN>
+				<TOKEN end_char="150" id="token-0-28" start_char="149">be</TOKEN>
+				<TOKEN end_char="162" id="token-0-29" start_char="152">detrimental</TOKEN>
+				<TOKEN end_char="165" id="token-0-30" start_char="164">to</TOKEN>
+				<TOKEN end_char="172" id="token-0-31" start_char="167">France</TOKEN>
+				<TOKEN end_char="173" id="token-0-32" start_char="173">.</TOKEN>
+			</SEG>
+			<SEG end_char="288" id="VOA_EN_NW_2017_01_06_3666451_0-1" start_char="175">
+				<ORIGINAL_TEXT>To the contrary, she says, issues like his opposition to the EU-U.S. free-trade agreement are positive for France.</ORIGINAL_TEXT>
+				<TOKEN end_char="176" id="token-1-0" start_char="175">To</TOKEN>
+				<TOKEN end_char="180" id="token-1-1" start_char="178">the</TOKEN>
+				<TOKEN end_char="189" id="token-1-2" start_char="182">contrary</TOKEN>
+				<TOKEN end_char="190" id="token-1-3" start_char="190">,</TOKEN>
+				<TOKEN end_char="194" id="token-1-4" start_char="192">she</TOKEN>
+				<TOKEN end_char="199" id="token-1-5" start_char="196">says</TOKEN>
+				<TOKEN end_char="200" id="token-1-6" start_char="200">,</TOKEN>
+				<TOKEN end_char="207" id="token-1-7" start_char="202">issues</TOKEN>
+				<TOKEN end_char="212" id="token-1-8" start_char="209">like</TOKEN>
+				<TOKEN end_char="216" id="token-1-9" start_char="214">his</TOKEN>
+				<TOKEN end_char="227" id="token-1-10" start_char="218">opposition</TOKEN>
+				<TOKEN end_char="230" id="token-1-11" start_char="229">to</TOKEN>
+				<TOKEN end_char="234" id="token-1-12" start_char="232">the</TOKEN>
+				<TOKEN end_char="237" id="token-1-13" start_char="236">EU</TOKEN>
+				<TOKEN end_char="238" id="token-1-14" start_char="238">-</TOKEN>
+				<TOKEN end_char="239" id="token-1-15" start_char="239">U</TOKEN>
+				<TOKEN end_char="240" id="token-1-16" start_char="240">.</TOKEN>
+				<TOKEN end_char="241" id="token-1-17" start_char="241">S</TOKEN>
+				<TOKEN end_char="242" id="token-1-18" start_char="242">.</TOKEN>
+				<TOKEN end_char="247" id="token-1-19" start_char="244">free</TOKEN>
+				<TOKEN end_char="248" id="token-1-20" start_char="248">-</TOKEN>
+				<TOKEN end_char="253" id="token-1-21" start_char="249">trade</TOKEN>
+				<TOKEN end_char="263" id="token-1-22" start_char="255">agreement</TOKEN>
+				<TOKEN end_char="267" id="token-1-23" start_char="265">are</TOKEN>
+				<TOKEN end_char="276" id="token-1-24" start_char="269">positive</TOKEN>
+				<TOKEN end_char="280" id="token-1-25" start_char="278">for</TOKEN>
+				<TOKEN end_char="287" id="token-1-26" start_char="282">France</TOKEN>
+				<TOKEN end_char="288" id="token-1-27" start_char="288">.</TOKEN>
+			</SEG>
+			<SEG end_char="304" id="VOA_EN_NW_2017_01_06_3666451_0-2" start_char="290">
+				<ORIGINAL_TEXT>(L. Bryant/VOA)</ORIGINAL_TEXT>
+				<TOKEN end_char="290" id="token-2-0" start_char="290">(</TOKEN>
+				<TOKEN end_char="291" id="token-2-1" start_char="291">L</TOKEN>
+				<TOKEN end_char="292" id="token-2-2" start_char="292">.</TOKEN>
+				<TOKEN end_char="299" id="token-2-3" start_char="294">Bryant</TOKEN>
+				<TOKEN end_char="300" id="token-2-4" start_char="300">/</TOKEN>
+				<TOKEN end_char="303" id="token-2-5" start_char="301">VOA</TOKEN>
+				<TOKEN end_char="304" id="token-2-6" start_char="304">)</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

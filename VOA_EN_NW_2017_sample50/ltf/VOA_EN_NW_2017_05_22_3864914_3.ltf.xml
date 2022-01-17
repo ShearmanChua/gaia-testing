@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_22_3864914_3">
+		<TEXT>
+			<SEG end_char="139" id="VOA_EN_NW_2017_05_22_3864914_3-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Pope Francis stands, looking across the Rio Grande towards Texas along the US-Mexico border, in Cuidad Juarez, Mexico, Feb. 17, 2016.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="10" id="token-0-2" start_char="7">Pope</TOKEN>
+				<TOKEN end_char="18" id="token-0-3" start_char="12">Francis</TOKEN>
+				<TOKEN end_char="25" id="token-0-4" start_char="20">stands</TOKEN>
+				<TOKEN end_char="26" id="token-0-5" start_char="26">,</TOKEN>
+				<TOKEN end_char="34" id="token-0-6" start_char="28">looking</TOKEN>
+				<TOKEN end_char="41" id="token-0-7" start_char="36">across</TOKEN>
+				<TOKEN end_char="45" id="token-0-8" start_char="43">the</TOKEN>
+				<TOKEN end_char="49" id="token-0-9" start_char="47">Rio</TOKEN>
+				<TOKEN end_char="56" id="token-0-10" start_char="51">Grande</TOKEN>
+				<TOKEN end_char="64" id="token-0-11" start_char="58">towards</TOKEN>
+				<TOKEN end_char="70" id="token-0-12" start_char="66">Texas</TOKEN>
+				<TOKEN end_char="76" id="token-0-13" start_char="72">along</TOKEN>
+				<TOKEN end_char="80" id="token-0-14" start_char="78">the</TOKEN>
+				<TOKEN end_char="83" id="token-0-15" start_char="82">US</TOKEN>
+				<TOKEN end_char="84" id="token-0-16" start_char="84">-</TOKEN>
+				<TOKEN end_char="90" id="token-0-17" start_char="85">Mexico</TOKEN>
+				<TOKEN end_char="97" id="token-0-18" start_char="92">border</TOKEN>
+				<TOKEN end_char="98" id="token-0-19" start_char="98">,</TOKEN>
+				<TOKEN end_char="101" id="token-0-20" start_char="100">in</TOKEN>
+				<TOKEN end_char="108" id="token-0-21" start_char="103">Cuidad</TOKEN>
+				<TOKEN end_char="115" id="token-0-22" start_char="110">Juarez</TOKEN>
+				<TOKEN end_char="116" id="token-0-23" start_char="116">,</TOKEN>
+				<TOKEN end_char="123" id="token-0-24" start_char="118">Mexico</TOKEN>
+				<TOKEN end_char="124" id="token-0-25" start_char="124">,</TOKEN>
+				<TOKEN end_char="128" id="token-0-26" start_char="126">Feb</TOKEN>
+				<TOKEN end_char="129" id="token-0-27" start_char="129">.</TOKEN>
+				<TOKEN end_char="132" id="token-0-28" start_char="131">17</TOKEN>
+				<TOKEN end_char="133" id="token-0-29" start_char="133">,</TOKEN>
+				<TOKEN end_char="138" id="token-0-30" start_char="135">2016</TOKEN>
+				<TOKEN end_char="139" id="token-0-31" start_char="139">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

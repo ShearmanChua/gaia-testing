@@ -1,0 +1,24 @@
+1	White	White	PROPN	NNP	Number=Sing	2	compound	_	VOA_EN_NW_2017_03_12_3761985_0:0-4
+2	House	House	PROPN	NNP	Number=Sing	3	compound	_	VOA_EN_NW_2017_03_12_3761985_0:6-10
+3	deputy	deputy	NOUN	NN	Number=Sing	4	compound	_	VOA_EN_NW_2017_03_12_3761985_0:12-17
+4	press	press	NOUN	NN	Number=Sing	5	compound	_	VOA_EN_NW_2017_03_12_3761985_0:19-23
+5	secretary	secretary	NOUN	NN	Number=Sing	6	compound	_	VOA_EN_NW_2017_03_12_3761985_0:25-33
+6	Sarah	Sarah	PROPN	NNP	Number=Sing	9	nsubj	_	VOA_EN_NW_2017_03_12_3761985_0:35-39
+7	Huckabee	Huckabee	PROPN	NNP	Number=Sing	6	flat	_	VOA_EN_NW_2017_03_12_3761985_0:41-48
+8	Sanders	Sanders	PROPN	NNP	Number=Sing	6	flat	_	VOA_EN_NW_2017_03_12_3761985_0:50-56
+9	stands	stand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_03_12_3761985_0:58-63
+10	in	in	ADP	IN	_	11	case	_	VOA_EN_NW_2017_03_12_3761985_0:65-66
+11	front	front	NOUN	NN	Number=Sing	9	obl	_	VOA_EN_NW_2017_03_12_3761985_0:68-72
+12	of	of	ADP	IN	_	15	case	_	VOA_EN_NW_2017_03_12_3761985_0:74-75
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	VOA_EN_NW_2017_03_12_3761985_0:77-79
+14	White	White	PROPN	NNP	Number=Sing	15	compound	_	VOA_EN_NW_2017_03_12_3761985_0:81-85
+15	House	House	PROPN	NNP	Number=Sing	11	nmod	_	VOA_EN_NW_2017_03_12_3761985_0:87-91
+16	in	in	ADP	IN	_	17	case	_	VOA_EN_NW_2017_03_12_3761985_0:93-94
+17	Washington	Washington	PROPN	NNP	Number=Sing	15	nmod	_	VOA_EN_NW_2017_03_12_3761985_0:96-105
+18	,	,	PUNCT	,	_	9	punct	_	VOA_EN_NW_2017_03_12_3761985_0:106-106
+19	March	March	PROPN	NNP	Number=Sing	9	appos	_	VOA_EN_NW_2017_03_12_3761985_0:108-112
+20	8	8	NUM	CD	NumType=Card	19	nummod	_	VOA_EN_NW_2017_03_12_3761985_0:114-114
+21	,	,	PUNCT	,	_	19	punct	_	VOA_EN_NW_2017_03_12_3761985_0:115-115
+22	2017	2017	NUM	CD	NumType=Card	19	nummod	_	VOA_EN_NW_2017_03_12_3761985_0:117-120
+23	.	.	PUNCT	.	_	9	punct	_	VOA_EN_NW_2017_03_12_3761985_0:121-121
+

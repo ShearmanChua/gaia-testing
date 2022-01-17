@@ -1,0 +1,681 @@
+{
+  "docId": "VOA_EN_NW_2017_05_25_3870543_2.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 3,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "escort",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 22,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 13,
+          "docTokenEnd": 14,
+          "tokenBegin": 13,
+          "tokenEnd": 14,
+          "text": "North",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 69,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 14,
+          "docTokenEnd": 15,
+          "tokenBegin": 14,
+          "tokenEnd": 15,
+          "text": "Jakarta",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 77,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 19,
+          "tokenBegin": 18,
+          "tokenEnd": 19,
+          "text": "Jakarta",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 108,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 21,
+          "tokenBegin": 20,
+          "tokenEnd": 21,
+          "text": "Indonesia",
+          "characterOffsetBegin": 110,
+          "characterOffsetEnd": 119,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 22,
+          "docTokenEnd": 26,
+          "tokenBegin": 22,
+          "tokenEnd": 26,
+          "text": "May 22, 2017",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 133,
+          "ner": "DATE",
+          "normalizedNER": "2017-05-22",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-22"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Police",
+          "originalText": "Police",
+          "lemma": "police",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "pos": "NNS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "officers",
+          "originalText": "officers",
+          "lemma": "officer",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 15,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "escort",
+          "originalText": "escort",
+          "lemma": "escort",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 22,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "men",
+          "originalText": "men",
+          "lemma": "man",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 26,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "arrested",
+          "originalText": "arrested",
+          "lemma": "arrest",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 35,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 38,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 40,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "raid",
+          "originalText": "raid",
+          "lemma": "raid",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 45,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "on",
+          "originalText": "on",
+          "lemma": "on",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 48,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 50,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "gay",
+          "originalText": "gay",
+          "lemma": "gay",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 54,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "sauna",
+          "originalText": "sauna",
+          "lemma": "sauna",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 60,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 63,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "North",
+          "originalText": "North",
+          "lemma": "North",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 69,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Jakarta",
+          "originalText": "Jakarta",
+          "lemma": "Jakarta",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 77,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "police",
+          "originalText": "police",
+          "lemma": "police",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 84,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "headquarters",
+          "originalText": "headquarters",
+          "lemma": "headquarters",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 97,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 100,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Jakarta",
+          "originalText": "Jakarta",
+          "lemma": "Jakarta",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 108,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 109,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Indonesia",
+          "originalText": "Indonesia",
+          "lemma": "Indonesia",
+          "characterOffsetBegin": 110,
+          "characterOffsetEnd": 119,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 120,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "May",
+          "originalText": "May",
+          "lemma": "May",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 124,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-22",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-22"
+          }
+        },
+        {
+          "index": 24,
+          "word": "22",
+          "originalText": "22",
+          "lemma": "22",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 127,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-22",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-22"
+          }
+        },
+        {
+          "index": 25,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 127,
+          "characterOffsetEnd": 128,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-22",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-22"
+          }
+        },
+        {
+          "index": 26,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 129,
+          "characterOffsetEnd": 133,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-22",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-22"
+          }
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 133,
+          "characterOffsetEnd": 134,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 27,
+          "docTokenEnd": 28,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Indonesian",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 145,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 35,
+          "docTokenEnd": 36,
+          "tokenBegin": 8,
+          "tokenEnd": 9,
+          "text": "weekend",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 188,
+          "ner": "DATE",
+          "normalizedNER": "XXXX-WE",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "XXXX-WE"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Indonesian",
+          "originalText": "Indonesian",
+          "lemma": "indonesian",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 145,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "police",
+          "originalText": "police",
+          "lemma": "police",
+          "characterOffsetBegin": 146,
+          "characterOffsetEnd": 152,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "detained",
+          "originalText": "detained",
+          "lemma": "detain",
+          "characterOffsetBegin": 153,
+          "characterOffsetEnd": 161,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "dozens",
+          "originalText": "dozens",
+          "lemma": "dozen",
+          "characterOffsetBegin": 162,
+          "characterOffsetEnd": 168,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 169,
+          "characterOffsetEnd": 171,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "men",
+          "originalText": "men",
+          "lemma": "man",
+          "characterOffsetBegin": 172,
+          "characterOffsetEnd": 175,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 176,
+          "characterOffsetEnd": 178,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 179,
+          "characterOffsetEnd": 180,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "weekend",
+          "originalText": "weekend",
+          "lemma": "weekend",
+          "characterOffsetBegin": 181,
+          "characterOffsetEnd": 188,
+          "pos": "NN",
+          "ner": "DATE",
+          "normalizedNER": "XXXX-WE",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "XXXX-WE"
+          }
+        },
+        {
+          "index": 10,
+          "word": "raid",
+          "originalText": "raid",
+          "lemma": "raid",
+          "characterOffsetBegin": 189,
+          "characterOffsetEnd": 193,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "on",
+          "originalText": "on",
+          "lemma": "on",
+          "characterOffsetBegin": 194,
+          "characterOffsetEnd": 196,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 197,
+          "characterOffsetEnd": 198,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "gay",
+          "originalText": "gay",
+          "lemma": "gay",
+          "characterOffsetBegin": 199,
+          "characterOffsetEnd": 202,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "sauna",
+          "originalText": "sauna",
+          "lemma": "sauna",
+          "characterOffsetBegin": 203,
+          "characterOffsetEnd": 208,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 209,
+          "characterOffsetEnd": 211,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 212,
+          "characterOffsetEnd": 215,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "capital",
+          "originalText": "capital",
+          "lemma": "capital",
+          "characterOffsetBegin": 216,
+          "characterOffsetEnd": 223,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 223,
+          "characterOffsetEnd": 224,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

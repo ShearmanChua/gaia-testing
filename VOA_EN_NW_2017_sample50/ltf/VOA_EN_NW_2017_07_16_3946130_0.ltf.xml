@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_07_16_3946130_0">
+		<TEXT>
+			<SEG end_char="248" id="VOA_EN_NW_2017_07_16_3946130_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Singapore's Prime Minister Lee Hsien Loong delivers a speech during the launch of Commemorative Notes of the 50th Anniversary of the Currency Interchangeability Agreement between Singapore and Brunei at the Istana, July 5, 2017, in Singapore.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="15" id="token-0-2" start_char="7">Singapore</TOKEN>
+				<TOKEN end_char="16" id="token-0-3" start_char="16">'</TOKEN>
+				<TOKEN end_char="17" id="token-0-4" start_char="17">s</TOKEN>
+				<TOKEN end_char="23" id="token-0-5" start_char="19">Prime</TOKEN>
+				<TOKEN end_char="32" id="token-0-6" start_char="25">Minister</TOKEN>
+				<TOKEN end_char="36" id="token-0-7" start_char="34">Lee</TOKEN>
+				<TOKEN end_char="42" id="token-0-8" start_char="38">Hsien</TOKEN>
+				<TOKEN end_char="48" id="token-0-9" start_char="44">Loong</TOKEN>
+				<TOKEN end_char="57" id="token-0-10" start_char="50">delivers</TOKEN>
+				<TOKEN end_char="59" id="token-0-11" start_char="59">a</TOKEN>
+				<TOKEN end_char="66" id="token-0-12" start_char="61">speech</TOKEN>
+				<TOKEN end_char="73" id="token-0-13" start_char="68">during</TOKEN>
+				<TOKEN end_char="77" id="token-0-14" start_char="75">the</TOKEN>
+				<TOKEN end_char="84" id="token-0-15" start_char="79">launch</TOKEN>
+				<TOKEN end_char="87" id="token-0-16" start_char="86">of</TOKEN>
+				<TOKEN end_char="101" id="token-0-17" start_char="89">Commemorative</TOKEN>
+				<TOKEN end_char="107" id="token-0-18" start_char="103">Notes</TOKEN>
+				<TOKEN end_char="110" id="token-0-19" start_char="109">of</TOKEN>
+				<TOKEN end_char="114" id="token-0-20" start_char="112">the</TOKEN>
+				<TOKEN end_char="119" id="token-0-21" start_char="116">50th</TOKEN>
+				<TOKEN end_char="131" id="token-0-22" start_char="121">Anniversary</TOKEN>
+				<TOKEN end_char="134" id="token-0-23" start_char="133">of</TOKEN>
+				<TOKEN end_char="138" id="token-0-24" start_char="136">the</TOKEN>
+				<TOKEN end_char="147" id="token-0-25" start_char="140">Currency</TOKEN>
+				<TOKEN end_char="166" id="token-0-26" start_char="149">Interchangeability</TOKEN>
+				<TOKEN end_char="176" id="token-0-27" start_char="168">Agreement</TOKEN>
+				<TOKEN end_char="184" id="token-0-28" start_char="178">between</TOKEN>
+				<TOKEN end_char="194" id="token-0-29" start_char="186">Singapore</TOKEN>
+				<TOKEN end_char="198" id="token-0-30" start_char="196">and</TOKEN>
+				<TOKEN end_char="205" id="token-0-31" start_char="200">Brunei</TOKEN>
+				<TOKEN end_char="208" id="token-0-32" start_char="207">at</TOKEN>
+				<TOKEN end_char="212" id="token-0-33" start_char="210">the</TOKEN>
+				<TOKEN end_char="219" id="token-0-34" start_char="214">Istana</TOKEN>
+				<TOKEN end_char="220" id="token-0-35" start_char="220">,</TOKEN>
+				<TOKEN end_char="225" id="token-0-36" start_char="222">July</TOKEN>
+				<TOKEN end_char="227" id="token-0-37" start_char="227">5</TOKEN>
+				<TOKEN end_char="228" id="token-0-38" start_char="228">,</TOKEN>
+				<TOKEN end_char="233" id="token-0-39" start_char="230">2017</TOKEN>
+				<TOKEN end_char="234" id="token-0-40" start_char="234">,</TOKEN>
+				<TOKEN end_char="237" id="token-0-41" start_char="236">in</TOKEN>
+				<TOKEN end_char="247" id="token-0-42" start_char="239">Singapore</TOKEN>
+				<TOKEN end_char="248" id="token-0-43" start_char="248">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,27 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	VOA_EN_NW_2017_01_25_3691253_0:0-0
+2	medical	medical	ADJ	JJ	Degree=Pos	3	amod	_	VOA_EN_NW_2017_01_25_3691253_0:2-8
+3	worker	worker	NOUN	NN	Number=Sing	4	nsubj	_	VOA_EN_NW_2017_01_25_3691253_0:10-15
+4	attends	attend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_01_25_3691253_0:17-23
+5	to	to	ADP	IN	_	7	case	_	VOA_EN_NW_2017_01_25_3691253_0:25-26
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	VOA_EN_NW_2017_01_25_3691253_0:28-28
+7	child	child	NOUN	NN	Number=Sing	4	obl	_	VOA_EN_NW_2017_01_25_3691253_0:30-34
+8	at	at	ADP	IN	_	11	case	_	VOA_EN_NW_2017_01_25_3691253_0:36-37
+9	Ndirande	Ndirande	PROPN	NNP	Number=Sing	11	compound	_	VOA_EN_NW_2017_01_25_3691253_0:39-46
+10	Health	Health	PROPN	NNP	Number=Sing	11	compound	_	VOA_EN_NW_2017_01_25_3691253_0:48-53
+11	Center	Center	PROPN	NNP	Number=Sing	7	nmod	_	VOA_EN_NW_2017_01_25_3691253_0:55-60
+12	,	,	PUNCT	,	_	4	punct	_	VOA_EN_NW_2017_01_25_3691253_0:61-61
+13	one	one	NUM	CD	NumType=Card	17	nummod	_	VOA_EN_NW_2017_01_25_3691253_0:63-65
+14	of	of	ADP	IN	_	17	case	_	VOA_EN_NW_2017_01_25_3691253_0:67-68
+15	eight	eight	NUM	CD	NumType=Card	17	nummod	_	VOA_EN_NW_2017_01_25_3691253_0:70-74
+16	health	health	NOUN	NN	Number=Sing	17	compound	_	VOA_EN_NW_2017_01_25_3691253_0:76-81
+17	centers	center	NOUN	NNS	Number=Plur	4	obl	_	VOA_EN_NW_2017_01_25_3691253_0:83-89
+18	using	use	VERB	VBG	VerbForm=Ger	17	acl	_	VOA_EN_NW_2017_01_25_3691253_0:91-95
+19	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	VOA_EN_NW_2017_01_25_3691253_0:97-99
+20	Chipatala	Chipatala	PROPN	NNP	Number=Sing	21	compound	_	VOA_EN_NW_2017_01_25_3691253_0:101-109
+21	Robot	Robot	PROPN	NNP	Number=Sing	22	compound	_	VOA_EN_NW_2017_01_25_3691253_0:111-115
+22	program	program	NOUN	NN	Number=Sing	18	obj	_	VOA_EN_NW_2017_01_25_3691253_0:117-123
+23	in	in	ADP	IN	_	25	case	_	VOA_EN_NW_2017_01_25_3691253_0:125-126
+24	southern	southern	ADJ	JJ	Degree=Pos	25	amod	_	VOA_EN_NW_2017_01_25_3691253_0:128-135
+25	Malawi	Malawi	PROPN	NNP	Number=Sing	22	nmod	_	VOA_EN_NW_2017_01_25_3691253_0:137-142
+26	.	.	PUNCT	.	_	4	punct	_	VOA_EN_NW_2017_01_25_3691253_0:143-143
+

@@ -1,0 +1,47 @@
+{
+    "http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_01_25_3691253_0/EN_Entity_EDL_0000376": {
+        "offset": [
+            "VOA_EN_NW_2017_01_25_3691253_0:10-15"
+        ],
+        "bboxs": [
+            "VOA_EN_NW_2017_01_25_3691253_0-431-670-3943-2924.png"
+        ],
+        "bboxs_confidence": [
+            "0.6967529"
+        ]
+    },
+    "http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_01_25_3691253_0/EN_Entity_EDL_0000378": {
+        "offset": [
+            "VOA_EN_NW_2017_01_25_3691253_0:83-89"
+        ],
+        "bboxs": [
+            "VOA_EN_NW_2017_01_25_3691253_0-0-731-4024-2913.png"
+        ],
+        "bboxs_confidence": [
+            "0.7275121"
+        ]
+    },
+    "http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_01_25_3691253_0/EN_Entity_EDL_0000377": {
+        "offset": [
+            "VOA_EN_NW_2017_01_25_3691253_0:30-34"
+        ],
+        "bboxs": [
+            "VOA_EN_NW_2017_01_25_3691253_0-0-934-3954-2880.png"
+        ],
+        "bboxs_confidence": [
+            "0.5600206"
+        ]
+    },
+    "http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_01_25_3691253_0/EN_Entity_EDL_0000374": {
+        "offset": [
+            "VOA_EN_NW_2017_01_25_3691253_0:63-65",
+            "VOA_EN_NW_2017_01_25_3691253_0:39-60"
+        ],
+        "bboxs": [
+            "VOA_EN_NW_2017_01_25_3691253_0-0-1021-3950-2876.png"
+        ],
+        "bboxs_confidence": [
+            "0.5784659"
+        ]
+    }
+}

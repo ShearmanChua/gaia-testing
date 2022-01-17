@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_01_15_3677179_0">
+		<TEXT>
+			<SEG end_char="244" id="VOA_EN_NW_2017_01_15_3677179_0-0" start_char="0">
+				<ORIGINAL_TEXT>In this still image made from video provided by opposition operated Step News Agency, which is consistent with independent AP reporting, a man views scenes of destruction inside a banquet hall, in Deir Qanoun, Barada Valley, Syria, Jan. 15, 2017</ORIGINAL_TEXT>
+				<TOKEN end_char="1" id="token-0-0" start_char="0">In</TOKEN>
+				<TOKEN end_char="6" id="token-0-1" start_char="3">this</TOKEN>
+				<TOKEN end_char="12" id="token-0-2" start_char="8">still</TOKEN>
+				<TOKEN end_char="18" id="token-0-3" start_char="14">image</TOKEN>
+				<TOKEN end_char="23" id="token-0-4" start_char="20">made</TOKEN>
+				<TOKEN end_char="28" id="token-0-5" start_char="25">from</TOKEN>
+				<TOKEN end_char="34" id="token-0-6" start_char="30">video</TOKEN>
+				<TOKEN end_char="43" id="token-0-7" start_char="36">provided</TOKEN>
+				<TOKEN end_char="46" id="token-0-8" start_char="45">by</TOKEN>
+				<TOKEN end_char="57" id="token-0-9" start_char="48">opposition</TOKEN>
+				<TOKEN end_char="66" id="token-0-10" start_char="59">operated</TOKEN>
+				<TOKEN end_char="71" id="token-0-11" start_char="68">Step</TOKEN>
+				<TOKEN end_char="76" id="token-0-12" start_char="73">News</TOKEN>
+				<TOKEN end_char="83" id="token-0-13" start_char="78">Agency</TOKEN>
+				<TOKEN end_char="84" id="token-0-14" start_char="84">,</TOKEN>
+				<TOKEN end_char="90" id="token-0-15" start_char="86">which</TOKEN>
+				<TOKEN end_char="93" id="token-0-16" start_char="92">is</TOKEN>
+				<TOKEN end_char="104" id="token-0-17" start_char="95">consistent</TOKEN>
+				<TOKEN end_char="109" id="token-0-18" start_char="106">with</TOKEN>
+				<TOKEN end_char="121" id="token-0-19" start_char="111">independent</TOKEN>
+				<TOKEN end_char="124" id="token-0-20" start_char="123">AP</TOKEN>
+				<TOKEN end_char="134" id="token-0-21" start_char="126">reporting</TOKEN>
+				<TOKEN end_char="135" id="token-0-22" start_char="135">,</TOKEN>
+				<TOKEN end_char="137" id="token-0-23" start_char="137">a</TOKEN>
+				<TOKEN end_char="141" id="token-0-24" start_char="139">man</TOKEN>
+				<TOKEN end_char="147" id="token-0-25" start_char="143">views</TOKEN>
+				<TOKEN end_char="154" id="token-0-26" start_char="149">scenes</TOKEN>
+				<TOKEN end_char="157" id="token-0-27" start_char="156">of</TOKEN>
+				<TOKEN end_char="169" id="token-0-28" start_char="159">destruction</TOKEN>
+				<TOKEN end_char="176" id="token-0-29" start_char="171">inside</TOKEN>
+				<TOKEN end_char="178" id="token-0-30" start_char="178">a</TOKEN>
+				<TOKEN end_char="186" id="token-0-31" start_char="180">banquet</TOKEN>
+				<TOKEN end_char="191" id="token-0-32" start_char="188">hall</TOKEN>
+				<TOKEN end_char="192" id="token-0-33" start_char="192">,</TOKEN>
+				<TOKEN end_char="195" id="token-0-34" start_char="194">in</TOKEN>
+				<TOKEN end_char="200" id="token-0-35" start_char="197">Deir</TOKEN>
+				<TOKEN end_char="207" id="token-0-36" start_char="202">Qanoun</TOKEN>
+				<TOKEN end_char="208" id="token-0-37" start_char="208">,</TOKEN>
+				<TOKEN end_char="215" id="token-0-38" start_char="210">Barada</TOKEN>
+				<TOKEN end_char="222" id="token-0-39" start_char="217">Valley</TOKEN>
+				<TOKEN end_char="223" id="token-0-40" start_char="223">,</TOKEN>
+				<TOKEN end_char="229" id="token-0-41" start_char="225">Syria</TOKEN>
+				<TOKEN end_char="230" id="token-0-42" start_char="230">,</TOKEN>
+				<TOKEN end_char="234" id="token-0-43" start_char="232">Jan</TOKEN>
+				<TOKEN end_char="235" id="token-0-44" start_char="235">.</TOKEN>
+				<TOKEN end_char="238" id="token-0-45" start_char="237">15</TOKEN>
+				<TOKEN end_char="239" id="token-0-46" start_char="239">,</TOKEN>
+				<TOKEN end_char="244" id="token-0-47" start_char="241">2017</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

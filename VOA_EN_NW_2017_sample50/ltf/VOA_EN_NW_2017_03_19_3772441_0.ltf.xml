@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_19_3772441_0">
+		<TEXT>
+			<SEG end_char="194" id="VOA_EN_NW_2017_03_19_3772441_0-0" start_char="0">
+				<ORIGINAL_TEXT>In this March 15, 2017 photo, supporters of Turkey's main opposition Republican People's Party, or CHP, sit at their tent promoting the 'NO' vote for the upcoming referendum, in central Istanbul.</ORIGINAL_TEXT>
+				<TOKEN end_char="1" id="token-0-0" start_char="0">In</TOKEN>
+				<TOKEN end_char="6" id="token-0-1" start_char="3">this</TOKEN>
+				<TOKEN end_char="12" id="token-0-2" start_char="8">March</TOKEN>
+				<TOKEN end_char="15" id="token-0-3" start_char="14">15</TOKEN>
+				<TOKEN end_char="16" id="token-0-4" start_char="16">,</TOKEN>
+				<TOKEN end_char="21" id="token-0-5" start_char="18">2017</TOKEN>
+				<TOKEN end_char="27" id="token-0-6" start_char="23">photo</TOKEN>
+				<TOKEN end_char="28" id="token-0-7" start_char="28">,</TOKEN>
+				<TOKEN end_char="39" id="token-0-8" start_char="30">supporters</TOKEN>
+				<TOKEN end_char="42" id="token-0-9" start_char="41">of</TOKEN>
+				<TOKEN end_char="49" id="token-0-10" start_char="44">Turkey</TOKEN>
+				<TOKEN end_char="50" id="token-0-11" start_char="50">'</TOKEN>
+				<TOKEN end_char="51" id="token-0-12" start_char="51">s</TOKEN>
+				<TOKEN end_char="56" id="token-0-13" start_char="53">main</TOKEN>
+				<TOKEN end_char="67" id="token-0-14" start_char="58">opposition</TOKEN>
+				<TOKEN end_char="78" id="token-0-15" start_char="69">Republican</TOKEN>
+				<TOKEN end_char="85" id="token-0-16" start_char="80">People</TOKEN>
+				<TOKEN end_char="86" id="token-0-17" start_char="86">'</TOKEN>
+				<TOKEN end_char="87" id="token-0-18" start_char="87">s</TOKEN>
+				<TOKEN end_char="93" id="token-0-19" start_char="89">Party</TOKEN>
+				<TOKEN end_char="94" id="token-0-20" start_char="94">,</TOKEN>
+				<TOKEN end_char="97" id="token-0-21" start_char="96">or</TOKEN>
+				<TOKEN end_char="101" id="token-0-22" start_char="99">CHP</TOKEN>
+				<TOKEN end_char="102" id="token-0-23" start_char="102">,</TOKEN>
+				<TOKEN end_char="106" id="token-0-24" start_char="104">sit</TOKEN>
+				<TOKEN end_char="109" id="token-0-25" start_char="108">at</TOKEN>
+				<TOKEN end_char="115" id="token-0-26" start_char="111">their</TOKEN>
+				<TOKEN end_char="120" id="token-0-27" start_char="117">tent</TOKEN>
+				<TOKEN end_char="130" id="token-0-28" start_char="122">promoting</TOKEN>
+				<TOKEN end_char="134" id="token-0-29" start_char="132">the</TOKEN>
+				<TOKEN end_char="136" id="token-0-30" start_char="136">'</TOKEN>
+				<TOKEN end_char="138" id="token-0-31" start_char="137">NO</TOKEN>
+				<TOKEN end_char="139" id="token-0-32" start_char="139">'</TOKEN>
+				<TOKEN end_char="144" id="token-0-33" start_char="141">vote</TOKEN>
+				<TOKEN end_char="148" id="token-0-34" start_char="146">for</TOKEN>
+				<TOKEN end_char="152" id="token-0-35" start_char="150">the</TOKEN>
+				<TOKEN end_char="161" id="token-0-36" start_char="154">upcoming</TOKEN>
+				<TOKEN end_char="172" id="token-0-37" start_char="163">referendum</TOKEN>
+				<TOKEN end_char="173" id="token-0-38" start_char="173">,</TOKEN>
+				<TOKEN end_char="176" id="token-0-39" start_char="175">in</TOKEN>
+				<TOKEN end_char="184" id="token-0-40" start_char="178">central</TOKEN>
+				<TOKEN end_char="193" id="token-0-41" start_char="186">Istanbul</TOKEN>
+				<TOKEN end_char="194" id="token-0-42" start_char="194">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

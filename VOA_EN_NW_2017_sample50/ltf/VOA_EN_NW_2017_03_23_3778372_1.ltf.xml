@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_23_3778372_1">
+		<TEXT>
+			<SEG end_char="203" id="VOA_EN_NW_2017_03_23_3778372_1-0" start_char="0">
+				<ORIGINAL_TEXT>Local and national media report on more than 170 toppled Jewish headstones after a weekend vandalism attack on Chesed Shel Emeth Cemetery in University City, a suburb of St Louis, Missouri, Feb. 21, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="4" id="token-0-0" start_char="0">Local</TOKEN>
+				<TOKEN end_char="8" id="token-0-1" start_char="6">and</TOKEN>
+				<TOKEN end_char="17" id="token-0-2" start_char="10">national</TOKEN>
+				<TOKEN end_char="23" id="token-0-3" start_char="19">media</TOKEN>
+				<TOKEN end_char="30" id="token-0-4" start_char="25">report</TOKEN>
+				<TOKEN end_char="33" id="token-0-5" start_char="32">on</TOKEN>
+				<TOKEN end_char="38" id="token-0-6" start_char="35">more</TOKEN>
+				<TOKEN end_char="43" id="token-0-7" start_char="40">than</TOKEN>
+				<TOKEN end_char="47" id="token-0-8" start_char="45">170</TOKEN>
+				<TOKEN end_char="55" id="token-0-9" start_char="49">toppled</TOKEN>
+				<TOKEN end_char="62" id="token-0-10" start_char="57">Jewish</TOKEN>
+				<TOKEN end_char="73" id="token-0-11" start_char="64">headstones</TOKEN>
+				<TOKEN end_char="79" id="token-0-12" start_char="75">after</TOKEN>
+				<TOKEN end_char="81" id="token-0-13" start_char="81">a</TOKEN>
+				<TOKEN end_char="89" id="token-0-14" start_char="83">weekend</TOKEN>
+				<TOKEN end_char="99" id="token-0-15" start_char="91">vandalism</TOKEN>
+				<TOKEN end_char="106" id="token-0-16" start_char="101">attack</TOKEN>
+				<TOKEN end_char="109" id="token-0-17" start_char="108">on</TOKEN>
+				<TOKEN end_char="116" id="token-0-18" start_char="111">Chesed</TOKEN>
+				<TOKEN end_char="121" id="token-0-19" start_char="118">Shel</TOKEN>
+				<TOKEN end_char="127" id="token-0-20" start_char="123">Emeth</TOKEN>
+				<TOKEN end_char="136" id="token-0-21" start_char="129">Cemetery</TOKEN>
+				<TOKEN end_char="139" id="token-0-22" start_char="138">in</TOKEN>
+				<TOKEN end_char="150" id="token-0-23" start_char="141">University</TOKEN>
+				<TOKEN end_char="155" id="token-0-24" start_char="152">City</TOKEN>
+				<TOKEN end_char="156" id="token-0-25" start_char="156">,</TOKEN>
+				<TOKEN end_char="158" id="token-0-26" start_char="158">a</TOKEN>
+				<TOKEN end_char="165" id="token-0-27" start_char="160">suburb</TOKEN>
+				<TOKEN end_char="168" id="token-0-28" start_char="167">of</TOKEN>
+				<TOKEN end_char="171" id="token-0-29" start_char="170">St</TOKEN>
+				<TOKEN end_char="177" id="token-0-30" start_char="173">Louis</TOKEN>
+				<TOKEN end_char="178" id="token-0-31" start_char="178">,</TOKEN>
+				<TOKEN end_char="187" id="token-0-32" start_char="180">Missouri</TOKEN>
+				<TOKEN end_char="188" id="token-0-33" start_char="188">,</TOKEN>
+				<TOKEN end_char="192" id="token-0-34" start_char="190">Feb</TOKEN>
+				<TOKEN end_char="193" id="token-0-35" start_char="193">.</TOKEN>
+				<TOKEN end_char="196" id="token-0-36" start_char="195">21</TOKEN>
+				<TOKEN end_char="197" id="token-0-37" start_char="197">,</TOKEN>
+				<TOKEN end_char="202" id="token-0-38" start_char="199">2017</TOKEN>
+				<TOKEN end_char="203" id="token-0-39" start_char="203">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

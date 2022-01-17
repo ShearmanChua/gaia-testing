@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_14_3900403_0">
+		<TEXT>
+			<SEG end_char="260" id="VOA_EN_NW_2017_06_14_3900403_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Supporters of Zambian President Edgar Lungu react while supporters of Zambia's opposition leader, Hakainde Hichilema, picket alongside Democratic Alliance (DA) members outside the High Commission of Zambia, in Pretoria, South Africa, Friday May 26, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="16" id="token-0-2" start_char="7">Supporters</TOKEN>
+				<TOKEN end_char="19" id="token-0-3" start_char="18">of</TOKEN>
+				<TOKEN end_char="27" id="token-0-4" start_char="21">Zambian</TOKEN>
+				<TOKEN end_char="37" id="token-0-5" start_char="29">President</TOKEN>
+				<TOKEN end_char="43" id="token-0-6" start_char="39">Edgar</TOKEN>
+				<TOKEN end_char="49" id="token-0-7" start_char="45">Lungu</TOKEN>
+				<TOKEN end_char="55" id="token-0-8" start_char="51">react</TOKEN>
+				<TOKEN end_char="61" id="token-0-9" start_char="57">while</TOKEN>
+				<TOKEN end_char="72" id="token-0-10" start_char="63">supporters</TOKEN>
+				<TOKEN end_char="75" id="token-0-11" start_char="74">of</TOKEN>
+				<TOKEN end_char="82" id="token-0-12" start_char="77">Zambia</TOKEN>
+				<TOKEN end_char="83" id="token-0-13" start_char="83">'</TOKEN>
+				<TOKEN end_char="84" id="token-0-14" start_char="84">s</TOKEN>
+				<TOKEN end_char="95" id="token-0-15" start_char="86">opposition</TOKEN>
+				<TOKEN end_char="102" id="token-0-16" start_char="97">leader</TOKEN>
+				<TOKEN end_char="103" id="token-0-17" start_char="103">,</TOKEN>
+				<TOKEN end_char="112" id="token-0-18" start_char="105">Hakainde</TOKEN>
+				<TOKEN end_char="122" id="token-0-19" start_char="114">Hichilema</TOKEN>
+				<TOKEN end_char="123" id="token-0-20" start_char="123">,</TOKEN>
+				<TOKEN end_char="130" id="token-0-21" start_char="125">picket</TOKEN>
+				<TOKEN end_char="140" id="token-0-22" start_char="132">alongside</TOKEN>
+				<TOKEN end_char="151" id="token-0-23" start_char="142">Democratic</TOKEN>
+				<TOKEN end_char="160" id="token-0-24" start_char="153">Alliance</TOKEN>
+				<TOKEN end_char="162" id="token-0-25" start_char="162">(</TOKEN>
+				<TOKEN end_char="164" id="token-0-26" start_char="163">DA</TOKEN>
+				<TOKEN end_char="165" id="token-0-27" start_char="165">)</TOKEN>
+				<TOKEN end_char="173" id="token-0-28" start_char="167">members</TOKEN>
+				<TOKEN end_char="181" id="token-0-29" start_char="175">outside</TOKEN>
+				<TOKEN end_char="185" id="token-0-30" start_char="183">the</TOKEN>
+				<TOKEN end_char="190" id="token-0-31" start_char="187">High</TOKEN>
+				<TOKEN end_char="201" id="token-0-32" start_char="192">Commission</TOKEN>
+				<TOKEN end_char="204" id="token-0-33" start_char="203">of</TOKEN>
+				<TOKEN end_char="211" id="token-0-34" start_char="206">Zambia</TOKEN>
+				<TOKEN end_char="212" id="token-0-35" start_char="212">,</TOKEN>
+				<TOKEN end_char="215" id="token-0-36" start_char="214">in</TOKEN>
+				<TOKEN end_char="224" id="token-0-37" start_char="217">Pretoria</TOKEN>
+				<TOKEN end_char="225" id="token-0-38" start_char="225">,</TOKEN>
+				<TOKEN end_char="231" id="token-0-39" start_char="227">South</TOKEN>
+				<TOKEN end_char="238" id="token-0-40" start_char="233">Africa</TOKEN>
+				<TOKEN end_char="239" id="token-0-41" start_char="239">,</TOKEN>
+				<TOKEN end_char="246" id="token-0-42" start_char="241">Friday</TOKEN>
+				<TOKEN end_char="250" id="token-0-43" start_char="248">May</TOKEN>
+				<TOKEN end_char="253" id="token-0-44" start_char="252">26</TOKEN>
+				<TOKEN end_char="254" id="token-0-45" start_char="254">,</TOKEN>
+				<TOKEN end_char="259" id="token-0-46" start_char="256">2017</TOKEN>
+				<TOKEN end_char="260" id="token-0-47" start_char="260">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

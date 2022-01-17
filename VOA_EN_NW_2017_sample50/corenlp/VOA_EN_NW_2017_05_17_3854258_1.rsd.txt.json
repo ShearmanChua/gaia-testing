@@ -1,0 +1,475 @@
+{
+  "docId": "VOA_EN_NW_2017_05_17_3854258_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "King",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 87,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "Cheops",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 94,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 19,
+          "docTokenEnd": 20,
+          "tokenBegin": 19,
+          "tokenEnd": 20,
+          "text": "Giza",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 106,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 23,
+          "docTokenEnd": 24,
+          "tokenBegin": 23,
+          "tokenEnd": 24,
+          "text": "Cairo",
+          "characterOffsetBegin": 131,
+          "characterOffsetEnd": 136,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 25,
+          "docTokenEnd": 26,
+          "tokenBegin": 25,
+          "tokenEnd": 26,
+          "text": "Egypt",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 143,
+          "ner": "COUNTRY"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Tourists",
+          "originalText": "Tourists",
+          "lemma": "tourist",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 15,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "are",
+          "originalText": "are",
+          "lemma": "be",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 19,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "gathering",
+          "originalText": "gathering",
+          "lemma": "gather",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 29,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "around",
+          "originalText": "around",
+          "lemma": "around",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 36,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 40,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Sphinx",
+          "originalText": "Sphinx",
+          "lemma": "sphinx",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 47,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 48,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "which",
+          "originalText": "which",
+          "lemma": "which",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 54,
+          "pos": "WDT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "guards",
+          "originalText": "guards",
+          "lemma": "guard",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 61,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 65,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Great",
+          "originalText": "Great",
+          "lemma": "great",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 71,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Pyramid",
+          "originalText": "Pyramid",
+          "lemma": "pyramid",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 79,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 82,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "King",
+          "originalText": "King",
+          "lemma": "King",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 87,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Cheops",
+          "originalText": "Cheops",
+          "lemma": "Cheops",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 94,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 97,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 101,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Giza",
+          "originalText": "Giza",
+          "lemma": "Giza",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 106,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "necropolis",
+          "originalText": "necropolis",
+          "lemma": "necropolis",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 117,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "just",
+          "originalText": "just",
+          "lemma": "just",
+          "characterOffsetBegin": 118,
+          "characterOffsetEnd": 122,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "outside",
+          "originalText": "outside",
+          "lemma": "outside",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 130,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "Cairo",
+          "originalText": "Cairo",
+          "lemma": "Cairo",
+          "characterOffsetBegin": 131,
+          "characterOffsetEnd": 136,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 137,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "Egypt",
+          "originalText": "Egypt",
+          "lemma": "Egypt",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 143,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 143,
+          "characterOffsetEnd": 144,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 30,
+          "docTokenEnd": 32,
+          "tokenBegin": 3,
+          "tokenEnd": 5,
+          "text": "Diaa Bekheet",
+          "characterOffsetBegin": 153,
+          "characterOffsetEnd": 165,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "-LRB-",
+          "originalText": "(",
+          "lemma": "-lrb-",
+          "characterOffsetBegin": 145,
+          "characterOffsetEnd": 146,
+          "pos": "-LRB-",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": "photo",
+          "originalText": "photo",
+          "lemma": "photo",
+          "characterOffsetBegin": 146,
+          "characterOffsetEnd": 151,
+          "pos": "NN",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": ":",
+          "originalText": ":",
+          "lemma": ":",
+          "characterOffsetBegin": 151,
+          "characterOffsetEnd": 152,
+          "pos": ":",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Diaa",
+          "originalText": "Diaa",
+          "lemma": "Diaa",
+          "characterOffsetBegin": 153,
+          "characterOffsetEnd": 157,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Bekheet",
+          "originalText": "Bekheet",
+          "lemma": "Bekheet",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 165,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": "-RRB-",
+          "originalText": ")",
+          "lemma": "-rrb-",
+          "characterOffsetBegin": 165,
+          "characterOffsetEnd": 166,
+          "pos": "-RRB-",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

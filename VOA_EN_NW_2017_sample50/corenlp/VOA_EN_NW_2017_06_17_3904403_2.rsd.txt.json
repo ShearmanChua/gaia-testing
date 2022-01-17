@@ -1,0 +1,364 @@
+{
+  "docId": "VOA_EN_NW_2017_06_17_3904403_2.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 2,
+          "tokenBegin": 1,
+          "tokenEnd": 2,
+          "text": "driver",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 4,
+          "tokenBegin": 2,
+          "tokenEnd": 4,
+          "text": "Ivo Pold",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 22,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 6,
+          "tokenBegin": 5,
+          "tokenEnd": 6,
+          "text": "driver",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 36,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 12,
+          "docTokenEnd": 13,
+          "tokenBegin": 12,
+          "tokenEnd": 13,
+          "text": "Tallinn",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 64,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 14,
+          "docTokenEnd": 15,
+          "tokenBegin": 14,
+          "tokenEnd": 15,
+          "text": "Estonia",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 73,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 20,
+          "tokenBegin": 16,
+          "tokenEnd": 20,
+          "text": "June 13, 2017",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 88,
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 10,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "his",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 49,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Taxify",
+          "originalText": "Taxify",
+          "lemma": "taxify",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "pos": "JJ",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "driver",
+          "originalText": "driver",
+          "lemma": "driver",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Ivo",
+          "originalText": "Ivo",
+          "lemma": "Ivo",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 17,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Pold",
+          "originalText": "Pold",
+          "lemma": "Pold",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 22,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "checks",
+          "originalText": "checks",
+          "lemma": "check",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 29,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "driver",
+          "originalText": "driver",
+          "lemma": "driver",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 36,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 38,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "app",
+          "originalText": "app",
+          "lemma": "app",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 42,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 43,
+          "characterOffsetEnd": 45,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "his",
+          "originalText": "his",
+          "lemma": "he",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 49,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "car",
+          "originalText": "car",
+          "lemma": "car",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 53,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 54,
+          "characterOffsetEnd": 56,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Tallinn",
+          "originalText": "Tallinn",
+          "lemma": "Tallinn",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 64,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 14,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 65,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Estonia",
+          "originalText": "Estonia",
+          "lemma": "Estonia",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 73,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 73,
+          "characterOffsetEnd": 74,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 79,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 18,
+          "word": "13",
+          "originalText": "13",
+          "lemma": "13",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 82,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 83,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 20,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 84,
+          "characterOffsetEnd": 88,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 21,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 89,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

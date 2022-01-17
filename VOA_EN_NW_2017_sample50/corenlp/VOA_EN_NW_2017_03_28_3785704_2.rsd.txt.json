@@ -1,0 +1,669 @@
+{
+  "docId": "VOA_EN_NW_2017_03_28_3785704_2.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "U.N.",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 2,
+          "tokenBegin": 1,
+          "tokenEnd": 2,
+          "text": "Secretary-General",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 22,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 4,
+          "tokenBegin": 2,
+          "tokenEnd": 4,
+          "text": "Antonio Guterres",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 39,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 12,
+          "docTokenEnd": 13,
+          "tokenBegin": 12,
+          "tokenEnd": 13,
+          "text": "Zaatari",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 94,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "Syrian",
+          "characterOffsetBegin": 104,
+          "characterOffsetEnd": 110,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 21,
+          "tokenBegin": 20,
+          "tokenEnd": 21,
+          "text": "Jordan",
+          "characterOffsetBegin": 133,
+          "characterOffsetEnd": 139,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 22,
+          "docTokenEnd": 26,
+          "tokenBegin": 22,
+          "tokenEnd": 26,
+          "text": "March 28, 2017",
+          "characterOffsetBegin": 141,
+          "characterOffsetEnd": 155,
+          "ner": "DATE",
+          "normalizedNER": "2017-03-28",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-28"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "U.N.",
+          "originalText": "U.N.",
+          "lemma": "U.N.",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Secretary-General",
+          "originalText": "Secretary-General",
+          "lemma": "Secretary-General",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 22,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Antonio",
+          "originalText": "Antonio",
+          "lemma": "Antonio",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 30,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Guterres",
+          "originalText": "Guterres",
+          "lemma": "Guterres",
+          "characterOffsetBegin": 31,
+          "characterOffsetEnd": 39,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "speaks",
+          "originalText": "speaks",
+          "lemma": "speak",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 46,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 49,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "refugees",
+          "originalText": "refugees",
+          "lemma": "refugee",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 58,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "during",
+          "originalText": "during",
+          "lemma": "during",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 65,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 67,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "visit",
+          "originalText": "visit",
+          "lemma": "visit",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 73,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 77,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "U.N.-run",
+          "originalText": "U.N.-run",
+          "lemma": "U.N.-run",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 86,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Zaatari",
+          "originalText": "Zaatari",
+          "lemma": "Zaatari",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 94,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "camp",
+          "originalText": "camp",
+          "lemma": "camp",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 99,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "for",
+          "originalText": "for",
+          "lemma": "for",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 103,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Syrian",
+          "originalText": "Syrian",
+          "lemma": "syrian",
+          "characterOffsetBegin": 104,
+          "characterOffsetEnd": 110,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "refugees",
+          "originalText": "refugees",
+          "lemma": "refugee",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 119,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 120,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 123,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "northern",
+          "originalText": "northern",
+          "lemma": "northern",
+          "characterOffsetBegin": 124,
+          "characterOffsetEnd": 132,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Jordan",
+          "originalText": "Jordan",
+          "lemma": "Jordan",
+          "characterOffsetBegin": 133,
+          "characterOffsetEnd": 139,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 139,
+          "characterOffsetEnd": 140,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "March",
+          "originalText": "March",
+          "lemma": "March",
+          "characterOffsetBegin": 141,
+          "characterOffsetEnd": 146,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-28",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-28"
+          }
+        },
+        {
+          "index": 24,
+          "word": "28",
+          "originalText": "28",
+          "lemma": "28",
+          "characterOffsetBegin": 147,
+          "characterOffsetEnd": 149,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-28",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-28"
+          }
+        },
+        {
+          "index": 25,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 149,
+          "characterOffsetEnd": 150,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-28",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-28"
+          }
+        },
+        {
+          "index": 26,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 151,
+          "characterOffsetEnd": 155,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-28",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-28"
+          }
+        },
+        {
+          "index": 27,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 155,
+          "characterOffsetEnd": 156,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 27,
+          "docTokenEnd": 28,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Guterres",
+          "characterOffsetBegin": 157,
+          "characterOffsetEnd": 165,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 33,
+          "docTokenEnd": 34,
+          "tokenBegin": 6,
+          "tokenEnd": 7,
+          "text": "Arab",
+          "characterOffsetBegin": 189,
+          "characterOffsetEnd": 193,
+          "ner": "MISC"
+        },
+        {
+          "docTokenBegin": 36,
+          "docTokenEnd": 37,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "Jordan",
+          "characterOffsetBegin": 204,
+          "characterOffsetEnd": 210,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 38,
+          "docTokenEnd": 40,
+          "tokenBegin": 11,
+          "tokenEnd": 13,
+          "text": "March 29",
+          "characterOffsetBegin": 214,
+          "characterOffsetEnd": 222,
+          "ner": "DATE",
+          "normalizedNER": "XXXX-03-29",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "XXXX-03-29"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Guterres",
+          "originalText": "Guterres",
+          "lemma": "Guterres",
+          "characterOffsetBegin": 157,
+          "characterOffsetEnd": 165,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 166,
+          "characterOffsetEnd": 168,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 169,
+          "characterOffsetEnd": 171,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "attend",
+          "originalText": "attend",
+          "lemma": "attend",
+          "characterOffsetBegin": 172,
+          "characterOffsetEnd": 178,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "an",
+          "originalText": "an",
+          "lemma": "a",
+          "characterOffsetBegin": 179,
+          "characterOffsetEnd": 181,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "annual",
+          "originalText": "annual",
+          "lemma": "annual",
+          "characterOffsetBegin": 182,
+          "characterOffsetEnd": 188,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Arab",
+          "originalText": "Arab",
+          "lemma": "Arab",
+          "characterOffsetBegin": 189,
+          "characterOffsetEnd": 193,
+          "pos": "NNP",
+          "ner": "MISC",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "summit",
+          "originalText": "summit",
+          "lemma": "summit",
+          "characterOffsetBegin": 194,
+          "characterOffsetEnd": 200,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 201,
+          "characterOffsetEnd": 203,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Jordan",
+          "originalText": "Jordan",
+          "lemma": "Jordan",
+          "characterOffsetBegin": 204,
+          "characterOffsetEnd": 210,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "on",
+          "originalText": "on",
+          "lemma": "on",
+          "characterOffsetBegin": 211,
+          "characterOffsetEnd": 213,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "March",
+          "originalText": "March",
+          "lemma": "March",
+          "characterOffsetBegin": 214,
+          "characterOffsetEnd": 219,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "XXXX-03-29",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "XXXX-03-29"
+          }
+        },
+        {
+          "index": 13,
+          "word": "29",
+          "originalText": "29",
+          "lemma": "29",
+          "characterOffsetBegin": 220,
+          "characterOffsetEnd": 222,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "XXXX-03-29",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "XXXX-03-29"
+          }
+        },
+        {
+          "index": 14,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 222,
+          "characterOffsetEnd": 223,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

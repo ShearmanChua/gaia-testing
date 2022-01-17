@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_04_21_3820641_1">
+		<TEXT>
+			<SEG end_char="120" id="VOA_EN_NW_2017_04_21_3820641_1-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - A man casts his ballot at a polling station during a referendum Aegean port city of Izmir, Turkey, April 16, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="7" id="token-0-2" start_char="7">A</TOKEN>
+				<TOKEN end_char="11" id="token-0-3" start_char="9">man</TOKEN>
+				<TOKEN end_char="17" id="token-0-4" start_char="13">casts</TOKEN>
+				<TOKEN end_char="21" id="token-0-5" start_char="19">his</TOKEN>
+				<TOKEN end_char="28" id="token-0-6" start_char="23">ballot</TOKEN>
+				<TOKEN end_char="31" id="token-0-7" start_char="30">at</TOKEN>
+				<TOKEN end_char="33" id="token-0-8" start_char="33">a</TOKEN>
+				<TOKEN end_char="41" id="token-0-9" start_char="35">polling</TOKEN>
+				<TOKEN end_char="49" id="token-0-10" start_char="43">station</TOKEN>
+				<TOKEN end_char="56" id="token-0-11" start_char="51">during</TOKEN>
+				<TOKEN end_char="58" id="token-0-12" start_char="58">a</TOKEN>
+				<TOKEN end_char="69" id="token-0-13" start_char="60">referendum</TOKEN>
+				<TOKEN end_char="76" id="token-0-14" start_char="71">Aegean</TOKEN>
+				<TOKEN end_char="81" id="token-0-15" start_char="78">port</TOKEN>
+				<TOKEN end_char="86" id="token-0-16" start_char="83">city</TOKEN>
+				<TOKEN end_char="89" id="token-0-17" start_char="88">of</TOKEN>
+				<TOKEN end_char="95" id="token-0-18" start_char="91">Izmir</TOKEN>
+				<TOKEN end_char="96" id="token-0-19" start_char="96">,</TOKEN>
+				<TOKEN end_char="103" id="token-0-20" start_char="98">Turkey</TOKEN>
+				<TOKEN end_char="104" id="token-0-21" start_char="104">,</TOKEN>
+				<TOKEN end_char="110" id="token-0-22" start_char="106">April</TOKEN>
+				<TOKEN end_char="113" id="token-0-23" start_char="112">16</TOKEN>
+				<TOKEN end_char="114" id="token-0-24" start_char="114">,</TOKEN>
+				<TOKEN end_char="119" id="token-0-25" start_char="116">2017</TOKEN>
+				<TOKEN end_char="120" id="token-0-26" start_char="120">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

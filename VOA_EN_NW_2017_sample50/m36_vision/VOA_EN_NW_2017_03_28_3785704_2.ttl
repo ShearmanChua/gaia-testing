@@ -1,0 +1,367 @@
+@prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#> .
+@prefix ldcOnt: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.columbia.edu/AIDA/DVMM/Systems/Face/FaceNet> a aida:System .
+
+<http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-NASNet/COCO> a aida:System .
+
+<http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/MITWeaklySupervised-ResNet/OpenImages> a aida:System .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/0/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/0> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 7.570142e-01 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:Ne808f3108a8e43919407f19c1993294b ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/1/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/1> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 6.012332e-01 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:N5cf0dd7773f646038d573cafb08380f1 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/10/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/10> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1.069561e-02 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:Ne26b896d95dd48439438541d16b9fa63 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/2/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/2> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 5.938979e-01 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:Nb5d7935243214cd2b28e3b6ad1eebc4f ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/3/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/3> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 5.241075e-01 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:Nb00babcd5a394cc08751033ac66f4771 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/4/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/4> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 8.582998e-02 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:N8660618bb568418786734c9693dbae84 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/5/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/5> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 5.240956e-02 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:Nde0e37552d324e5092acc474dcf55bd4 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/6/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/6> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 2.565466e-02 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:N8781361256a141e5b2b6e6b604f52460 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/7/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/7> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 2.190524e-02 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:Na2035e2925cb4130ae4a25f455101dc9 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/8/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/8> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1.537795e-02 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:Nb96e1e224f46464091c7915c58f484ed ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/9/0> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/9> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1.116275e-02 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> ] ;
+    aida:justifiedBy _:Nce71619a90ea46bca9349e44c7460170 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/USC/Systems/ObjectDetection/FasterRCNN/PascalVOC> a aida:System .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/0> a aida:Entity ;
+    aida:informativeJustification _:Ne808f3108a8e43919407f19c1993294b ;
+    aida:justifiedBy _:Ne808f3108a8e43919407f19c1993294b ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/1> a aida:Entity ;
+    aida:informativeJustification _:N5cf0dd7773f646038d573cafb08380f1 ;
+    aida:justifiedBy _:N5cf0dd7773f646038d573cafb08380f1 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/10> a aida:Entity ;
+    aida:informativeJustification _:Ne26b896d95dd48439438541d16b9fa63 ;
+    aida:justifiedBy _:Ne26b896d95dd48439438541d16b9fa63 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/2> a aida:Entity ;
+    aida:informativeJustification _:Nb5d7935243214cd2b28e3b6ad1eebc4f ;
+    aida:justifiedBy _:Nb5d7935243214cd2b28e3b6ad1eebc4f ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/3> a aida:Entity ;
+    aida:informativeJustification _:Nb00babcd5a394cc08751033ac66f4771 ;
+    aida:justifiedBy _:Nb00babcd5a394cc08751033ac66f4771 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/4> a aida:Entity ;
+    aida:informativeJustification _:N8660618bb568418786734c9693dbae84 ;
+    aida:justifiedBy _:N8660618bb568418786734c9693dbae84 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/5> a aida:Entity ;
+    aida:informativeJustification _:Nde0e37552d324e5092acc474dcf55bd4 ;
+    aida:justifiedBy _:Nde0e37552d324e5092acc474dcf55bd4 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/6> a aida:Entity ;
+    aida:informativeJustification _:N8781361256a141e5b2b6e6b604f52460 ;
+    aida:justifiedBy _:N8781361256a141e5b2b6e6b604f52460 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/7> a aida:Entity ;
+    aida:informativeJustification _:Na2035e2925cb4130ae4a25f455101dc9 ;
+    aida:justifiedBy _:Na2035e2925cb4130ae4a25f455101dc9 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/8> a aida:Entity ;
+    aida:informativeJustification _:Nb96e1e224f46464091c7915c58f484ed ;
+    aida:justifiedBy _:Nb96e1e224f46464091c7915c58f484ed ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/ObjectDetection/RUN00010/JPG/VOA_EN_NW_2017_03_28_3785704_2/9> a aida:Entity ;
+    aida:informativeJustification _:Nce71619a90ea46bca9349e44c7460170 ;
+    aida:justifiedBy _:Nce71619a90ea46bca9349e44c7460170 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+<http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> a aida:System .
+
+_:N04e7cd97e78f46e0b7ab341ca5f47f24 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "1993"^^xsd:int ;
+    aida:boundingBoxLowerRightY "1457"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "1538"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "186"^^xsd:int .
+
+_:N08a46f3f285c454e8d50350556b27a18 a aida:Confidence ;
+    aida:confidenceValue 5.938979e-01 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:N3b56216be6e04ae8bf81001ec5458867 a aida:Confidence ;
+    aida:confidenceValue 7.570142e-01 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:N5c67657013da4e1b9c8e40c1797a0082 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "685"^^xsd:int ;
+    aida:boundingBoxLowerRightY "1459"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "36"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "205"^^xsd:int .
+
+_:N5c724aa43e31421c80d8963658a4af91 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "2009"^^xsd:int ;
+    aida:boundingBoxLowerRightY "877"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "1564"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "142"^^xsd:int .
+
+_:N6d92deeefdc64d5d8d1a268b16fcc716 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "1314"^^xsd:int ;
+    aida:boundingBoxLowerRightY "1446"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "721"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "349"^^xsd:int .
+
+_:N770f39045d714b899b3c8149d81412d5 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "1166"^^xsd:int ;
+    aida:boundingBoxLowerRightY "654"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "930"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "380"^^xsd:int .
+
+_:N7a3666add90c40f2997f6ea90bb54343 a aida:Confidence ;
+    aida:confidenceValue 8.582998e-02 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:N86516e6b987348308b6dcce02440ff46 a aida:Confidence ;
+    aida:confidenceValue 5.240956e-02 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:N8c829061a03b46b78e98013bf787af6d a aida:Confidence ;
+    aida:confidenceValue 1.069561e-02 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:N92906199cb5c46e594d463a5848a6c21 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "402"^^xsd:int ;
+    aida:boundingBoxLowerRightY "669"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "24"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "201"^^xsd:int .
+
+_:N9c8546048a1c47bf91c00eaa79eb5ebe a aida:Confidence ;
+    aida:confidenceValue 2.190524e-02 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Na02876e041504442b95560a144179f9e a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "1942"^^xsd:int ;
+    aida:boundingBoxLowerRightY "330"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "1724"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "83"^^xsd:int .
+
+_:Nb9d4c2968d4e45098b212bddd722d8a7 a aida:Confidence ;
+    aida:confidenceValue 1.537795e-02 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Ncc23ac181fdd4f8ba1eb6744d9cd8555 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "1946"^^xsd:int ;
+    aida:boundingBoxLowerRightY "654"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "1682"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "369"^^xsd:int .
+
+_:Nd45ab18fea674af2bc94e37f9ccdb67f a aida:Confidence ;
+    aida:confidenceValue 6.012332e-01 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Nd6916e53e453413b85bfa80a63c57073 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "1564"^^xsd:int ;
+    aida:boundingBoxLowerRightY "1351"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "1218"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "179"^^xsd:int .
+
+_:Ndb0dbd81e6d847ac80263721bc80f560 a aida:Confidence ;
+    aida:confidenceValue 5.241075e-01 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Ne0efcc80ae174688b725f12127282300 a aida:Confidence ;
+    aida:confidenceValue 1.116275e-02 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Ne77566360e4e4fdc99c843d79f2f1d2e a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "573"^^xsd:int ;
+    aida:boundingBoxLowerRightY "226"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "328"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "14"^^xsd:int .
+
+_:Nf3f1b9c73bc449d7aa7ceb2752c0a62c a aida:Confidence ;
+    aida:confidenceValue 2.565466e-02 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Nfcd4ec74a555436b9e4cba170dda3527 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "1066"^^xsd:int ;
+    aida:boundingBoxLowerRightY "875"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "664"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "26"^^xsd:int .
+
+_:N5cf0dd7773f646038d573cafb08380f1 a aida:ImageJustification ;
+    aida:boundingBox _:N5c67657013da4e1b9c8e40c1797a0082 ;
+    aida:confidence _:Nd45ab18fea674af2bc94e37f9ccdb67f ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:N8660618bb568418786734c9693dbae84 a aida:ImageJustification ;
+    aida:boundingBox _:Nfcd4ec74a555436b9e4cba170dda3527 ;
+    aida:confidence _:N7a3666add90c40f2997f6ea90bb54343 ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:N8781361256a141e5b2b6e6b604f52460 a aida:ImageJustification ;
+    aida:boundingBox _:N770f39045d714b899b3c8149d81412d5 ;
+    aida:confidence _:Nf3f1b9c73bc449d7aa7ceb2752c0a62c ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Na2035e2925cb4130ae4a25f455101dc9 a aida:ImageJustification ;
+    aida:boundingBox _:Ne77566360e4e4fdc99c843d79f2f1d2e ;
+    aida:confidence _:N9c8546048a1c47bf91c00eaa79eb5ebe ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Nb00babcd5a394cc08751033ac66f4771 a aida:ImageJustification ;
+    aida:boundingBox _:N6d92deeefdc64d5d8d1a268b16fcc716 ;
+    aida:confidence _:Ndb0dbd81e6d847ac80263721bc80f560 ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Nb5d7935243214cd2b28e3b6ad1eebc4f a aida:ImageJustification ;
+    aida:boundingBox _:Nd6916e53e453413b85bfa80a63c57073 ;
+    aida:confidence _:N08a46f3f285c454e8d50350556b27a18 ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Nb96e1e224f46464091c7915c58f484ed a aida:ImageJustification ;
+    aida:boundingBox _:Ncc23ac181fdd4f8ba1eb6744d9cd8555 ;
+    aida:confidence _:Nb9d4c2968d4e45098b212bddd722d8a7 ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Nce71619a90ea46bca9349e44c7460170 a aida:ImageJustification ;
+    aida:boundingBox _:N5c724aa43e31421c80d8963658a4af91 ;
+    aida:confidence _:Ne0efcc80ae174688b725f12127282300 ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Nde0e37552d324e5092acc474dcf55bd4 a aida:ImageJustification ;
+    aida:boundingBox _:N92906199cb5c46e594d463a5848a6c21 ;
+    aida:confidence _:N86516e6b987348308b6dcce02440ff46 ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Ne26b896d95dd48439438541d16b9fa63 a aida:ImageJustification ;
+    aida:boundingBox _:Na02876e041504442b95560a144179f9e ;
+    aida:confidence _:N8c829061a03b46b78e98013bf787af6d ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+
+_:Ne808f3108a8e43919407f19c1993294b a aida:ImageJustification ;
+    aida:boundingBox _:N04e7cd97e78f46e0b7ab341ca5f47f24 ;
+    aida:confidence _:N3b56216be6e04ae8bf81001ec5458867 ;
+    aida:source "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_28_3785704_2"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/ObjectDetection/FasterRCNN-InceptionResNet/OpenImages> .
+

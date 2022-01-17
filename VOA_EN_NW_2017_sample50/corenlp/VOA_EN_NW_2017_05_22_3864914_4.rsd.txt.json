@@ -1,0 +1,514 @@
+{
+  "docId": "VOA_EN_NW_2017_05_22_3864914_4.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "President",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 9,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 3,
+          "tokenBegin": 1,
+          "tokenEnd": 3,
+          "text": "Donald Trump",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 22,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 8,
+          "docTokenEnd": 9,
+          "tokenBegin": 8,
+          "tokenEnd": 9,
+          "text": "Arab",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 52,
+          "ner": "MISC"
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 10,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "Islamic",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 60,
+          "ner": "IDEOLOGY"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 11,
+          "tokenBegin": 10,
+          "tokenEnd": 11,
+          "text": "American",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 69,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 12,
+          "tokenBegin": 11,
+          "tokenEnd": 12,
+          "text": "Summit",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 76,
+          "ner": "MISC"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 19,
+          "tokenBegin": 15,
+          "tokenEnd": 19,
+          "text": "King Abdulaziz Conference Center",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 117,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 24,
+          "tokenBegin": 20,
+          "tokenEnd": 24,
+          "text": "May 21, 2017",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 131,
+          "ner": "DATE",
+          "normalizedNER": "2017-05-21",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-21"
+          }
+        },
+        {
+          "docTokenBegin": 26,
+          "docTokenEnd": 27,
+          "tokenBegin": 26,
+          "tokenEnd": 27,
+          "text": "Riyadh",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 142,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 28,
+          "docTokenEnd": 30,
+          "tokenBegin": 28,
+          "tokenEnd": 30,
+          "text": "Saudi Arabia",
+          "characterOffsetBegin": 144,
+          "characterOffsetEnd": 156,
+          "ner": "COUNTRY"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "President",
+          "originalText": "President",
+          "lemma": "President",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 9,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Donald",
+          "originalText": "Donald",
+          "lemma": "Donald",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 16,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Trump",
+          "originalText": "Trump",
+          "lemma": "Trump",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 22,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "delivers",
+          "originalText": "delivers",
+          "lemma": "deliver",
+          "characterOffsetBegin": 23,
+          "characterOffsetEnd": 31,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 33,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "speech",
+          "originalText": "speech",
+          "lemma": "speech",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 40,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 43,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 47,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Arab",
+          "originalText": "Arab",
+          "lemma": "Arab",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 52,
+          "pos": "NNP",
+          "ner": "MISC",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Islamic",
+          "originalText": "Islamic",
+          "lemma": "Islamic",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 60,
+          "pos": "NNP",
+          "ner": "IDEOLOGY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "American",
+          "originalText": "American",
+          "lemma": "American",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 69,
+          "pos": "NNP",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Summit",
+          "originalText": "Summit",
+          "lemma": "Summit",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 76,
+          "pos": "NNP",
+          "ner": "MISC",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 13,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 77,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 80,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 84,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "King",
+          "originalText": "King",
+          "lemma": "King",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 89,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Abdulaziz",
+          "originalText": "Abdulaziz",
+          "lemma": "Abdulaziz",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 99,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Conference",
+          "originalText": "Conference",
+          "lemma": "Conference",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 110,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Center",
+          "originalText": "Center",
+          "lemma": "Center",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 117,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 118,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "May",
+          "originalText": "May",
+          "lemma": "May",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 122,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-21",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-21"
+          }
+        },
+        {
+          "index": 22,
+          "word": "21",
+          "originalText": "21",
+          "lemma": "21",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 125,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-21",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-21"
+          }
+        },
+        {
+          "index": 23,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 126,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-21",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-21"
+          }
+        },
+        {
+          "index": 24,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 127,
+          "characterOffsetEnd": 131,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-21",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-05-21"
+          }
+        },
+        {
+          "index": 25,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 131,
+          "characterOffsetEnd": 132,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 133,
+          "characterOffsetEnd": 135,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "Riyadh",
+          "originalText": "Riyadh",
+          "lemma": "Riyadh",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 142,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 28,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 142,
+          "characterOffsetEnd": 143,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "Saudi",
+          "originalText": "Saudi",
+          "lemma": "Saudi",
+          "characterOffsetBegin": 144,
+          "characterOffsetEnd": 149,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 30,
+          "word": "Arabia",
+          "originalText": "Arabia",
+          "lemma": "Arabia",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 156,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 31,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 156,
+          "characterOffsetEnd": 157,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

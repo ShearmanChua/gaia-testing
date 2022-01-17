@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_04_27_3828000_1">
+		<TEXT>
+			<SEG end_char="159" id="VOA_EN_NW_2017_04_27_3828000_1-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Vorayuth &quot;Boss&quot; Yoovidhya, center, whose grandfather co-founded energy drink company Red Bull, is escorted by police in Bangkok, Thailand, Sept. 3, 2012.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="14" id="token-0-2" start_char="7">Vorayuth</TOKEN>
+				<TOKEN end_char="16" id="token-0-3" start_char="16">&quot;</TOKEN>
+				<TOKEN end_char="20" id="token-0-4" start_char="17">Boss</TOKEN>
+				<TOKEN end_char="21" id="token-0-5" start_char="21">&quot;</TOKEN>
+				<TOKEN end_char="31" id="token-0-6" start_char="23">Yoovidhya</TOKEN>
+				<TOKEN end_char="32" id="token-0-7" start_char="32">,</TOKEN>
+				<TOKEN end_char="39" id="token-0-8" start_char="34">center</TOKEN>
+				<TOKEN end_char="40" id="token-0-9" start_char="40">,</TOKEN>
+				<TOKEN end_char="46" id="token-0-10" start_char="42">whose</TOKEN>
+				<TOKEN end_char="58" id="token-0-11" start_char="48">grandfather</TOKEN>
+				<TOKEN end_char="61" id="token-0-12" start_char="60">co</TOKEN>
+				<TOKEN end_char="62" id="token-0-13" start_char="62">-</TOKEN>
+				<TOKEN end_char="69" id="token-0-14" start_char="63">founded</TOKEN>
+				<TOKEN end_char="76" id="token-0-15" start_char="71">energy</TOKEN>
+				<TOKEN end_char="82" id="token-0-16" start_char="78">drink</TOKEN>
+				<TOKEN end_char="90" id="token-0-17" start_char="84">company</TOKEN>
+				<TOKEN end_char="94" id="token-0-18" start_char="92">Red</TOKEN>
+				<TOKEN end_char="99" id="token-0-19" start_char="96">Bull</TOKEN>
+				<TOKEN end_char="100" id="token-0-20" start_char="100">,</TOKEN>
+				<TOKEN end_char="103" id="token-0-21" start_char="102">is</TOKEN>
+				<TOKEN end_char="112" id="token-0-22" start_char="105">escorted</TOKEN>
+				<TOKEN end_char="115" id="token-0-23" start_char="114">by</TOKEN>
+				<TOKEN end_char="122" id="token-0-24" start_char="117">police</TOKEN>
+				<TOKEN end_char="125" id="token-0-25" start_char="124">in</TOKEN>
+				<TOKEN end_char="133" id="token-0-26" start_char="127">Bangkok</TOKEN>
+				<TOKEN end_char="134" id="token-0-27" start_char="134">,</TOKEN>
+				<TOKEN end_char="143" id="token-0-28" start_char="136">Thailand</TOKEN>
+				<TOKEN end_char="144" id="token-0-29" start_char="144">,</TOKEN>
+				<TOKEN end_char="149" id="token-0-30" start_char="146">Sept</TOKEN>
+				<TOKEN end_char="150" id="token-0-31" start_char="150">.</TOKEN>
+				<TOKEN end_char="152" id="token-0-32" start_char="152">3</TOKEN>
+				<TOKEN end_char="153" id="token-0-33" start_char="153">,</TOKEN>
+				<TOKEN end_char="158" id="token-0-34" start_char="155">2012</TOKEN>
+				<TOKEN end_char="159" id="token-0-35" start_char="159">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

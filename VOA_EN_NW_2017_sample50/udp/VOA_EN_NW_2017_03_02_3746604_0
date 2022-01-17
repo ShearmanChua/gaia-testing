@@ -1,0 +1,25 @@
+1	Former	former	ADJ	JJ	Degree=Pos	3	amod	_	VOA_EN_NW_2017_03_02_3746604_0:0-5
+2	Egyptian	egyptian	ADJ	JJ	Degree=Pos	3	amod	_	VOA_EN_NW_2017_03_02_3746604_0:7-14
+3	President	President	PROPN	NNP	Number=Sing	6	nsubj	_	VOA_EN_NW_2017_03_02_3746604_0:16-24
+4	Hosni	Hosni	PROPN	NNP	Number=Sing	3	flat	_	VOA_EN_NW_2017_03_02_3746604_0:26-30
+5	Mubarak	Mubarak	PROPN	NNP	Number=Sing	3	flat	_	VOA_EN_NW_2017_03_02_3746604_0:32-38
+6	lies	lie	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_03_02_3746604_0:40-43
+7	on	on	ADP	IN	_	9	case	_	VOA_EN_NW_2017_03_02_3746604_0:45-46
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	VOA_EN_NW_2017_03_02_3746604_0:48-48
+9	stretcher	stretcher	NOUN	NN	Number=Sing	6	obl	_	VOA_EN_NW_2017_03_02_3746604_0:50-58
+10	while	while	SCONJ	IN	_	12	mark	_	VOA_EN_NW_2017_03_02_3746604_0:60-64
+11	being	be	AUX	VBG	VerbForm=Ger	12	aux:pass	_	VOA_EN_NW_2017_03_02_3746604_0:66-70
+12	transported	transport	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	VOA_EN_NW_2017_03_02_3746604_0:72-82
+13	ahead	ahead	ADP	IN	_	16	case	_	VOA_EN_NW_2017_03_02_3746604_0:84-88
+14	of	of	ADP	IN	_	16	case	_	VOA_EN_NW_2017_03_02_3746604_0:90-91
+15	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	VOA_EN_NW_2017_03_02_3746604_0:93-95
+16	trial	trial	NOUN	NN	Number=Sing	12	obl	_	VOA_EN_NW_2017_03_02_3746604_0:97-101
+17	in	in	ADP	IN	_	18	case	_	VOA_EN_NW_2017_03_02_3746604_0:103-104
+18	Cairo	Cairo	PROPN	NNP	Number=Sing	16	nmod	_	VOA_EN_NW_2017_03_02_3746604_0:106-110
+19	,	,	PUNCT	,	_	16	punct	_	VOA_EN_NW_2017_03_02_3746604_0:111-111
+20	March	March	PROPN	NNP	Number=Sing	16	appos	_	VOA_EN_NW_2017_03_02_3746604_0:113-117
+21	2	2	NUM	CD	NumType=Card	20	nummod	_	VOA_EN_NW_2017_03_02_3746604_0:119-119
+22	,	,	PUNCT	,	_	20	punct	_	VOA_EN_NW_2017_03_02_3746604_0:120-120
+23	2017	2017	NUM	CD	NumType=Card	20	nummod	_	VOA_EN_NW_2017_03_02_3746604_0:122-125
+24	.	.	PUNCT	.	_	6	punct	_	VOA_EN_NW_2017_03_02_3746604_0:126-126
+

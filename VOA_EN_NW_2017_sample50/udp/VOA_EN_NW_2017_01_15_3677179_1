@@ -1,0 +1,5 @@
+1	Barada	Barada	PROPN	NNP	Number=Sing	2	compound	_	VOA_EN_NW_2017_01_15_3677179_1:0-5
+2	Valley	Valley	PROPN	NNP	Number=Sing	0	root	_	VOA_EN_NW_2017_01_15_3677179_1:7-12
+3	,	,	PUNCT	,	_	2	punct	_	VOA_EN_NW_2017_01_15_3677179_1:13-13
+4	Syria	Syria	PROPN	NNP	Number=Sing	2	appos	_	VOA_EN_NW_2017_01_15_3677179_1:15-19
+

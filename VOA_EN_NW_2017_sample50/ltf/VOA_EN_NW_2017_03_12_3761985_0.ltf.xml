@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_12_3761985_0">
+		<TEXT>
+			<SEG end_char="121" id="VOA_EN_NW_2017_03_12_3761985_0-0" start_char="0">
+				<ORIGINAL_TEXT>White House deputy press secretary Sarah Huckabee Sanders stands in front of the White House in Washington, March 8, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="4" id="token-0-0" start_char="0">White</TOKEN>
+				<TOKEN end_char="10" id="token-0-1" start_char="6">House</TOKEN>
+				<TOKEN end_char="17" id="token-0-2" start_char="12">deputy</TOKEN>
+				<TOKEN end_char="23" id="token-0-3" start_char="19">press</TOKEN>
+				<TOKEN end_char="33" id="token-0-4" start_char="25">secretary</TOKEN>
+				<TOKEN end_char="39" id="token-0-5" start_char="35">Sarah</TOKEN>
+				<TOKEN end_char="48" id="token-0-6" start_char="41">Huckabee</TOKEN>
+				<TOKEN end_char="56" id="token-0-7" start_char="50">Sanders</TOKEN>
+				<TOKEN end_char="63" id="token-0-8" start_char="58">stands</TOKEN>
+				<TOKEN end_char="66" id="token-0-9" start_char="65">in</TOKEN>
+				<TOKEN end_char="72" id="token-0-10" start_char="68">front</TOKEN>
+				<TOKEN end_char="75" id="token-0-11" start_char="74">of</TOKEN>
+				<TOKEN end_char="79" id="token-0-12" start_char="77">the</TOKEN>
+				<TOKEN end_char="85" id="token-0-13" start_char="81">White</TOKEN>
+				<TOKEN end_char="91" id="token-0-14" start_char="87">House</TOKEN>
+				<TOKEN end_char="94" id="token-0-15" start_char="93">in</TOKEN>
+				<TOKEN end_char="105" id="token-0-16" start_char="96">Washington</TOKEN>
+				<TOKEN end_char="106" id="token-0-17" start_char="106">,</TOKEN>
+				<TOKEN end_char="112" id="token-0-18" start_char="108">March</TOKEN>
+				<TOKEN end_char="114" id="token-0-19" start_char="114">8</TOKEN>
+				<TOKEN end_char="115" id="token-0-20" start_char="115">,</TOKEN>
+				<TOKEN end_char="120" id="token-0-21" start_char="117">2017</TOKEN>
+				<TOKEN end_char="121" id="token-0-22" start_char="121">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,143 @@
+2021-04-27 11:16:28,124 - Analyzer - INFO - punctuations(5): '' `` : , .
+2021-04-27 11:16:28,145 - Create Alphabets - INFO - Word Alphabet Size (Singleton): 20498 (8279)
+2021-04-27 11:16:28,145 - Create Alphabets - INFO - Character Alphabet Size: 117
+2021-04-27 11:16:28,145 - Create Alphabets - INFO - POS Alphabet Size: 97
+2021-04-27 11:16:28,145 - Create Alphabets - INFO - Type Alphabet Size: 52
+2021-04-27 11:16:28,145 - Analyzer - INFO - Word Alphabet Size: 20498
+2021-04-27 11:16:28,145 - Analyzer - INFO - Character Alphabet Size: 117
+2021-04-27 11:16:28,145 - Analyzer - INFO - POS Alphabet Size: 97
+2021-04-27 11:16:28,145 - Analyzer - INFO - Type Alphabet Size: 52
+2021-04-27 11:16:28,145 - Analyzer - INFO - use gpu: False, decoding: mst
+Reading data from /shared/nas/data/m1/manling2/mmqa/data/voa_v1_processed/caption_separate/split_year/VOA_EN_NW_2017_sample50/relation/en/en.doc_segments.txt
+Total number of sentences: 128
+2021-04-27 11:16:28,188 - Analyzer - INFO - model: /relation/DependencyParse/models/en/biaffine.pt
+Processing sentence: 0
+Processing sentence: 1
+Processing sentence: 2
+Processing sentence: 3
+Processing sentence: 4
+Processing sentence: 5
+Processing sentence: 6
+Processing sentence: 7
+Processing sentence: 8
+Processing sentence: 9
+Processing sentence: 10
+Processing sentence: 11
+Processing sentence: 12
+Processing sentence: 13
+Processing sentence: 14
+Processing sentence: 15
+Processing sentence: 16
+Processing sentence: 17
+Processing sentence: 18
+Processing sentence: 19
+Processing sentence: 20
+Processing sentence: 21
+Processing sentence: 22
+Processing sentence: 23
+Processing sentence: 24
+Processing sentence: 25
+Processing sentence: 26
+Processing sentence: 27
+Processing sentence: 28
+Processing sentence: 29
+Processing sentence: 30
+Processing sentence: 31
+Processing sentence: 32
+Processing sentence: 33
+Processing sentence: 34
+Processing sentence: 35
+Processing sentence: 36
+Processing sentence: 37
+Processing sentence: 38
+Processing sentence: 39
+Processing sentence: 40
+Processing sentence: 41
+Processing sentence: 42
+Processing sentence: 43
+Processing sentence: 44
+Processing sentence: 45
+Processing sentence: 46
+Processing sentence: 47
+Processing sentence: 48
+Processing sentence: 49
+Processing sentence: 50
+Processing sentence: 51
+Processing sentence: 52
+Processing sentence: 53
+Processing sentence: 54
+Processing sentence: 55
+Processing sentence: 56
+Processing sentence: 57
+Processing sentence: 58
+Processing sentence: 59
+Processing sentence: 60
+Processing sentence: 61
+Processing sentence: 62
+Processing sentence: 63
+Processing sentence: 64
+Processing sentence: 65
+Processing sentence: 66
+Processing sentence: 67
+Processing sentence: 68
+Processing sentence: 69
+Processing sentence: 70
+Processing sentence: 71
+Processing sentence: 72
+Processing sentence: 73
+Processing sentence: 74
+Processing sentence: 75
+Processing sentence: 76
+Processing sentence: 77
+Processing sentence: 78
+Processing sentence: 79
+Processing sentence: 80
+Processing sentence: 81
+Processing sentence: 82
+Processing sentence: 83
+Processing sentence: 84
+Processing sentence: 85
+Processing sentence: 86
+Processing sentence: 87
+Processing sentence: 88
+Processing sentence: 89
+Processing sentence: 90
+Processing sentence: 91
+Processing sentence: 92
+Processing sentence: 93
+Processing sentence: 94
+Processing sentence: 95
+Processing sentence: 96
+Processing sentence: 97
+Processing sentence: 98
+Processing sentence: 99
+Processing sentence: 100
+Processing sentence: 101
+Processing sentence: 102
+Processing sentence: 103
+Processing sentence: 104
+Processing sentence: 105
+Processing sentence: 106
+Processing sentence: 107
+Processing sentence: 108
+Processing sentence: 109
+Processing sentence: 110
+Processing sentence: 111
+Processing sentence: 112
+Processing sentence: 113
+Processing sentence: 114
+Processing sentence: 115
+Processing sentence: 116
+Processing sentence: 117
+Processing sentence: 118
+Processing sentence: 119
+Processing sentence: 120
+Processing sentence: 121
+Processing sentence: 122
+Processing sentence: 123
+Processing sentence: 124
+Processing sentence: 125
+Processing sentence: 126
+Processing sentence: 127
+
+time: 20.29s

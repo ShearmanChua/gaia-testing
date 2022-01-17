@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_27_3918160_1">
+		<TEXT>
+			<SEG end_char="337" id="VOA_EN_NW_2017_06_27_3918160_1-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - A Yemeni national who was denied entry into the U.S. earlier this because of the Trump administration's travel ban, shows the cancelled visa in his passport from his failed entry to reporters as he successfully arrives to be reunited with his family, at Washington Dulles International Airport in Chantilly, Virginia, Feb. 6, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="7" id="token-0-2" start_char="7">A</TOKEN>
+				<TOKEN end_char="14" id="token-0-3" start_char="9">Yemeni</TOKEN>
+				<TOKEN end_char="23" id="token-0-4" start_char="16">national</TOKEN>
+				<TOKEN end_char="27" id="token-0-5" start_char="25">who</TOKEN>
+				<TOKEN end_char="31" id="token-0-6" start_char="29">was</TOKEN>
+				<TOKEN end_char="38" id="token-0-7" start_char="33">denied</TOKEN>
+				<TOKEN end_char="44" id="token-0-8" start_char="40">entry</TOKEN>
+				<TOKEN end_char="49" id="token-0-9" start_char="46">into</TOKEN>
+				<TOKEN end_char="53" id="token-0-10" start_char="51">the</TOKEN>
+				<TOKEN end_char="55" id="token-0-11" start_char="55">U</TOKEN>
+				<TOKEN end_char="56" id="token-0-12" start_char="56">.</TOKEN>
+				<TOKEN end_char="57" id="token-0-13" start_char="57">S</TOKEN>
+				<TOKEN end_char="58" id="token-0-14" start_char="58">.</TOKEN>
+				<TOKEN end_char="66" id="token-0-15" start_char="60">earlier</TOKEN>
+				<TOKEN end_char="71" id="token-0-16" start_char="68">this</TOKEN>
+				<TOKEN end_char="79" id="token-0-17" start_char="73">because</TOKEN>
+				<TOKEN end_char="82" id="token-0-18" start_char="81">of</TOKEN>
+				<TOKEN end_char="86" id="token-0-19" start_char="84">the</TOKEN>
+				<TOKEN end_char="92" id="token-0-20" start_char="88">Trump</TOKEN>
+				<TOKEN end_char="107" id="token-0-21" start_char="94">administration</TOKEN>
+				<TOKEN end_char="108" id="token-0-22" start_char="108">'</TOKEN>
+				<TOKEN end_char="109" id="token-0-23" start_char="109">s</TOKEN>
+				<TOKEN end_char="116" id="token-0-24" start_char="111">travel</TOKEN>
+				<TOKEN end_char="120" id="token-0-25" start_char="118">ban</TOKEN>
+				<TOKEN end_char="121" id="token-0-26" start_char="121">,</TOKEN>
+				<TOKEN end_char="127" id="token-0-27" start_char="123">shows</TOKEN>
+				<TOKEN end_char="131" id="token-0-28" start_char="129">the</TOKEN>
+				<TOKEN end_char="141" id="token-0-29" start_char="133">cancelled</TOKEN>
+				<TOKEN end_char="146" id="token-0-30" start_char="143">visa</TOKEN>
+				<TOKEN end_char="149" id="token-0-31" start_char="148">in</TOKEN>
+				<TOKEN end_char="153" id="token-0-32" start_char="151">his</TOKEN>
+				<TOKEN end_char="162" id="token-0-33" start_char="155">passport</TOKEN>
+				<TOKEN end_char="167" id="token-0-34" start_char="164">from</TOKEN>
+				<TOKEN end_char="171" id="token-0-35" start_char="169">his</TOKEN>
+				<TOKEN end_char="178" id="token-0-36" start_char="173">failed</TOKEN>
+				<TOKEN end_char="184" id="token-0-37" start_char="180">entry</TOKEN>
+				<TOKEN end_char="187" id="token-0-38" start_char="186">to</TOKEN>
+				<TOKEN end_char="197" id="token-0-39" start_char="189">reporters</TOKEN>
+				<TOKEN end_char="200" id="token-0-40" start_char="199">as</TOKEN>
+				<TOKEN end_char="203" id="token-0-41" start_char="202">he</TOKEN>
+				<TOKEN end_char="216" id="token-0-42" start_char="205">successfully</TOKEN>
+				<TOKEN end_char="224" id="token-0-43" start_char="218">arrives</TOKEN>
+				<TOKEN end_char="227" id="token-0-44" start_char="226">to</TOKEN>
+				<TOKEN end_char="230" id="token-0-45" start_char="229">be</TOKEN>
+				<TOKEN end_char="239" id="token-0-46" start_char="232">reunited</TOKEN>
+				<TOKEN end_char="244" id="token-0-47" start_char="241">with</TOKEN>
+				<TOKEN end_char="248" id="token-0-48" start_char="246">his</TOKEN>
+				<TOKEN end_char="255" id="token-0-49" start_char="250">family</TOKEN>
+				<TOKEN end_char="256" id="token-0-50" start_char="256">,</TOKEN>
+				<TOKEN end_char="259" id="token-0-51" start_char="258">at</TOKEN>
+				<TOKEN end_char="270" id="token-0-52" start_char="261">Washington</TOKEN>
+				<TOKEN end_char="277" id="token-0-53" start_char="272">Dulles</TOKEN>
+				<TOKEN end_char="291" id="token-0-54" start_char="279">International</TOKEN>
+				<TOKEN end_char="299" id="token-0-55" start_char="293">Airport</TOKEN>
+				<TOKEN end_char="302" id="token-0-56" start_char="301">in</TOKEN>
+				<TOKEN end_char="312" id="token-0-57" start_char="304">Chantilly</TOKEN>
+				<TOKEN end_char="313" id="token-0-58" start_char="313">,</TOKEN>
+				<TOKEN end_char="322" id="token-0-59" start_char="315">Virginia</TOKEN>
+				<TOKEN end_char="323" id="token-0-60" start_char="323">,</TOKEN>
+				<TOKEN end_char="327" id="token-0-61" start_char="325">Feb</TOKEN>
+				<TOKEN end_char="328" id="token-0-62" start_char="328">.</TOKEN>
+				<TOKEN end_char="330" id="token-0-63" start_char="330">6</TOKEN>
+				<TOKEN end_char="331" id="token-0-64" start_char="331">,</TOKEN>
+				<TOKEN end_char="336" id="token-0-65" start_char="333">2017</TOKEN>
+				<TOKEN end_char="337" id="token-0-66" start_char="337">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

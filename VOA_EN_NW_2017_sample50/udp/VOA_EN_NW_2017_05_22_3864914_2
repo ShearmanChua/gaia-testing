@@ -1,0 +1,23 @@
+1	FILE	file	PROPN	NNP	Number=Sing	5	nsubj	_	VOA_EN_NW_2017_05_22_3864914_2:0-3
+2	-	-	PUNCT	HYPH	_	1	punct	_	VOA_EN_NW_2017_05_22_3864914_2:5-5
+3	Pope	Pope	PROPN	NNP	Number=Sing	1	flat	_	VOA_EN_NW_2017_05_22_3864914_2:7-10
+4	Francis	Francis	PROPN	NNP	Number=Sing	1	flat	_	VOA_EN_NW_2017_05_22_3864914_2:12-18
+5	speaks	speak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_05_22_3864914_2:20-25
+6	to	to	ADP	IN	_	7	case	_	VOA_EN_NW_2017_05_22_3864914_2:27-28
+7	journalists	journalist	NOUN	NNS	Number=Plur	5	obl	_	VOA_EN_NW_2017_05_22_3864914_2:30-40
+8	aboard	aboard	ADP	IN	_	10	case	_	VOA_EN_NW_2017_05_22_3864914_2:42-47
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	VOA_EN_NW_2017_05_22_3864914_2:49-51
+10	flight	flight	NOUN	NN	Number=Sing	7	nmod	_	VOA_EN_NW_2017_05_22_3864914_2:53-58
+11	from	from	ADP	IN	_	12	case	_	VOA_EN_NW_2017_05_22_3864914_2:60-63
+12	Mexico	Mexico	PROPN	NNP	Number=Sing	10	nmod	_	VOA_EN_NW_2017_05_22_3864914_2:65-70
+13	to	to	ADP	IN	_	14	case	_	VOA_EN_NW_2017_05_22_3864914_2:72-73
+14	Italy	Italy	PROPN	NNP	Number=Sing	10	nmod	_	VOA_EN_NW_2017_05_22_3864914_2:75-79
+15	,	,	PUNCT	,	_	7	punct	_	VOA_EN_NW_2017_05_22_3864914_2:80-80
+16	on	on	ADP	IN	_	17	case	_	VOA_EN_NW_2017_05_22_3864914_2:82-83
+17	Feb	Feb	PROPN	NNP	Number=Sing	7	nmod	_	VOA_EN_NW_2017_05_22_3864914_2:85-87
+18	.	.	PUNCT	.	_	17	punct	_	VOA_EN_NW_2017_05_22_3864914_2:88-88
+19	18	18	NUM	CD	NumType=Card	17	nummod	_	VOA_EN_NW_2017_05_22_3864914_2:90-91
+20	,	,	PUNCT	,	_	17	punct	_	VOA_EN_NW_2017_05_22_3864914_2:92-92
+21	2016	2016	NUM	CD	NumType=Card	17	nummod	_	VOA_EN_NW_2017_05_22_3864914_2:94-97
+22	.	.	PUNCT	.	_	5	punct	_	VOA_EN_NW_2017_05_22_3864914_2:98-98
+

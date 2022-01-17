@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_02_14_3723889_0">
+		<TEXT>
+			<SEG end_char="223" id="VOA_EN_NW_2017_02_14_3723889_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Anti-government protesters holding Bahraini flags and signs saying &quot;No To Official Terror&quot; march during a rally organized by Bahrain's main opposition party Al Wefaq on Budaiya highway west of Manama, August 23, 3013.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="10" id="token-0-2" start_char="7">Anti</TOKEN>
+				<TOKEN end_char="11" id="token-0-3" start_char="11">-</TOKEN>
+				<TOKEN end_char="21" id="token-0-4" start_char="12">government</TOKEN>
+				<TOKEN end_char="32" id="token-0-5" start_char="23">protesters</TOKEN>
+				<TOKEN end_char="40" id="token-0-6" start_char="34">holding</TOKEN>
+				<TOKEN end_char="49" id="token-0-7" start_char="42">Bahraini</TOKEN>
+				<TOKEN end_char="55" id="token-0-8" start_char="51">flags</TOKEN>
+				<TOKEN end_char="59" id="token-0-9" start_char="57">and</TOKEN>
+				<TOKEN end_char="65" id="token-0-10" start_char="61">signs</TOKEN>
+				<TOKEN end_char="72" id="token-0-11" start_char="67">saying</TOKEN>
+				<TOKEN end_char="74" id="token-0-12" start_char="74">&quot;</TOKEN>
+				<TOKEN end_char="76" id="token-0-13" start_char="75">No</TOKEN>
+				<TOKEN end_char="79" id="token-0-14" start_char="78">To</TOKEN>
+				<TOKEN end_char="88" id="token-0-15" start_char="81">Official</TOKEN>
+				<TOKEN end_char="95" id="token-0-16" start_char="90">Terror</TOKEN>
+				<TOKEN end_char="96" id="token-0-17" start_char="96">&quot;</TOKEN>
+				<TOKEN end_char="102" id="token-0-18" start_char="98">march</TOKEN>
+				<TOKEN end_char="109" id="token-0-19" start_char="104">during</TOKEN>
+				<TOKEN end_char="111" id="token-0-20" start_char="111">a</TOKEN>
+				<TOKEN end_char="117" id="token-0-21" start_char="113">rally</TOKEN>
+				<TOKEN end_char="127" id="token-0-22" start_char="119">organized</TOKEN>
+				<TOKEN end_char="130" id="token-0-23" start_char="129">by</TOKEN>
+				<TOKEN end_char="138" id="token-0-24" start_char="132">Bahrain</TOKEN>
+				<TOKEN end_char="139" id="token-0-25" start_char="139">'</TOKEN>
+				<TOKEN end_char="140" id="token-0-26" start_char="140">s</TOKEN>
+				<TOKEN end_char="145" id="token-0-27" start_char="142">main</TOKEN>
+				<TOKEN end_char="156" id="token-0-28" start_char="147">opposition</TOKEN>
+				<TOKEN end_char="162" id="token-0-29" start_char="158">party</TOKEN>
+				<TOKEN end_char="165" id="token-0-30" start_char="164">Al</TOKEN>
+				<TOKEN end_char="171" id="token-0-31" start_char="167">Wefaq</TOKEN>
+				<TOKEN end_char="174" id="token-0-32" start_char="173">on</TOKEN>
+				<TOKEN end_char="182" id="token-0-33" start_char="176">Budaiya</TOKEN>
+				<TOKEN end_char="190" id="token-0-34" start_char="184">highway</TOKEN>
+				<TOKEN end_char="195" id="token-0-35" start_char="192">west</TOKEN>
+				<TOKEN end_char="198" id="token-0-36" start_char="197">of</TOKEN>
+				<TOKEN end_char="205" id="token-0-37" start_char="200">Manama</TOKEN>
+				<TOKEN end_char="206" id="token-0-38" start_char="206">,</TOKEN>
+				<TOKEN end_char="213" id="token-0-39" start_char="208">August</TOKEN>
+				<TOKEN end_char="216" id="token-0-40" start_char="215">23</TOKEN>
+				<TOKEN end_char="217" id="token-0-41" start_char="217">,</TOKEN>
+				<TOKEN end_char="222" id="token-0-42" start_char="219">3013</TOKEN>
+				<TOKEN end_char="223" id="token-0-43" start_char="223">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

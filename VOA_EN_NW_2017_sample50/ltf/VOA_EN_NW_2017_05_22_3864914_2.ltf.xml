@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_22_3864914_2">
+		<TEXT>
+			<SEG end_char="98" id="VOA_EN_NW_2017_05_22_3864914_2-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Pope Francis speaks to journalists aboard the flight from Mexico to Italy, on Feb. 18, 2016.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="10" id="token-0-2" start_char="7">Pope</TOKEN>
+				<TOKEN end_char="18" id="token-0-3" start_char="12">Francis</TOKEN>
+				<TOKEN end_char="25" id="token-0-4" start_char="20">speaks</TOKEN>
+				<TOKEN end_char="28" id="token-0-5" start_char="27">to</TOKEN>
+				<TOKEN end_char="40" id="token-0-6" start_char="30">journalists</TOKEN>
+				<TOKEN end_char="47" id="token-0-7" start_char="42">aboard</TOKEN>
+				<TOKEN end_char="51" id="token-0-8" start_char="49">the</TOKEN>
+				<TOKEN end_char="58" id="token-0-9" start_char="53">flight</TOKEN>
+				<TOKEN end_char="63" id="token-0-10" start_char="60">from</TOKEN>
+				<TOKEN end_char="70" id="token-0-11" start_char="65">Mexico</TOKEN>
+				<TOKEN end_char="73" id="token-0-12" start_char="72">to</TOKEN>
+				<TOKEN end_char="79" id="token-0-13" start_char="75">Italy</TOKEN>
+				<TOKEN end_char="80" id="token-0-14" start_char="80">,</TOKEN>
+				<TOKEN end_char="83" id="token-0-15" start_char="82">on</TOKEN>
+				<TOKEN end_char="87" id="token-0-16" start_char="85">Feb</TOKEN>
+				<TOKEN end_char="88" id="token-0-17" start_char="88">.</TOKEN>
+				<TOKEN end_char="91" id="token-0-18" start_char="90">18</TOKEN>
+				<TOKEN end_char="92" id="token-0-19" start_char="92">,</TOKEN>
+				<TOKEN end_char="97" id="token-0-20" start_char="94">2016</TOKEN>
+				<TOKEN end_char="98" id="token-0-21" start_char="98">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

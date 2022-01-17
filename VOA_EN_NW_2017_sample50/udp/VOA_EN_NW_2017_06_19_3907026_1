@@ -1,0 +1,22 @@
+1	FILE	file	PROPN	NNP	Number=Sing	10	nsubj	_	VOA_EN_NW_2017_06_19_3907026_1:0-3
+2	-	-	PUNCT	HYPH	_	1	punct	_	VOA_EN_NW_2017_06_19_3907026_1:5-5
+3	Joint	Joint	PROPN	NNP	Number=Sing	4	compound	_	VOA_EN_NW_2017_06_19_3907026_1:7-11
+4	Chiefs	Chiefs	PROPN	NNPS	Number=Plur	5	compound	_	VOA_EN_NW_2017_06_19_3907026_1:13-18
+5	Chairman	Chairman	PROPN	NNP	Number=Sing	1	appos	_	VOA_EN_NW_2017_06_19_3907026_1:20-27
+6	Gen	Gen	PROPN	NNP	Number=Sing	5	flat	_	VOA_EN_NW_2017_06_19_3907026_1:29-31
+7	.	.	PUNCT	.	_	1	punct	_	VOA_EN_NW_2017_06_19_3907026_1:32-32
+8	Joseph	Joseph	PROPN	NNP	Number=Sing	1	appos	_	VOA_EN_NW_2017_06_19_3907026_1:34-39
+9	Dunford	Dunford	PROPN	NNP	Number=Sing	8	flat	_	VOA_EN_NW_2017_06_19_3907026_1:41-47
+10	listens	listen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_06_19_3907026_1:49-55
+11	on	on	ADP	IN	_	13	case	_	VOA_EN_NW_2017_06_19_3907026_1:57-58
+12	Capitol	Capitol	PROPN	NNP	Number=Sing	13	compound	_	VOA_EN_NW_2017_06_19_3907026_1:60-66
+13	Hill	Hill	PROPN	NNP	Number=Sing	10	obl	_	VOA_EN_NW_2017_06_19_3907026_1:68-71
+14	in	in	ADP	IN	_	15	case	_	VOA_EN_NW_2017_06_19_3907026_1:73-74
+15	Washington	Washington	PROPN	NNP	Number=Sing	10	obl	_	VOA_EN_NW_2017_06_19_3907026_1:76-85
+16	,	,	PUNCT	,	_	15	punct	_	VOA_EN_NW_2017_06_19_3907026_1:86-86
+17	June	June	PROPN	NNP	Number=Sing	15	appos	_	VOA_EN_NW_2017_06_19_3907026_1:88-91
+18	13	13	NUM	CD	NumType=Card	17	nummod	_	VOA_EN_NW_2017_06_19_3907026_1:93-94
+19	,	,	PUNCT	,	_	15	punct	_	VOA_EN_NW_2017_06_19_3907026_1:95-95
+20	2017	2017	NUM	CD	NumType=Card	15	nummod	_	VOA_EN_NW_2017_06_19_3907026_1:97-100
+21	.	.	PUNCT	.	_	10	punct	_	VOA_EN_NW_2017_06_19_3907026_1:101-101
+

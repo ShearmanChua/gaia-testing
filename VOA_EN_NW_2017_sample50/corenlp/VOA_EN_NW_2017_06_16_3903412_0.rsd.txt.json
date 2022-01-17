@@ -1,0 +1,412 @@
+{
+  "docId": "VOA_EN_NW_2017_06_16_3903412_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 3,
+          "docTokenEnd": 4,
+          "tokenBegin": 3,
+          "tokenEnd": 4,
+          "text": "German",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 20,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 5,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "chancellor",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 31,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 7,
+          "tokenBegin": 5,
+          "tokenEnd": 7,
+          "text": "Helmut Kohl",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 43,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 13,
+          "tokenBegin": 11,
+          "tokenEnd": 13,
+          "text": "Lake Tegernsee",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 74,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 14,
+          "docTokenEnd": 16,
+          "tokenBegin": 14,
+          "tokenEnd": 16,
+          "text": "Bad Wiessee",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 89,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 19,
+          "tokenBegin": 18,
+          "tokenEnd": 19,
+          "text": "Germany",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 107,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 24,
+          "tokenBegin": 20,
+          "tokenEnd": 24,
+          "text": "April 5, 2013",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 122,
+          "ner": "DATE",
+          "normalizedNER": "2013-04-05",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2013-04-05"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Former",
+          "originalText": "Former",
+          "lemma": "former",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "German",
+          "originalText": "German",
+          "lemma": "german",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 20,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "chancellor",
+          "originalText": "chancellor",
+          "lemma": "chancellor",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 31,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Helmut",
+          "originalText": "Helmut",
+          "lemma": "Helmut",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 38,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Kohl",
+          "originalText": "Kohl",
+          "lemma": "Kohl",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 43,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "on",
+          "originalText": "on",
+          "lemma": "on",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 46,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 50,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "shore",
+          "originalText": "shore",
+          "lemma": "shore",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 56,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 59,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Lake",
+          "originalText": "Lake",
+          "lemma": "Lake",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 64,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Tegernsee",
+          "originalText": "Tegernsee",
+          "lemma": "Tegernsee",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 74,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 77,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Bad",
+          "originalText": "Bad",
+          "lemma": "Bad",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 81,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Wiessee",
+          "originalText": "Wiessee",
+          "lemma": "Wiessee",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 89,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 90,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "southern",
+          "originalText": "southern",
+          "lemma": "southern",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 99,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Germany",
+          "originalText": "Germany",
+          "lemma": "Germany",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 107,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 108,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "April",
+          "originalText": "April",
+          "lemma": "April",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 114,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2013-04-05",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2013-04-05"
+          }
+        },
+        {
+          "index": 22,
+          "word": "5",
+          "originalText": "5",
+          "lemma": "5",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 116,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2013-04-05",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2013-04-05"
+          }
+        },
+        {
+          "index": 23,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 117,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2013-04-05",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2013-04-05"
+          }
+        },
+        {
+          "index": 24,
+          "word": "2013",
+          "originalText": "2013",
+          "lemma": "2013",
+          "characterOffsetBegin": 118,
+          "characterOffsetEnd": 122,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2013-04-05",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2013-04-05"
+          }
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 122,
+          "characterOffsetEnd": 123,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

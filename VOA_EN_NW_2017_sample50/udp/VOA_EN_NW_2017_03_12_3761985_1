@@ -1,0 +1,25 @@
+1	White	White	PROPN	NNP	Number=Sing	2	compound	_	VOA_EN_NW_2017_03_12_3761985_1:0-4
+2	House	House	PROPN	NNP	Number=Sing	3	compound	_	VOA_EN_NW_2017_03_12_3761985_1:6-10
+3	deputy	deputy	NOUN	NN	Number=Sing	4	compound	_	VOA_EN_NW_2017_03_12_3761985_1:12-17
+4	press	press	NOUN	NN	Number=Sing	5	compound	_	VOA_EN_NW_2017_03_12_3761985_1:19-23
+5	secretary	secretary	NOUN	NN	Number=Sing	6	compound	_	VOA_EN_NW_2017_03_12_3761985_1:25-33
+6	Sarah	Sarah	PROPN	NNP	Number=Sing	9	nsubj	_	VOA_EN_NW_2017_03_12_3761985_1:35-39
+7	Huckabee	Huckabee	PROPN	NNP	Number=Sing	6	flat	_	VOA_EN_NW_2017_03_12_3761985_1:41-48
+8	Sanders	Sanders	PROPN	NNP	Number=Sing	6	flat	_	VOA_EN_NW_2017_03_12_3761985_1:50-56
+9	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_03_12_3761985_1:58-62
+10	in	in	ADP	IN	_	12	case	_	VOA_EN_NW_2017_03_12_3761985_1:64-65
+11	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	VOA_EN_NW_2017_03_12_3761985_1:67-69
+12	office	office	NOUN	NN	Number=Sing	9	obl	_	VOA_EN_NW_2017_03_12_3761985_1:71-76
+13	at	at	ADP	IN	_	16	case	_	VOA_EN_NW_2017_03_12_3761985_1:78-79
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	VOA_EN_NW_2017_03_12_3761985_1:81-83
+15	White	White	PROPN	NNP	Number=Sing	16	compound	_	VOA_EN_NW_2017_03_12_3761985_1:85-89
+16	House	House	PROPN	NNP	Number=Sing	9	obl	_	VOA_EN_NW_2017_03_12_3761985_1:91-95
+17	in	in	ADP	IN	_	18	case	_	VOA_EN_NW_2017_03_12_3761985_1:97-98
+18	Washington	Washington	PROPN	NNP	Number=Sing	16	nmod	_	VOA_EN_NW_2017_03_12_3761985_1:100-109
+19	,	,	PUNCT	,	_	16	punct	_	VOA_EN_NW_2017_03_12_3761985_1:110-110
+20	March	March	PROPN	NNP	Number=Sing	16	appos	_	VOA_EN_NW_2017_03_12_3761985_1:112-116
+21	8	8	NUM	CD	NumType=Card	20	nummod	_	VOA_EN_NW_2017_03_12_3761985_1:118-118
+22	,	,	PUNCT	,	_	16	punct	_	VOA_EN_NW_2017_03_12_3761985_1:119-119
+23	2017	2017	NUM	CD	NumType=Card	16	nummod	_	VOA_EN_NW_2017_03_12_3761985_1:121-124
+24	.	.	PUNCT	.	_	9	punct	_	VOA_EN_NW_2017_03_12_3761985_1:125-125
+

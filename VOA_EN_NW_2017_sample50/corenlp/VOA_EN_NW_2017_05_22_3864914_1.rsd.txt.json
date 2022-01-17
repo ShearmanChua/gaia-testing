@@ -1,0 +1,426 @@
+{
+  "docId": "VOA_EN_NW_2017_05_22_3864914_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 9,
+          "tokenBegin": 5,
+          "tokenEnd": 9,
+          "text": "St. Peter's Square",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 35,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 11,
+          "tokenBegin": 10,
+          "tokenEnd": 11,
+          "text": "Easter",
+          "characterOffsetBegin": 43,
+          "characterOffsetEnd": 49,
+          "ner": "DATE",
+          "normalizedNER": "EASTER",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "EASTER"
+          }
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 12,
+          "tokenBegin": 11,
+          "tokenEnd": 12,
+          "text": "Mass",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 54,
+          "ner": "STATE_OR_PROVINCE"
+        },
+        {
+          "docTokenBegin": 14,
+          "docTokenEnd": 16,
+          "tokenBegin": 14,
+          "tokenEnd": 16,
+          "text": "Pope Francis",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 81,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 19,
+          "docTokenEnd": 20,
+          "tokenBegin": 19,
+          "tokenEnd": 20,
+          "text": "Vatican",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 97,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 21,
+          "docTokenEnd": 25,
+          "tokenBegin": 21,
+          "tokenEnd": 25,
+          "text": "April 16, 2017",
+          "characterOffsetBegin": 99,
+          "characterOffsetEnd": 113,
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "A",
+          "originalText": "A",
+          "lemma": "a",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 8,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "view",
+          "originalText": "view",
+          "lemma": "view",
+          "characterOffsetBegin": 9,
+          "characterOffsetEnd": 13,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 16,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "St.",
+          "originalText": "St.",
+          "lemma": "St.",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 20,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Peter",
+          "originalText": "Peter",
+          "lemma": "Peter",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 26,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 28,
+          "pos": "POS",
+          "ner": "LOCATION",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Square",
+          "originalText": "Square",
+          "lemma": "square",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 35,
+          "pos": "NN",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "during",
+          "originalText": "during",
+          "lemma": "during",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 42,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Easter",
+          "originalText": "Easter",
+          "lemma": "Easter",
+          "characterOffsetBegin": 43,
+          "characterOffsetEnd": 49,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "EASTER",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "EASTER"
+          }
+        },
+        {
+          "index": 12,
+          "word": "Mass",
+          "originalText": "Mass",
+          "lemma": "Mass",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 54,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "celebrated",
+          "originalText": "celebrated",
+          "lemma": "celebrate",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 65,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "by",
+          "originalText": "by",
+          "lemma": "by",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 68,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Pope",
+          "originalText": "Pope",
+          "lemma": "Pope",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 73,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Francis",
+          "originalText": "Francis",
+          "lemma": "Francis",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 81,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 82,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 85,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 86,
+          "characterOffsetEnd": 89,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Vatican",
+          "originalText": "Vatican",
+          "lemma": "Vatican",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 97,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 98,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "April",
+          "originalText": "April",
+          "lemma": "April",
+          "characterOffsetBegin": 99,
+          "characterOffsetEnd": 104,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 23,
+          "word": "16",
+          "originalText": "16",
+          "lemma": "16",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 107,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 108,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 25,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 113,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-04-16"
+          }
+        },
+        {
+          "index": 26,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 114,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

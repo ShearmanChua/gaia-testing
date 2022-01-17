@@ -1,0 +1,90 @@
+{
+  "docId": "VOA_EN_NW_2017_01_15_3677179_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Barada",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 2,
+          "tokenBegin": 1,
+          "tokenEnd": 2,
+          "text": "Valley",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 3,
+          "docTokenEnd": 4,
+          "tokenBegin": 3,
+          "tokenEnd": 4,
+          "text": "Syria",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 20,
+          "ner": "COUNTRY"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Barada",
+          "originalText": "Barada",
+          "lemma": "Barada",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 6,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Valley",
+          "originalText": "Valley",
+          "lemma": "Valley",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 14,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Syria",
+          "originalText": "Syria",
+          "lemma": "Syria",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 20,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

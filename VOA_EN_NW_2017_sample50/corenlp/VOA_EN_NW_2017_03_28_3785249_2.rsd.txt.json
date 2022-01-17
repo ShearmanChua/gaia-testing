@@ -1,0 +1,375 @@
+{
+  "docId": "VOA_EN_NW_2017_03_28_3785249_2.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 6,
+          "tokenBegin": 5,
+          "tokenEnd": 6,
+          "text": "Yaounde",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 42,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 7,
+          "docTokenEnd": 8,
+          "tokenBegin": 7,
+          "tokenEnd": 8,
+          "text": "Cameroon",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 52,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 13,
+          "tokenBegin": 9,
+          "tokenEnd": 13,
+          "text": "March 27, 2017",
+          "characterOffsetBegin": 54,
+          "characterOffsetEnd": 68,
+          "ner": "DATE",
+          "normalizedNER": "2017-03-27",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-27"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Participants",
+          "originalText": "Participants",
+          "lemma": "participant",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 12,
+          "pos": "NNS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 15,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "teachers",
+          "originalText": "teachers",
+          "lemma": "teacher",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 24,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "strike",
+          "originalText": "strike",
+          "lemma": "strike",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 31,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 34,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Yaounde",
+          "originalText": "Yaounde",
+          "lemma": "Yaounde",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 42,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 43,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Cameroon",
+          "originalText": "Cameroon",
+          "lemma": "Cameroon",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 52,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 53,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "March",
+          "originalText": "March",
+          "lemma": "March",
+          "characterOffsetBegin": 54,
+          "characterOffsetEnd": 59,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-27",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-27"
+          }
+        },
+        {
+          "index": 11,
+          "word": "27",
+          "originalText": "27",
+          "lemma": "27",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 62,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-27",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-27"
+          }
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 63,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-27",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-27"
+          }
+        },
+        {
+          "index": 13,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 68,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-27",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-27"
+          }
+        },
+        {
+          "index": 14,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 69,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 20,
+          "tokenBegin": 3,
+          "tokenEnd": 6,
+          "text": "Moki Edwin Kindzeka",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 97,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 21,
+          "docTokenEnd": 22,
+          "tokenBegin": 7,
+          "tokenEnd": 8,
+          "text": "VOA",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 105,
+          "ner": "ORGANIZATION"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "-LRB-",
+          "originalText": "(",
+          "lemma": "-lrb-",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 71,
+          "pos": "-LRB-",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": "Photo",
+          "originalText": "Photo",
+          "lemma": "Photo",
+          "characterOffsetBegin": 71,
+          "characterOffsetEnd": 76,
+          "pos": "NNP",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 3,
+          "word": ":",
+          "originalText": ":",
+          "lemma": ":",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 77,
+          "pos": ":",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Moki",
+          "originalText": "Moki",
+          "lemma": "Moki",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 82,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Edwin",
+          "originalText": "Edwin",
+          "lemma": "Edwin",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 88,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Kindzeka",
+          "originalText": "Kindzeka",
+          "lemma": "Kindzeka",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 97,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "for",
+          "originalText": "for",
+          "lemma": "for",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 101,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "VOA",
+          "originalText": "VOA",
+          "lemma": "VOA",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 105,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": "-RRB-",
+          "originalText": ")",
+          "lemma": "-rrb-",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 106,
+          "pos": "-RRB-",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

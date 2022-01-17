@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_16_3903412_2">
+		<TEXT>
+			<SEG end_char="165" id="VOA_EN_NW_2017_06_16_3903412_2-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Helmut Kohl (R) stands hand in hand with former French President Francois Mitterrand (L), Sept. 22, 1984, during their visit to the former Verdun battlefields.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="12" id="token-0-2" start_char="7">Helmut</TOKEN>
+				<TOKEN end_char="17" id="token-0-3" start_char="14">Kohl</TOKEN>
+				<TOKEN end_char="19" id="token-0-4" start_char="19">(</TOKEN>
+				<TOKEN end_char="20" id="token-0-5" start_char="20">R</TOKEN>
+				<TOKEN end_char="21" id="token-0-6" start_char="21">)</TOKEN>
+				<TOKEN end_char="28" id="token-0-7" start_char="23">stands</TOKEN>
+				<TOKEN end_char="33" id="token-0-8" start_char="30">hand</TOKEN>
+				<TOKEN end_char="36" id="token-0-9" start_char="35">in</TOKEN>
+				<TOKEN end_char="41" id="token-0-10" start_char="38">hand</TOKEN>
+				<TOKEN end_char="46" id="token-0-11" start_char="43">with</TOKEN>
+				<TOKEN end_char="53" id="token-0-12" start_char="48">former</TOKEN>
+				<TOKEN end_char="60" id="token-0-13" start_char="55">French</TOKEN>
+				<TOKEN end_char="70" id="token-0-14" start_char="62">President</TOKEN>
+				<TOKEN end_char="79" id="token-0-15" start_char="72">Francois</TOKEN>
+				<TOKEN end_char="90" id="token-0-16" start_char="81">Mitterrand</TOKEN>
+				<TOKEN end_char="92" id="token-0-17" start_char="92">(</TOKEN>
+				<TOKEN end_char="93" id="token-0-18" start_char="93">L</TOKEN>
+				<TOKEN end_char="95" id="token-0-19" start_char="94">),</TOKEN>
+				<TOKEN end_char="100" id="token-0-20" start_char="97">Sept</TOKEN>
+				<TOKEN end_char="101" id="token-0-21" start_char="101">.</TOKEN>
+				<TOKEN end_char="104" id="token-0-22" start_char="103">22</TOKEN>
+				<TOKEN end_char="105" id="token-0-23" start_char="105">,</TOKEN>
+				<TOKEN end_char="110" id="token-0-24" start_char="107">1984</TOKEN>
+				<TOKEN end_char="111" id="token-0-25" start_char="111">,</TOKEN>
+				<TOKEN end_char="118" id="token-0-26" start_char="113">during</TOKEN>
+				<TOKEN end_char="124" id="token-0-27" start_char="120">their</TOKEN>
+				<TOKEN end_char="130" id="token-0-28" start_char="126">visit</TOKEN>
+				<TOKEN end_char="133" id="token-0-29" start_char="132">to</TOKEN>
+				<TOKEN end_char="137" id="token-0-30" start_char="135">the</TOKEN>
+				<TOKEN end_char="144" id="token-0-31" start_char="139">former</TOKEN>
+				<TOKEN end_char="151" id="token-0-32" start_char="146">Verdun</TOKEN>
+				<TOKEN end_char="164" id="token-0-33" start_char="153">battlefields</TOKEN>
+				<TOKEN end_char="165" id="token-0-34" start_char="165">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

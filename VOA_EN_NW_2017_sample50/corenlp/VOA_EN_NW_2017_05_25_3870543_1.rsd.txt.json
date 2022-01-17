@@ -1,0 +1,725 @@
+{
+  "docId": "VOA_EN_NW_2017_05_25_3870543_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 10,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "Wednesday",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 59,
+          "ner": "DATE",
+          "normalizedNER": "XXXX-WXX-3",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "XXXX-WXX-3"
+          }
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 12,
+          "tokenBegin": 11,
+          "tokenEnd": 12,
+          "text": "suicide",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 69,
+          "ner": "CAUSE_OF_DEATH"
+        },
+        {
+          "docTokenBegin": 14,
+          "docTokenEnd": 15,
+          "tokenBegin": 14,
+          "tokenEnd": 15,
+          "text": "Jakarta",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 89,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "Indonesia",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 100,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 22,
+          "tokenBegin": 18,
+          "tokenEnd": 22,
+          "text": "May 25, 2017",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 114,
+          "ner": "DATE",
+          "normalizedNER": "2017-05-25",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-05-25"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "A",
+          "originalText": "A",
+          "lemma": "a",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 1,
+          "pos": "DT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "military",
+          "originalText": "military",
+          "lemma": "military",
+          "characterOffsetBegin": 2,
+          "characterOffsetEnd": 10,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "officer",
+          "originalText": "officer",
+          "lemma": "officer",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 18,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "inspects",
+          "originalText": "inspects",
+          "lemma": "inspect",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 27,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 28,
+          "characterOffsetEnd": 29,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "bus",
+          "originalText": "bus",
+          "lemma": "bus",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 33,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "stop",
+          "originalText": "stop",
+          "lemma": "stop",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 38,
+          "pos": "VB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "damaged",
+          "originalText": "damaged",
+          "lemma": "damage",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 46,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 47,
+          "characterOffsetEnd": 49,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Wednesday",
+          "originalText": "Wednesday",
+          "lemma": "Wednesday",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 59,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "XXXX-WXX-3",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "XXXX-WXX-3"
+          }
+        },
+        {
+          "index": 11,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 61,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "suicide",
+          "originalText": "suicide",
+          "lemma": "suicide",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 69,
+          "pos": "NN",
+          "ner": "CAUSE_OF_DEATH",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "bombings",
+          "originalText": "bombings",
+          "lemma": "bombing",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 78,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 79,
+          "characterOffsetEnd": 81,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Jakarta",
+          "originalText": "Jakarta",
+          "lemma": "Jakarta",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 89,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 90,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Indonesia",
+          "originalText": "Indonesia",
+          "lemma": "Indonesia",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 100,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 100,
+          "characterOffsetEnd": 101,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "May",
+          "originalText": "May",
+          "lemma": "May",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 105,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-25",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-05-25"
+          }
+        },
+        {
+          "index": 20,
+          "word": "25",
+          "originalText": "25",
+          "lemma": "25",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 108,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-25",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-05-25"
+          }
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 109,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-25",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-05-25"
+          }
+        },
+        {
+          "index": 22,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 110,
+          "characterOffsetEnd": 114,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-05-25",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "2017-05-25"
+          }
+        },
+        {
+          "index": 23,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 114,
+          "characterOffsetEnd": 115,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 23,
+          "docTokenEnd": 24,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Indonesia",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 125,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 25,
+          "docTokenEnd": 26,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "President",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 137,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 26,
+          "docTokenEnd": 27,
+          "tokenBegin": 3,
+          "tokenEnd": 4,
+          "text": "Joko",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 142,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 30,
+          "docTokenEnd": 31,
+          "tokenBegin": 7,
+          "tokenEnd": 8,
+          "text": "Widodo",
+          "characterOffsetBegin": 152,
+          "characterOffsetEnd": 158,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 39,
+          "docTokenEnd": 40,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "two",
+          "characterOffsetBegin": 214,
+          "characterOffsetEnd": 217,
+          "ner": "NUMBER",
+          "normalizedNER": "2.0"
+        },
+        {
+          "docTokenBegin": 40,
+          "docTokenEnd": 41,
+          "tokenBegin": 17,
+          "tokenEnd": 18,
+          "text": "suicide",
+          "characterOffsetBegin": 218,
+          "characterOffsetEnd": 225,
+          "ner": "CAUSE_OF_DEATH"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Indonesia",
+          "originalText": "Indonesia",
+          "lemma": "Indonesia",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 125,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 125,
+          "characterOffsetEnd": 127,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "President",
+          "originalText": "President",
+          "lemma": "President",
+          "characterOffsetBegin": 128,
+          "characterOffsetEnd": 137,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Joko",
+          "originalText": "Joko",
+          "lemma": "Joko",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 142,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "``",
+          "originalText": "\"",
+          "lemma": "``",
+          "characterOffsetBegin": 143,
+          "characterOffsetEnd": 144,
+          "pos": "``",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": "Jokowi",
+          "originalText": "Jokowi",
+          "lemma": "Jokowi",
+          "characterOffsetBegin": 144,
+          "characterOffsetEnd": 150,
+          "pos": "NNP",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": "''",
+          "originalText": "\"",
+          "lemma": "''",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 151,
+          "pos": "''",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Widodo",
+          "originalText": "Widodo",
+          "lemma": "Widodo",
+          "characterOffsetBegin": 152,
+          "characterOffsetEnd": 158,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "ordered",
+          "originalText": "ordered",
+          "lemma": "order",
+          "characterOffsetBegin": 159,
+          "characterOffsetEnd": 166,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 167,
+          "characterOffsetEnd": 168,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "thorough",
+          "originalText": "thorough",
+          "lemma": "thorough",
+          "characterOffsetBegin": 169,
+          "characterOffsetEnd": 177,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "investigation",
+          "originalText": "investigation",
+          "lemma": "investigation",
+          "characterOffsetBegin": 178,
+          "characterOffsetEnd": 191,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 192,
+          "characterOffsetEnd": 194,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 195,
+          "characterOffsetEnd": 198,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "network",
+          "originalText": "network",
+          "lemma": "network",
+          "characterOffsetBegin": 199,
+          "characterOffsetEnd": 206,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "behind",
+          "originalText": "behind",
+          "lemma": "behind",
+          "characterOffsetBegin": 207,
+          "characterOffsetEnd": 213,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "two",
+          "originalText": "two",
+          "lemma": "two",
+          "characterOffsetBegin": 214,
+          "characterOffsetEnd": 217,
+          "pos": "CD",
+          "ner": "NUMBER",
+          "normalizedNER": "2.0",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "suicide",
+          "originalText": "suicide",
+          "lemma": "suicide",
+          "characterOffsetBegin": 218,
+          "characterOffsetEnd": 225,
+          "pos": "NN",
+          "ner": "CAUSE_OF_DEATH",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "bombings",
+          "originalText": "bombings",
+          "lemma": "bombing",
+          "characterOffsetBegin": 226,
+          "characterOffsetEnd": 234,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "that",
+          "originalText": "that",
+          "lemma": "that",
+          "characterOffsetBegin": 235,
+          "characterOffsetEnd": 239,
+          "pos": "WDT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "targeted",
+          "originalText": "targeted",
+          "lemma": "target",
+          "characterOffsetBegin": 240,
+          "characterOffsetEnd": 248,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "police",
+          "originalText": "police",
+          "lemma": "police",
+          "characterOffsetBegin": 249,
+          "characterOffsetEnd": 255,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 23,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 255,
+          "characterOffsetEnd": 256,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

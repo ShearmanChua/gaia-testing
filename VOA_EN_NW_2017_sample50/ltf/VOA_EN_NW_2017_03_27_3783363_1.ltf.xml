@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_27_3783363_1">
+		<TEXT>
+			<SEG end_char="90" id="VOA_EN_NW_2017_03_27_3783363_1-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Russia's ambassador to the U.S. Sergey Kislyak, speaks with reporters in Washington.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="12" id="token-0-2" start_char="7">Russia</TOKEN>
+				<TOKEN end_char="13" id="token-0-3" start_char="13">'</TOKEN>
+				<TOKEN end_char="14" id="token-0-4" start_char="14">s</TOKEN>
+				<TOKEN end_char="25" id="token-0-5" start_char="16">ambassador</TOKEN>
+				<TOKEN end_char="28" id="token-0-6" start_char="27">to</TOKEN>
+				<TOKEN end_char="32" id="token-0-7" start_char="30">the</TOKEN>
+				<TOKEN end_char="34" id="token-0-8" start_char="34">U</TOKEN>
+				<TOKEN end_char="35" id="token-0-9" start_char="35">.</TOKEN>
+				<TOKEN end_char="36" id="token-0-10" start_char="36">S</TOKEN>
+				<TOKEN end_char="37" id="token-0-11" start_char="37">.</TOKEN>
+				<TOKEN end_char="44" id="token-0-12" start_char="39">Sergey</TOKEN>
+				<TOKEN end_char="52" id="token-0-13" start_char="46">Kislyak</TOKEN>
+				<TOKEN end_char="53" id="token-0-14" start_char="53">,</TOKEN>
+				<TOKEN end_char="60" id="token-0-15" start_char="55">speaks</TOKEN>
+				<TOKEN end_char="65" id="token-0-16" start_char="62">with</TOKEN>
+				<TOKEN end_char="75" id="token-0-17" start_char="67">reporters</TOKEN>
+				<TOKEN end_char="78" id="token-0-18" start_char="77">in</TOKEN>
+				<TOKEN end_char="89" id="token-0-19" start_char="80">Washington</TOKEN>
+				<TOKEN end_char="90" id="token-0-20" start_char="90">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

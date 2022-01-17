@@ -1,0 +1,699 @@
+{
+  "docId": "VOA_EN_NW_2017_05_06_3840818_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 3,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "Nepalese",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 15,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 5,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "climber",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 32,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 8,
+          "tokenBegin": 5,
+          "tokenEnd": 8,
+          "text": "Min Bahadur Sherchan",
+          "characterOffsetBegin": 33,
+          "characterOffsetEnd": 53,
+          "ner": "PERSON",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "PT1M"
+          }
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 10,
+          "tokenBegin": 9,
+          "tokenEnd": 10,
+          "text": "85",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 57,
+          "ner": "NUMBER",
+          "normalizedNER": "85.0"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "morning",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 92,
+          "ner": "TIME",
+          "normalizedNER": "TMO",
+          "timex": {
+            "tid": "t2",
+            "type": "TIME",
+            "value": "TMO"
+          }
+        },
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 18,
+          "tokenBegin": 17,
+          "tokenEnd": 18,
+          "text": "yoga",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 97,
+          "ner": "RELIGION"
+        },
+        {
+          "docTokenBegin": 23,
+          "docTokenEnd": 24,
+          "tokenBegin": 23,
+          "tokenEnd": 24,
+          "text": "Kathmandu",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 135,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 25,
+          "docTokenEnd": 26,
+          "tokenBegin": 25,
+          "tokenEnd": 26,
+          "text": "Nepal",
+          "characterOffsetBegin": 137,
+          "characterOffsetEnd": 142,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 27,
+          "docTokenEnd": 31,
+          "tokenBegin": 27,
+          "tokenEnd": 31,
+          "text": "April 12, 2017",
+          "characterOffsetBegin": 144,
+          "characterOffsetEnd": 158,
+          "ner": "DATE",
+          "normalizedNER": "2017-04-12",
+          "timex": {
+            "tid": "t3",
+            "type": "DATE",
+            "value": "2017-04-12"
+          }
+        },
+        {
+          "docTokenBegin": 13,
+          "docTokenEnd": 14,
+          "tokenBegin": 13,
+          "tokenEnd": 14,
+          "text": "he",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 71,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "his",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 84,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 21,
+          "tokenBegin": 20,
+          "tokenEnd": 21,
+          "text": "his",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 112,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Nepalese",
+          "originalText": "Nepalese",
+          "lemma": "nepalese",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 15,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "mountain",
+          "originalText": "mountain",
+          "lemma": "mountain",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 24,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "climber",
+          "originalText": "climber",
+          "lemma": "climber",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 32,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Min",
+          "originalText": "Min",
+          "lemma": "Min",
+          "characterOffsetBegin": 33,
+          "characterOffsetEnd": 36,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "PT1M"
+          }
+        },
+        {
+          "index": 7,
+          "word": "Bahadur",
+          "originalText": "Bahadur",
+          "lemma": "Bahadur",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 44,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Sherchan",
+          "originalText": "Sherchan",
+          "lemma": "Sherchan",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 53,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 54,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "85",
+          "originalText": "85",
+          "lemma": "85",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 57,
+          "pos": "CD",
+          "ner": "NUMBER",
+          "normalizedNER": "85.0",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 11,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 58,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "smiles",
+          "originalText": "smiles",
+          "lemma": "smile",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 65,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "as",
+          "originalText": "as",
+          "lemma": "as",
+          "characterOffsetBegin": 66,
+          "characterOffsetEnd": 68,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "he",
+          "originalText": "he",
+          "lemma": "he",
+          "characterOffsetBegin": 69,
+          "characterOffsetEnd": 71,
+          "pos": "PRP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "finishes",
+          "originalText": "finishes",
+          "lemma": "finish",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 80,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "his",
+          "originalText": "his",
+          "lemma": "he",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 84,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "morning",
+          "originalText": "morning",
+          "lemma": "morning",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 92,
+          "pos": "NN",
+          "ner": "TIME",
+          "normalizedNER": "TMO",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t2",
+            "type": "TIME",
+            "value": "TMO"
+          }
+        },
+        {
+          "index": 18,
+          "word": "yoga",
+          "originalText": "yoga",
+          "lemma": "yoga",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 97,
+          "pos": "NN",
+          "ner": "RELIGION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "workout",
+          "originalText": "workout",
+          "lemma": "workout",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 105,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 108,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "his",
+          "originalText": "his",
+          "lemma": "he",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 112,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "residence",
+          "originalText": "residence",
+          "lemma": "residence",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 122,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 125,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "Kathmandu",
+          "originalText": "Kathmandu",
+          "lemma": "Kathmandu",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 135,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 25,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 136,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "Nepal",
+          "originalText": "Nepal",
+          "lemma": "Nepal",
+          "characterOffsetBegin": 137,
+          "characterOffsetEnd": 142,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 27,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 142,
+          "characterOffsetEnd": 143,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 28,
+          "word": "April",
+          "originalText": "April",
+          "lemma": "April",
+          "characterOffsetBegin": 144,
+          "characterOffsetEnd": 149,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-12",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t3",
+            "type": "DATE",
+            "value": "2017-04-12"
+          }
+        },
+        {
+          "index": 29,
+          "word": "12",
+          "originalText": "12",
+          "lemma": "12",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 152,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-12",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t3",
+            "type": "DATE",
+            "value": "2017-04-12"
+          }
+        },
+        {
+          "index": 30,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 152,
+          "characterOffsetEnd": 153,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-12",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t3",
+            "type": "DATE",
+            "value": "2017-04-12"
+          }
+        },
+        {
+          "index": 31,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 154,
+          "characterOffsetEnd": 158,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-12",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t3",
+            "type": "DATE",
+            "value": "2017-04-12"
+          }
+        },
+        {
+          "index": 32,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 159,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 34,
+          "docTokenEnd": 35,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "Sherchan",
+          "characterOffsetBegin": 175,
+          "characterOffsetEnd": 183,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 36,
+          "docTokenEnd": 38,
+          "tokenBegin": 4,
+          "tokenEnd": 6,
+          "text": "May 6",
+          "characterOffsetBegin": 189,
+          "characterOffsetEnd": 194,
+          "ner": "DATE",
+          "normalizedNER": "XXXX-05-06",
+          "timex": {
+            "tid": "t4",
+            "type": "DATE",
+            "value": "XXXX-05-06"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Officials",
+          "originalText": "Officials",
+          "lemma": "official",
+          "characterOffsetBegin": 160,
+          "characterOffsetEnd": 169,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "said",
+          "originalText": "said",
+          "lemma": "say",
+          "characterOffsetBegin": 170,
+          "characterOffsetEnd": 174,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Sherchan",
+          "originalText": "Sherchan",
+          "lemma": "Sherchan",
+          "characterOffsetBegin": 175,
+          "characterOffsetEnd": 183,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "died",
+          "originalText": "died",
+          "lemma": "die",
+          "characterOffsetBegin": 184,
+          "characterOffsetEnd": 188,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "May",
+          "originalText": "May",
+          "lemma": "May",
+          "characterOffsetBegin": 189,
+          "characterOffsetEnd": 192,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "XXXX-05-06",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t4",
+            "type": "DATE",
+            "value": "XXXX-05-06"
+          }
+        },
+        {
+          "index": 6,
+          "word": "6",
+          "originalText": "6",
+          "lemma": "6",
+          "characterOffsetBegin": 193,
+          "characterOffsetEnd": 194,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "XXXX-05-06",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t4",
+            "type": "DATE",
+            "value": "XXXX-05-06"
+          }
+        },
+        {
+          "index": 7,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 194,
+          "characterOffsetEnd": 195,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

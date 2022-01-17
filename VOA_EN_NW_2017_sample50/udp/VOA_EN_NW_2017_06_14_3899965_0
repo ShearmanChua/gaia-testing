@@ -1,0 +1,25 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	VOA_EN_NW_2017_06_14_3899965_0:0-0
+2	car	car	NOUN	NN	Number=Sing	7	nsubj:pass	_	VOA_EN_NW_2017_06_14_3899965_0:2-4
+3	covered	cover	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	VOA_EN_NW_2017_06_14_3899965_0:6-12
+4	by	by	ADP	IN	_	5	case	_	VOA_EN_NW_2017_06_14_3899965_0:14-15
+5	debris	debris	PRON	DT	Number=Sing|PronType=Dem	3	obl	_	VOA_EN_NW_2017_06_14_3899965_0:17-22
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	VOA_EN_NW_2017_06_14_3899965_0:24-25
+7	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	VOA_EN_NW_2017_06_14_3899965_0:27-30
+8	near	near	ADP	IN	_	11	case	_	VOA_EN_NW_2017_06_14_3899965_0:32-35
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	VOA_EN_NW_2017_06_14_3899965_0:37-37
+10	collapsed	collapse	VERB	VBN	Tense=Past|VerbForm=Part	11	amod	_	VOA_EN_NW_2017_06_14_3899965_0:39-47
+11	wall	wall	NOUN	NN	Number=Sing	7	obl	_	VOA_EN_NW_2017_06_14_3899965_0:49-52
+12	following	follow	VERB	VBG	VerbForm=Ger	14	case	_	VOA_EN_NW_2017_06_14_3899965_0:54-62
+13	an	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	VOA_EN_NW_2017_06_14_3899965_0:64-65
+14	earthquake	earthquake	NOUN	NN	Number=Sing	7	obl	_	VOA_EN_NW_2017_06_14_3899965_0:67-76
+15	in	in	ADP	IN	_	16	case	_	VOA_EN_NW_2017_06_14_3899965_0:78-79
+16	Quetzaltenango	Quetzaltenango	PROPN	NNP	Number=Sing	14	nmod	_	VOA_EN_NW_2017_06_14_3899965_0:81-94
+17	,	,	PUNCT	,	_	16	punct	_	VOA_EN_NW_2017_06_14_3899965_0:95-95
+18	Guatemala	Guatemala	PROPN	NNP	Number=Sing	16	appos	_	VOA_EN_NW_2017_06_14_3899965_0:97-105
+19	,	,	PUNCT	,	_	16	punct	_	VOA_EN_NW_2017_06_14_3899965_0:106-106
+20	June	June	PROPN	NNP	Number=Sing	16	appos	_	VOA_EN_NW_2017_06_14_3899965_0:108-111
+21	14	14	NUM	CD	NumType=Card	20	nummod	_	VOA_EN_NW_2017_06_14_3899965_0:113-114
+22	,	,	PUNCT	,	_	16	punct	_	VOA_EN_NW_2017_06_14_3899965_0:115-115
+23	2017	2017	NUM	CD	NumType=Card	16	appos	_	VOA_EN_NW_2017_06_14_3899965_0:117-120
+24	.	.	PUNCT	.	_	7	punct	_	VOA_EN_NW_2017_06_14_3899965_0:121-121
+

@@ -1,0 +1,370 @@
+{
+  "docId": "VOA_EN_NW_2017_06_14_3899965_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 13,
+          "docTokenEnd": 14,
+          "tokenBegin": 13,
+          "tokenEnd": 14,
+          "text": "earthquake",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 77,
+          "ner": "CAUSE_OF_DEATH"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "Quetzaltenango",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 95,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 18,
+          "tokenBegin": 17,
+          "tokenEnd": 18,
+          "text": "Guatemala",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 106,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 19,
+          "docTokenEnd": 23,
+          "tokenBegin": 19,
+          "tokenEnd": 23,
+          "text": "June 14, 2017",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 121,
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "A",
+          "originalText": "A",
+          "lemma": "a",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 1,
+          "pos": "DT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "car",
+          "originalText": "car",
+          "lemma": "car",
+          "characterOffsetBegin": 2,
+          "characterOffsetEnd": 5,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "covered",
+          "originalText": "covered",
+          "lemma": "cover",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 13,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "by",
+          "originalText": "by",
+          "lemma": "by",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 16,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "debris",
+          "originalText": "debris",
+          "lemma": "debris",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 23,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "is",
+          "originalText": "is",
+          "lemma": "be",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 26,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "seen",
+          "originalText": "seen",
+          "lemma": "see",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 31,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "near",
+          "originalText": "near",
+          "lemma": "near",
+          "characterOffsetBegin": 32,
+          "characterOffsetEnd": 36,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 38,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "collapsed",
+          "originalText": "collapsed",
+          "lemma": "collapsed",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 48,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "wall",
+          "originalText": "wall",
+          "lemma": "wall",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 53,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "following",
+          "originalText": "following",
+          "lemma": "follow",
+          "characterOffsetBegin": 54,
+          "characterOffsetEnd": 63,
+          "pos": "VBG",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "an",
+          "originalText": "an",
+          "lemma": "a",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 66,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "earthquake",
+          "originalText": "earthquake",
+          "lemma": "earthquake",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 77,
+          "pos": "NN",
+          "ner": "CAUSE_OF_DEATH",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 80,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Quetzaltenango",
+          "originalText": "Quetzaltenango",
+          "lemma": "Quetzaltenango",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 95,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 96,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Guatemala",
+          "originalText": "Guatemala",
+          "lemma": "Guatemala",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 106,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 107,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 112,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        },
+        {
+          "index": 21,
+          "word": "14",
+          "originalText": "14",
+          "lemma": "14",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 115,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 116,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        },
+        {
+          "index": 23,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 121,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 122,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

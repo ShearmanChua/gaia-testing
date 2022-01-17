@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_05_3839132_0">
+		<TEXT>
+			<SEG end_char="216" id="VOA_EN_NW_2017_05_05_3839132_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - A former paratrooper celebrating Paratroopers Day, right, takes away a broadsheet of a gay rights activist who is taking part in a protest at Dvortsovaya (Palace) Square in St. Petersburg, Russia, Aug. 2, 2015.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="7" id="token-0-2" start_char="7">A</TOKEN>
+				<TOKEN end_char="14" id="token-0-3" start_char="9">former</TOKEN>
+				<TOKEN end_char="26" id="token-0-4" start_char="16">paratrooper</TOKEN>
+				<TOKEN end_char="38" id="token-0-5" start_char="28">celebrating</TOKEN>
+				<TOKEN end_char="51" id="token-0-6" start_char="40">Paratroopers</TOKEN>
+				<TOKEN end_char="55" id="token-0-7" start_char="53">Day</TOKEN>
+				<TOKEN end_char="56" id="token-0-8" start_char="56">,</TOKEN>
+				<TOKEN end_char="62" id="token-0-9" start_char="58">right</TOKEN>
+				<TOKEN end_char="63" id="token-0-10" start_char="63">,</TOKEN>
+				<TOKEN end_char="69" id="token-0-11" start_char="65">takes</TOKEN>
+				<TOKEN end_char="74" id="token-0-12" start_char="71">away</TOKEN>
+				<TOKEN end_char="76" id="token-0-13" start_char="76">a</TOKEN>
+				<TOKEN end_char="87" id="token-0-14" start_char="78">broadsheet</TOKEN>
+				<TOKEN end_char="90" id="token-0-15" start_char="89">of</TOKEN>
+				<TOKEN end_char="92" id="token-0-16" start_char="92">a</TOKEN>
+				<TOKEN end_char="96" id="token-0-17" start_char="94">gay</TOKEN>
+				<TOKEN end_char="103" id="token-0-18" start_char="98">rights</TOKEN>
+				<TOKEN end_char="112" id="token-0-19" start_char="105">activist</TOKEN>
+				<TOKEN end_char="116" id="token-0-20" start_char="114">who</TOKEN>
+				<TOKEN end_char="119" id="token-0-21" start_char="118">is</TOKEN>
+				<TOKEN end_char="126" id="token-0-22" start_char="121">taking</TOKEN>
+				<TOKEN end_char="131" id="token-0-23" start_char="128">part</TOKEN>
+				<TOKEN end_char="134" id="token-0-24" start_char="133">in</TOKEN>
+				<TOKEN end_char="136" id="token-0-25" start_char="136">a</TOKEN>
+				<TOKEN end_char="144" id="token-0-26" start_char="138">protest</TOKEN>
+				<TOKEN end_char="147" id="token-0-27" start_char="146">at</TOKEN>
+				<TOKEN end_char="159" id="token-0-28" start_char="149">Dvortsovaya</TOKEN>
+				<TOKEN end_char="161" id="token-0-29" start_char="161">(</TOKEN>
+				<TOKEN end_char="167" id="token-0-30" start_char="162">Palace</TOKEN>
+				<TOKEN end_char="168" id="token-0-31" start_char="168">)</TOKEN>
+				<TOKEN end_char="175" id="token-0-32" start_char="170">Square</TOKEN>
+				<TOKEN end_char="178" id="token-0-33" start_char="177">in</TOKEN>
+				<TOKEN end_char="181" id="token-0-34" start_char="180">St</TOKEN>
+				<TOKEN end_char="182" id="token-0-35" start_char="182">.</TOKEN>
+				<TOKEN end_char="193" id="token-0-36" start_char="184">Petersburg</TOKEN>
+				<TOKEN end_char="194" id="token-0-37" start_char="194">,</TOKEN>
+				<TOKEN end_char="201" id="token-0-38" start_char="196">Russia</TOKEN>
+				<TOKEN end_char="202" id="token-0-39" start_char="202">,</TOKEN>
+				<TOKEN end_char="206" id="token-0-40" start_char="204">Aug</TOKEN>
+				<TOKEN end_char="207" id="token-0-41" start_char="207">.</TOKEN>
+				<TOKEN end_char="209" id="token-0-42" start_char="209">2</TOKEN>
+				<TOKEN end_char="210" id="token-0-43" start_char="210">,</TOKEN>
+				<TOKEN end_char="215" id="token-0-44" start_char="212">2015</TOKEN>
+				<TOKEN end_char="216" id="token-0-45" start_char="216">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_06_3840818_0">
+		<TEXT>
+			<SEG end_char="158" id="VOA_EN_NW_2017_05_06_3840818_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Nepalese mountain climber Min Bahadur Sherchan, 85, smiles as he finishes his morning yoga workout at his residence in Kathmandu, Nepal, April 12, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="14" id="token-0-2" start_char="7">Nepalese</TOKEN>
+				<TOKEN end_char="23" id="token-0-3" start_char="16">mountain</TOKEN>
+				<TOKEN end_char="31" id="token-0-4" start_char="25">climber</TOKEN>
+				<TOKEN end_char="35" id="token-0-5" start_char="33">Min</TOKEN>
+				<TOKEN end_char="43" id="token-0-6" start_char="37">Bahadur</TOKEN>
+				<TOKEN end_char="52" id="token-0-7" start_char="45">Sherchan</TOKEN>
+				<TOKEN end_char="53" id="token-0-8" start_char="53">,</TOKEN>
+				<TOKEN end_char="56" id="token-0-9" start_char="55">85</TOKEN>
+				<TOKEN end_char="57" id="token-0-10" start_char="57">,</TOKEN>
+				<TOKEN end_char="64" id="token-0-11" start_char="59">smiles</TOKEN>
+				<TOKEN end_char="67" id="token-0-12" start_char="66">as</TOKEN>
+				<TOKEN end_char="70" id="token-0-13" start_char="69">he</TOKEN>
+				<TOKEN end_char="79" id="token-0-14" start_char="72">finishes</TOKEN>
+				<TOKEN end_char="83" id="token-0-15" start_char="81">his</TOKEN>
+				<TOKEN end_char="91" id="token-0-16" start_char="85">morning</TOKEN>
+				<TOKEN end_char="96" id="token-0-17" start_char="93">yoga</TOKEN>
+				<TOKEN end_char="104" id="token-0-18" start_char="98">workout</TOKEN>
+				<TOKEN end_char="107" id="token-0-19" start_char="106">at</TOKEN>
+				<TOKEN end_char="111" id="token-0-20" start_char="109">his</TOKEN>
+				<TOKEN end_char="121" id="token-0-21" start_char="113">residence</TOKEN>
+				<TOKEN end_char="124" id="token-0-22" start_char="123">in</TOKEN>
+				<TOKEN end_char="134" id="token-0-23" start_char="126">Kathmandu</TOKEN>
+				<TOKEN end_char="135" id="token-0-24" start_char="135">,</TOKEN>
+				<TOKEN end_char="141" id="token-0-25" start_char="137">Nepal</TOKEN>
+				<TOKEN end_char="142" id="token-0-26" start_char="142">,</TOKEN>
+				<TOKEN end_char="148" id="token-0-27" start_char="144">April</TOKEN>
+				<TOKEN end_char="151" id="token-0-28" start_char="150">12</TOKEN>
+				<TOKEN end_char="152" id="token-0-29" start_char="152">,</TOKEN>
+				<TOKEN end_char="157" id="token-0-30" start_char="154">2017</TOKEN>
+				<TOKEN end_char="158" id="token-0-31" start_char="158">.</TOKEN>
+			</SEG>
+			<SEG end_char="194" id="VOA_EN_NW_2017_05_06_3840818_0-1" start_char="160">
+				<ORIGINAL_TEXT>Officials said Sherchan died May 6.</ORIGINAL_TEXT>
+				<TOKEN end_char="168" id="token-1-0" start_char="160">Officials</TOKEN>
+				<TOKEN end_char="173" id="token-1-1" start_char="170">said</TOKEN>
+				<TOKEN end_char="182" id="token-1-2" start_char="175">Sherchan</TOKEN>
+				<TOKEN end_char="187" id="token-1-3" start_char="184">died</TOKEN>
+				<TOKEN end_char="191" id="token-1-4" start_char="189">May</TOKEN>
+				<TOKEN end_char="193" id="token-1-5" start_char="193">6</TOKEN>
+				<TOKEN end_char="194" id="token-1-6" start_char="194">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

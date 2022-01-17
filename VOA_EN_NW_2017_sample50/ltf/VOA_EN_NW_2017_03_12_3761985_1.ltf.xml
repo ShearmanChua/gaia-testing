@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_12_3761985_1">
+		<TEXT>
+			<SEG end_char="125" id="VOA_EN_NW_2017_03_12_3761985_1-0" start_char="0">
+				<ORIGINAL_TEXT>White House deputy press secretary Sarah Huckabee Sanders works in her office at the White House in Washington, March 8, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="4" id="token-0-0" start_char="0">White</TOKEN>
+				<TOKEN end_char="10" id="token-0-1" start_char="6">House</TOKEN>
+				<TOKEN end_char="17" id="token-0-2" start_char="12">deputy</TOKEN>
+				<TOKEN end_char="23" id="token-0-3" start_char="19">press</TOKEN>
+				<TOKEN end_char="33" id="token-0-4" start_char="25">secretary</TOKEN>
+				<TOKEN end_char="39" id="token-0-5" start_char="35">Sarah</TOKEN>
+				<TOKEN end_char="48" id="token-0-6" start_char="41">Huckabee</TOKEN>
+				<TOKEN end_char="56" id="token-0-7" start_char="50">Sanders</TOKEN>
+				<TOKEN end_char="62" id="token-0-8" start_char="58">works</TOKEN>
+				<TOKEN end_char="65" id="token-0-9" start_char="64">in</TOKEN>
+				<TOKEN end_char="69" id="token-0-10" start_char="67">her</TOKEN>
+				<TOKEN end_char="76" id="token-0-11" start_char="71">office</TOKEN>
+				<TOKEN end_char="79" id="token-0-12" start_char="78">at</TOKEN>
+				<TOKEN end_char="83" id="token-0-13" start_char="81">the</TOKEN>
+				<TOKEN end_char="89" id="token-0-14" start_char="85">White</TOKEN>
+				<TOKEN end_char="95" id="token-0-15" start_char="91">House</TOKEN>
+				<TOKEN end_char="98" id="token-0-16" start_char="97">in</TOKEN>
+				<TOKEN end_char="109" id="token-0-17" start_char="100">Washington</TOKEN>
+				<TOKEN end_char="110" id="token-0-18" start_char="110">,</TOKEN>
+				<TOKEN end_char="116" id="token-0-19" start_char="112">March</TOKEN>
+				<TOKEN end_char="118" id="token-0-20" start_char="118">8</TOKEN>
+				<TOKEN end_char="119" id="token-0-21" start_char="119">,</TOKEN>
+				<TOKEN end_char="124" id="token-0-22" start_char="121">2017</TOKEN>
+				<TOKEN end_char="125" id="token-0-23" start_char="125">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

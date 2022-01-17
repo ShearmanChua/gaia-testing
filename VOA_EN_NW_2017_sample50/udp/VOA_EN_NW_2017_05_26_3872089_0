@@ -1,0 +1,19 @@
+1	FILE	file	PROPN	NNP	Number=Sing	4	compound	_	VOA_EN_NW_2017_05_26_3872089_0:0-3
+2	-	-	PUNCT	HYPH	_	1	punct	_	VOA_EN_NW_2017_05_26_3872089_0:5-5
+3	South	South	PROPN	NNP	Number=Sing	4	compound	_	VOA_EN_NW_2017_05_26_3872089_0:7-11
+4	Korea	Korea	PROPN	NNP	Number=Sing	8	nmod:poss	_	VOA_EN_NW_2017_05_26_3872089_0:13-17
+5	'	'	PART	POS	_	4	case	_	VOA_EN_NW_2017_05_26_3872089_0:18-18
+6	s	's	PART	POS	_	4	case	_	VOA_EN_NW_2017_05_26_3872089_0:19-19
+7	presidential	presidential	ADJ	JJ	Degree=Pos	8	amod	_	VOA_EN_NW_2017_05_26_3872089_0:21-32
+8	candidate	candidate	NOUN	NN	Number=Sing	9	compound	_	VOA_EN_NW_2017_05_26_3872089_0:34-42
+9	Moon	Moon	PROPN	NNP	Number=Sing	0	root	_	VOA_EN_NW_2017_05_26_3872089_0:44-47
+10	Jae	Jae	PROPN	NNP	Number=Sing	9	flat	_	VOA_EN_NW_2017_05_26_3872089_0:49-51
+11	-	-	PUNCT	,	_	9	punct	_	VOA_EN_NW_2017_05_26_3872089_0:52-52
+12	in	in	ADP	IN	_	14	case	_	VOA_EN_NW_2017_05_26_3872089_0:53-54
+13	in	in	ADP	IN	_	14	case	_	VOA_EN_NW_2017_05_26_3872089_0:56-57
+14	Seoul	Seoul	PROPN	NNP	Number=Sing	9	nmod	_	VOA_EN_NW_2017_05_26_3872089_0:59-63
+15	,	,	PUNCT	,	_	17	punct	_	VOA_EN_NW_2017_05_26_3872089_0:64-64
+16	South	South	PROPN	NNP	Number=Sing	17	compound	_	VOA_EN_NW_2017_05_26_3872089_0:66-70
+17	Korea	Korea	PROPN	NNP	Number=Sing	14	appos	_	VOA_EN_NW_2017_05_26_3872089_0:72-76
+18	.	.	PUNCT	.	_	9	punct	_	VOA_EN_NW_2017_05_26_3872089_0:77-77
+

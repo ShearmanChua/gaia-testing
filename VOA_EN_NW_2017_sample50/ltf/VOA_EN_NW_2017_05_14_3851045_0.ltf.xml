@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_14_3851045_0">
+		<TEXT>
+			<SEG end_char="113" id="VOA_EN_NW_2017_05_14_3851045_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Iraqi special focus advance to their next position in the Islah al-Zarai area in Mosul, Iraq, May 11, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="11" id="token-0-2" start_char="7">Iraqi</TOKEN>
+				<TOKEN end_char="19" id="token-0-3" start_char="13">special</TOKEN>
+				<TOKEN end_char="25" id="token-0-4" start_char="21">focus</TOKEN>
+				<TOKEN end_char="33" id="token-0-5" start_char="27">advance</TOKEN>
+				<TOKEN end_char="36" id="token-0-6" start_char="35">to</TOKEN>
+				<TOKEN end_char="42" id="token-0-7" start_char="38">their</TOKEN>
+				<TOKEN end_char="47" id="token-0-8" start_char="44">next</TOKEN>
+				<TOKEN end_char="56" id="token-0-9" start_char="49">position</TOKEN>
+				<TOKEN end_char="59" id="token-0-10" start_char="58">in</TOKEN>
+				<TOKEN end_char="63" id="token-0-11" start_char="61">the</TOKEN>
+				<TOKEN end_char="69" id="token-0-12" start_char="65">Islah</TOKEN>
+				<TOKEN end_char="72" id="token-0-13" start_char="71">al</TOKEN>
+				<TOKEN end_char="73" id="token-0-14" start_char="73">-</TOKEN>
+				<TOKEN end_char="78" id="token-0-15" start_char="74">Zarai</TOKEN>
+				<TOKEN end_char="83" id="token-0-16" start_char="80">area</TOKEN>
+				<TOKEN end_char="86" id="token-0-17" start_char="85">in</TOKEN>
+				<TOKEN end_char="92" id="token-0-18" start_char="88">Mosul</TOKEN>
+				<TOKEN end_char="93" id="token-0-19" start_char="93">,</TOKEN>
+				<TOKEN end_char="98" id="token-0-20" start_char="95">Iraq</TOKEN>
+				<TOKEN end_char="99" id="token-0-21" start_char="99">,</TOKEN>
+				<TOKEN end_char="103" id="token-0-22" start_char="101">May</TOKEN>
+				<TOKEN end_char="106" id="token-0-23" start_char="105">11</TOKEN>
+				<TOKEN end_char="107" id="token-0-24" start_char="107">,</TOKEN>
+				<TOKEN end_char="112" id="token-0-25" start_char="109">2017</TOKEN>
+				<TOKEN end_char="113" id="token-0-26" start_char="113">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

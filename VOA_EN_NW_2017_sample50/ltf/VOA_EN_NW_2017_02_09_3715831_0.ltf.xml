@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_02_09_3715831_0">
+		<TEXT>
+			<SEG end_char="130" id="VOA_EN_NW_2017_02_09_3715831_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - Refugees stand outside their tent at the Ifo Extension refugee camp in Dadaab, near the Kenya-Somalia border, Oct. 19, 2011.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="14" id="token-0-2" start_char="7">Refugees</TOKEN>
+				<TOKEN end_char="20" id="token-0-3" start_char="16">stand</TOKEN>
+				<TOKEN end_char="28" id="token-0-4" start_char="22">outside</TOKEN>
+				<TOKEN end_char="34" id="token-0-5" start_char="30">their</TOKEN>
+				<TOKEN end_char="39" id="token-0-6" start_char="36">tent</TOKEN>
+				<TOKEN end_char="42" id="token-0-7" start_char="41">at</TOKEN>
+				<TOKEN end_char="46" id="token-0-8" start_char="44">the</TOKEN>
+				<TOKEN end_char="50" id="token-0-9" start_char="48">Ifo</TOKEN>
+				<TOKEN end_char="60" id="token-0-10" start_char="52">Extension</TOKEN>
+				<TOKEN end_char="68" id="token-0-11" start_char="62">refugee</TOKEN>
+				<TOKEN end_char="73" id="token-0-12" start_char="70">camp</TOKEN>
+				<TOKEN end_char="76" id="token-0-13" start_char="75">in</TOKEN>
+				<TOKEN end_char="83" id="token-0-14" start_char="78">Dadaab</TOKEN>
+				<TOKEN end_char="84" id="token-0-15" start_char="84">,</TOKEN>
+				<TOKEN end_char="89" id="token-0-16" start_char="86">near</TOKEN>
+				<TOKEN end_char="93" id="token-0-17" start_char="91">the</TOKEN>
+				<TOKEN end_char="99" id="token-0-18" start_char="95">Kenya</TOKEN>
+				<TOKEN end_char="100" id="token-0-19" start_char="100">-</TOKEN>
+				<TOKEN end_char="107" id="token-0-20" start_char="101">Somalia</TOKEN>
+				<TOKEN end_char="114" id="token-0-21" start_char="109">border</TOKEN>
+				<TOKEN end_char="115" id="token-0-22" start_char="115">,</TOKEN>
+				<TOKEN end_char="119" id="token-0-23" start_char="117">Oct</TOKEN>
+				<TOKEN end_char="120" id="token-0-24" start_char="120">.</TOKEN>
+				<TOKEN end_char="123" id="token-0-25" start_char="122">19</TOKEN>
+				<TOKEN end_char="124" id="token-0-26" start_char="124">,</TOKEN>
+				<TOKEN end_char="129" id="token-0-27" start_char="126">2011</TOKEN>
+				<TOKEN end_char="130" id="token-0-28" start_char="130">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_04_17_3814268_2">
+		<TEXT>
+			<SEG end_char="94" id="VOA_EN_NW_2017_04_17_3814268_2-0" start_char="0">
+				<ORIGINAL_TEXT>Supporters of the &quot;No&quot; vote protest against the referendum outcome in Istanbul, April 17, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="9" id="token-0-0" start_char="0">Supporters</TOKEN>
+				<TOKEN end_char="12" id="token-0-1" start_char="11">of</TOKEN>
+				<TOKEN end_char="16" id="token-0-2" start_char="14">the</TOKEN>
+				<TOKEN end_char="18" id="token-0-3" start_char="18">&quot;</TOKEN>
+				<TOKEN end_char="20" id="token-0-4" start_char="19">No</TOKEN>
+				<TOKEN end_char="21" id="token-0-5" start_char="21">&quot;</TOKEN>
+				<TOKEN end_char="26" id="token-0-6" start_char="23">vote</TOKEN>
+				<TOKEN end_char="34" id="token-0-7" start_char="28">protest</TOKEN>
+				<TOKEN end_char="42" id="token-0-8" start_char="36">against</TOKEN>
+				<TOKEN end_char="46" id="token-0-9" start_char="44">the</TOKEN>
+				<TOKEN end_char="57" id="token-0-10" start_char="48">referendum</TOKEN>
+				<TOKEN end_char="65" id="token-0-11" start_char="59">outcome</TOKEN>
+				<TOKEN end_char="68" id="token-0-12" start_char="67">in</TOKEN>
+				<TOKEN end_char="77" id="token-0-13" start_char="70">Istanbul</TOKEN>
+				<TOKEN end_char="78" id="token-0-14" start_char="78">,</TOKEN>
+				<TOKEN end_char="84" id="token-0-15" start_char="80">April</TOKEN>
+				<TOKEN end_char="87" id="token-0-16" start_char="86">17</TOKEN>
+				<TOKEN end_char="88" id="token-0-17" start_char="88">,</TOKEN>
+				<TOKEN end_char="93" id="token-0-18" start_char="90">2017</TOKEN>
+				<TOKEN end_char="94" id="token-0-19" start_char="94">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_14_3899965_0">
+		<TEXT>
+			<SEG end_char="121" id="VOA_EN_NW_2017_06_14_3899965_0-0" start_char="0">
+				<ORIGINAL_TEXT>A car covered by debris is seen near a collapsed wall following an earthquake in Quetzaltenango, Guatemala, June 14, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="0" id="token-0-0" start_char="0">A</TOKEN>
+				<TOKEN end_char="4" id="token-0-1" start_char="2">car</TOKEN>
+				<TOKEN end_char="12" id="token-0-2" start_char="6">covered</TOKEN>
+				<TOKEN end_char="15" id="token-0-3" start_char="14">by</TOKEN>
+				<TOKEN end_char="22" id="token-0-4" start_char="17">debris</TOKEN>
+				<TOKEN end_char="25" id="token-0-5" start_char="24">is</TOKEN>
+				<TOKEN end_char="30" id="token-0-6" start_char="27">seen</TOKEN>
+				<TOKEN end_char="35" id="token-0-7" start_char="32">near</TOKEN>
+				<TOKEN end_char="37" id="token-0-8" start_char="37">a</TOKEN>
+				<TOKEN end_char="47" id="token-0-9" start_char="39">collapsed</TOKEN>
+				<TOKEN end_char="52" id="token-0-10" start_char="49">wall</TOKEN>
+				<TOKEN end_char="62" id="token-0-11" start_char="54">following</TOKEN>
+				<TOKEN end_char="65" id="token-0-12" start_char="64">an</TOKEN>
+				<TOKEN end_char="76" id="token-0-13" start_char="67">earthquake</TOKEN>
+				<TOKEN end_char="79" id="token-0-14" start_char="78">in</TOKEN>
+				<TOKEN end_char="94" id="token-0-15" start_char="81">Quetzaltenango</TOKEN>
+				<TOKEN end_char="95" id="token-0-16" start_char="95">,</TOKEN>
+				<TOKEN end_char="105" id="token-0-17" start_char="97">Guatemala</TOKEN>
+				<TOKEN end_char="106" id="token-0-18" start_char="106">,</TOKEN>
+				<TOKEN end_char="111" id="token-0-19" start_char="108">June</TOKEN>
+				<TOKEN end_char="114" id="token-0-20" start_char="113">14</TOKEN>
+				<TOKEN end_char="115" id="token-0-21" start_char="115">,</TOKEN>
+				<TOKEN end_char="120" id="token-0-22" start_char="117">2017</TOKEN>
+				<TOKEN end_char="121" id="token-0-23" start_char="121">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

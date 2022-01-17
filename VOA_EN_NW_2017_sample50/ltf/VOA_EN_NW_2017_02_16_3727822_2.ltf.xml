@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_02_16_3727822_2">
+		<TEXT>
+			<SEG end_char="234" id="VOA_EN_NW_2017_02_16_3727822_2-0" start_char="0">
+				<ORIGINAL_TEXT>U.S. Secretary of State Rex Tillerson, left, Russia's Foreign Minister Sergei Lavrov, right, and others wait for the start of a meeting at the World Conference Center, in Bonn, Germany, Feb. 16, 2017, as part of a broader G-20 meeting.</ORIGINAL_TEXT>
+				<TOKEN end_char="0" id="token-0-0" start_char="0">U</TOKEN>
+				<TOKEN end_char="1" id="token-0-1" start_char="1">.</TOKEN>
+				<TOKEN end_char="2" id="token-0-2" start_char="2">S</TOKEN>
+				<TOKEN end_char="3" id="token-0-3" start_char="3">.</TOKEN>
+				<TOKEN end_char="13" id="token-0-4" start_char="5">Secretary</TOKEN>
+				<TOKEN end_char="16" id="token-0-5" start_char="15">of</TOKEN>
+				<TOKEN end_char="22" id="token-0-6" start_char="18">State</TOKEN>
+				<TOKEN end_char="26" id="token-0-7" start_char="24">Rex</TOKEN>
+				<TOKEN end_char="36" id="token-0-8" start_char="28">Tillerson</TOKEN>
+				<TOKEN end_char="37" id="token-0-9" start_char="37">,</TOKEN>
+				<TOKEN end_char="42" id="token-0-10" start_char="39">left</TOKEN>
+				<TOKEN end_char="43" id="token-0-11" start_char="43">,</TOKEN>
+				<TOKEN end_char="50" id="token-0-12" start_char="45">Russia</TOKEN>
+				<TOKEN end_char="51" id="token-0-13" start_char="51">'</TOKEN>
+				<TOKEN end_char="52" id="token-0-14" start_char="52">s</TOKEN>
+				<TOKEN end_char="60" id="token-0-15" start_char="54">Foreign</TOKEN>
+				<TOKEN end_char="69" id="token-0-16" start_char="62">Minister</TOKEN>
+				<TOKEN end_char="76" id="token-0-17" start_char="71">Sergei</TOKEN>
+				<TOKEN end_char="83" id="token-0-18" start_char="78">Lavrov</TOKEN>
+				<TOKEN end_char="84" id="token-0-19" start_char="84">,</TOKEN>
+				<TOKEN end_char="90" id="token-0-20" start_char="86">right</TOKEN>
+				<TOKEN end_char="91" id="token-0-21" start_char="91">,</TOKEN>
+				<TOKEN end_char="95" id="token-0-22" start_char="93">and</TOKEN>
+				<TOKEN end_char="102" id="token-0-23" start_char="97">others</TOKEN>
+				<TOKEN end_char="107" id="token-0-24" start_char="104">wait</TOKEN>
+				<TOKEN end_char="111" id="token-0-25" start_char="109">for</TOKEN>
+				<TOKEN end_char="115" id="token-0-26" start_char="113">the</TOKEN>
+				<TOKEN end_char="121" id="token-0-27" start_char="117">start</TOKEN>
+				<TOKEN end_char="124" id="token-0-28" start_char="123">of</TOKEN>
+				<TOKEN end_char="126" id="token-0-29" start_char="126">a</TOKEN>
+				<TOKEN end_char="134" id="token-0-30" start_char="128">meeting</TOKEN>
+				<TOKEN end_char="137" id="token-0-31" start_char="136">at</TOKEN>
+				<TOKEN end_char="141" id="token-0-32" start_char="139">the</TOKEN>
+				<TOKEN end_char="147" id="token-0-33" start_char="143">World</TOKEN>
+				<TOKEN end_char="158" id="token-0-34" start_char="149">Conference</TOKEN>
+				<TOKEN end_char="165" id="token-0-35" start_char="160">Center</TOKEN>
+				<TOKEN end_char="166" id="token-0-36" start_char="166">,</TOKEN>
+				<TOKEN end_char="169" id="token-0-37" start_char="168">in</TOKEN>
+				<TOKEN end_char="174" id="token-0-38" start_char="171">Bonn</TOKEN>
+				<TOKEN end_char="175" id="token-0-39" start_char="175">,</TOKEN>
+				<TOKEN end_char="183" id="token-0-40" start_char="177">Germany</TOKEN>
+				<TOKEN end_char="184" id="token-0-41" start_char="184">,</TOKEN>
+				<TOKEN end_char="188" id="token-0-42" start_char="186">Feb</TOKEN>
+				<TOKEN end_char="189" id="token-0-43" start_char="189">.</TOKEN>
+				<TOKEN end_char="192" id="token-0-44" start_char="191">16</TOKEN>
+				<TOKEN end_char="193" id="token-0-45" start_char="193">,</TOKEN>
+				<TOKEN end_char="198" id="token-0-46" start_char="195">2017</TOKEN>
+				<TOKEN end_char="199" id="token-0-47" start_char="199">,</TOKEN>
+				<TOKEN end_char="202" id="token-0-48" start_char="201">as</TOKEN>
+				<TOKEN end_char="207" id="token-0-49" start_char="204">part</TOKEN>
+				<TOKEN end_char="210" id="token-0-50" start_char="209">of</TOKEN>
+				<TOKEN end_char="212" id="token-0-51" start_char="212">a</TOKEN>
+				<TOKEN end_char="220" id="token-0-52" start_char="214">broader</TOKEN>
+				<TOKEN end_char="222" id="token-0-53" start_char="222">G</TOKEN>
+				<TOKEN end_char="223" id="token-0-54" start_char="223">-</TOKEN>
+				<TOKEN end_char="225" id="token-0-55" start_char="224">20</TOKEN>
+				<TOKEN end_char="233" id="token-0-56" start_char="227">meeting</TOKEN>
+				<TOKEN end_char="234" id="token-0-57" start_char="234">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

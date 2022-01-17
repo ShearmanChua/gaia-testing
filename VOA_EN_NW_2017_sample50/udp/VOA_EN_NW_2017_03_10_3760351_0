@@ -1,0 +1,27 @@
+1	US	US	PROPN	NNP	Number=Sing	4	compound	_	VOA_EN_NW_2017_03_10_3760351_0:0-1
+2	Commerce	Commerce	PROPN	NNP	Number=Sing	3	compound	_	VOA_EN_NW_2017_03_10_3760351_0:3-10
+3	Secretary	Secretary	PROPN	NNP	Number=Sing	4	compound	_	VOA_EN_NW_2017_03_10_3760351_0:12-20
+4	Wilbur	Wilbur	PROPN	NNP	Number=Sing	6	nsubj	_	VOA_EN_NW_2017_03_10_3760351_0:22-27
+5	Ross	Ross	PROPN	NNP	Number=Sing	4	flat	_	VOA_EN_NW_2017_03_10_3760351_0:29-32
+6	holds	hold	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_03_10_3760351_0:34-38
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	VOA_EN_NW_2017_03_10_3760351_0:40-40
+8	news	news	NOUN	NN	Number=Sing	9	compound	_	VOA_EN_NW_2017_03_10_3760351_0:42-45
+9	conference	conference	NOUN	NN	Number=Sing	6	obj	_	VOA_EN_NW_2017_03_10_3760351_0:47-56
+10	at	at	ADP	IN	_	12	case	_	VOA_EN_NW_2017_03_10_3760351_0:58-59
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	VOA_EN_NW_2017_03_10_3760351_0:61-63
+12	Department	Department	NOUN	NN	Number=Sing	9	nmod	_	VOA_EN_NW_2017_03_10_3760351_0:65-74
+13	of	of	ADP	IN	_	14	case	_	VOA_EN_NW_2017_03_10_3760351_0:76-77
+14	Commerce	Commerce	NOUN	NN	Number=Sing	12	nmod	_	VOA_EN_NW_2017_03_10_3760351_0:79-86
+15	in	in	ADP	IN	_	16	case	_	VOA_EN_NW_2017_03_10_3760351_0:88-89
+16	Washington	Washington	PROPN	NNP	Number=Sing	14	nmod	_	VOA_EN_NW_2017_03_10_3760351_0:91-100
+17	,	,	PUNCT	,	_	16	punct	_	VOA_EN_NW_2017_03_10_3760351_0:101-101
+18	D	D	PROPN	NNP	Number=Sing	16	appos	_	VOA_EN_NW_2017_03_10_3760351_0:103-103
+19	.	.	PUNCT	.	_	16	punct	_	VOA_EN_NW_2017_03_10_3760351_0:104-104
+20	C	C	PROPN	NNP	Number=Sing	16	appos	_	VOA_EN_NW_2017_03_10_3760351_0:105-105
+21	.,	.,	PUNCT	.	_	20	punct	_	VOA_EN_NW_2017_03_10_3760351_0:106-107
+22	March	March	PROPN	NNP	Number=Sing	16	appos	_	VOA_EN_NW_2017_03_10_3760351_0:109-113
+23	10	10	NUM	CD	NumType=Card	22	nummod	_	VOA_EN_NW_2017_03_10_3760351_0:115-116
+24	,	,	PUNCT	,	_	9	punct	_	VOA_EN_NW_2017_03_10_3760351_0:117-117
+25	2017	2017	NUM	CD	NumType=Card	9	appos	_	VOA_EN_NW_2017_03_10_3760351_0:119-122
+26	.	.	PUNCT	.	_	6	punct	_	VOA_EN_NW_2017_03_10_3760351_0:123-123
+

@@ -1,0 +1,27 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	VOA_EN_NW_2017_01_16_3678023_0:0-2
+2	company	company	NOUN	NN	Number=Sing	3	compound	_	VOA_EN_NW_2017_01_16_3678023_0:4-10
+3	flag	flag	NOUN	NN	Number=Sing	0	root	_	VOA_EN_NW_2017_01_16_3678023_0:12-15
+4	of	of	ADP	IN	_	7	case	_	VOA_EN_NW_2017_01_16_3678023_0:17-18
+5	Samsung	Samsung	ADJ	JJ	Degree=Pos	6	amod	_	VOA_EN_NW_2017_01_16_3678023_0:20-26
+6	Electronics	electronics	NOUN	NNS	Number=Plur	7	compound	_	VOA_EN_NW_2017_01_16_3678023_0:28-38
+7	flutters	flutter	NOUN	NNS	Number=Plur	3	nmod	_	VOA_EN_NW_2017_01_16_3678023_0:40-47
+8	next	next	ADV	RB	_	3	advmod	_	VOA_EN_NW_2017_01_16_3678023_0:49-52
+9	to	to	ADP	IN	_	14	case	_	VOA_EN_NW_2017_01_16_3678023_0:54-55
+10	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	VOA_EN_NW_2017_01_16_3678023_0:57-59
+11	South	south	PROPN	NNP	Number=Sing	12	compound	_	VOA_EN_NW_2017_01_16_3678023_0:61-65
+12	Korean	Korean	PROPN	NNP	Number=Sing	14	compound	_	VOA_EN_NW_2017_01_16_3678023_0:67-72
+13	national	national	ADJ	JJ	Degree=Pos	14	amod	_	VOA_EN_NW_2017_01_16_3678023_0:74-81
+14	flag	flag	NOUN	NN	Number=Sing	3	nmod	_	VOA_EN_NW_2017_01_16_3678023_0:83-86
+15	in	in	ADP	IN	_	16	case	_	VOA_EN_NW_2017_01_16_3678023_0:88-89
+16	Seoul	Seoul	PROPN	NNP	Number=Sing	14	nmod	_	VOA_EN_NW_2017_01_16_3678023_0:91-95
+17	,	,	PUNCT	,	_	19	punct	_	VOA_EN_NW_2017_01_16_3678023_0:96-96
+18	South	South	PROPN	NNP	Number=Sing	19	compound	_	VOA_EN_NW_2017_01_16_3678023_0:98-102
+19	Korea	Korea	PROPN	NNP	Number=Sing	3	conj	_	VOA_EN_NW_2017_01_16_3678023_0:104-108
+20	,	,	PUNCT	,	_	3	punct	_	VOA_EN_NW_2017_01_16_3678023_0:109-109
+21	Jan	Jan	PROPN	NNP	Number=Sing	3	appos	_	VOA_EN_NW_2017_01_16_3678023_0:111-113
+22	.	.	PUNCT	.	_	3	punct	_	VOA_EN_NW_2017_01_16_3678023_0:114-114
+23	16	16	NUM	CD	NumType=Card	3	appos	_	VOA_EN_NW_2017_01_16_3678023_0:116-117
+24	,	,	PUNCT	,	_	3	punct	_	VOA_EN_NW_2017_01_16_3678023_0:118-118
+25	2017	2017	NUM	CD	NumType=Card	3	appos	_	VOA_EN_NW_2017_01_16_3678023_0:120-123
+26	.	.	PUNCT	.	_	3	punct	_	VOA_EN_NW_2017_01_16_3678023_0:124-124
+

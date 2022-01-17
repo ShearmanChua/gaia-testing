@@ -1,0 +1,332 @@
+{
+  "docId": "VOA_EN_NW_2017_06_19_3907026_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 6,
+          "tokenBegin": 4,
+          "tokenEnd": 6,
+          "text": "Chairman Gen.",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 33,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 6,
+          "docTokenEnd": 8,
+          "tokenBegin": 6,
+          "tokenEnd": 8,
+          "text": "Joseph Dunford",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 48,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 12,
+          "tokenBegin": 10,
+          "tokenEnd": 12,
+          "text": "Capitol Hill",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 72,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 13,
+          "docTokenEnd": 14,
+          "tokenBegin": 13,
+          "tokenEnd": 14,
+          "text": "Washington",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 86,
+          "ner": "STATE_OR_PROVINCE"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 19,
+          "tokenBegin": 15,
+          "tokenEnd": 19,
+          "text": "June 13, 2017",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 101,
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Joint",
+          "originalText": "Joint",
+          "lemma": "Joint",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 12,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Chiefs",
+          "originalText": "Chiefs",
+          "lemma": "Chiefs",
+          "characterOffsetBegin": 13,
+          "characterOffsetEnd": 19,
+          "pos": "NNPS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Chairman",
+          "originalText": "Chairman",
+          "lemma": "Chairman",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 28,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Gen.",
+          "originalText": "Gen.",
+          "lemma": "Gen.",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 33,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Joseph",
+          "originalText": "Joseph",
+          "lemma": "Joseph",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 40,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Dunford",
+          "originalText": "Dunford",
+          "lemma": "Dunford",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 48,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "listens",
+          "originalText": "listens",
+          "lemma": "listen",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 56,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "on",
+          "originalText": "on",
+          "lemma": "on",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 59,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Capitol",
+          "originalText": "Capitol",
+          "lemma": "Capitol",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 67,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Hill",
+          "originalText": "Hill",
+          "lemma": "Hill",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 72,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 73,
+          "characterOffsetEnd": 75,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Washington",
+          "originalText": "Washington",
+          "lemma": "Washington",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 86,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 86,
+          "characterOffsetEnd": 87,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 92,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 17,
+          "word": "13",
+          "originalText": "13",
+          "lemma": "13",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 95,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 96,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 19,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 101,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-13",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-13"
+          }
+        },
+        {
+          "index": 20,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 102,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+1	Marine	Marine	PROPN	NNP	Number=Sing	4	nsubj	_	VOA_EN_NW_2017_01_06_3666451_2:0-5
+2	Le	Le	PROPN	NNP	Number=Sing	1	flat	_	VOA_EN_NW_2017_01_06_3666451_2:7-8
+3	Pen	Pen	PROPN	NNP	Number=Sing	1	flat	_	VOA_EN_NW_2017_01_06_3666451_2:10-12
+4	criticizes	criticize	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_01_06_3666451_2:14-23
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	VOA_EN_NW_2017_01_06_3666451_2:25-27
+6	European	european	ADJ	JJ	Degree=Pos	7	amod	_	VOA_EN_NW_2017_01_06_3666451_2:29-36
+7	Union	Union	NOUN	NN	Number=Sing	4	obj	_	VOA_EN_NW_2017_01_06_3666451_2:38-42
+8	as	as	SCONJ	IN	_	10	mark	_	VOA_EN_NW_2017_01_06_3666451_2:44-45
+9	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	VOA_EN_NW_2017_01_06_3666451_2:47-51
+10	responsible	responsible	ADJ	JJ	Degree=Pos	4	advcl	_	VOA_EN_NW_2017_01_06_3666451_2:53-63
+11	for	for	ADP	IN	_	14	case	_	VOA_EN_NW_2017_01_06_3666451_2:65-67
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	VOA_EN_NW_2017_01_06_3666451_2:69-71
+13	Ukraine	Ukraine	PROPN	NNP	Number=Sing	14	compound	_	VOA_EN_NW_2017_01_06_3666451_2:73-79
+14	crisis	crisis	NOUN	NN	Number=Sing	10	obl	_	VOA_EN_NW_2017_01_06_3666451_2:81-86
+15	with	with	ADP	IN	_	16	case	_	VOA_EN_NW_2017_01_06_3666451_2:88-91
+16	Russia	Russia	PROPN	NNP	Number=Sing	14	nmod	_	VOA_EN_NW_2017_01_06_3666451_2:93-98
+17	.	.	PUNCT	.	_	4	punct	_	VOA_EN_NW_2017_01_06_3666451_2:99-99
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	VOA_EN_NW_2017_01_06_3666451_2:101-101
+2	L	L	PROPN	NNP	Number=Sing	0	root	_	VOA_EN_NW_2017_01_06_3666451_2:102-102
+3	.	.	PUNCT	.	_	2	punct	_	VOA_EN_NW_2017_01_06_3666451_2:103-103
+4	Bryant	Bryant	PROPN	NNP	Number=Sing	6	compound	_	VOA_EN_NW_2017_01_06_3666451_2:105-110
+5	/	/	PUNCT	,	_	6	cc	_	VOA_EN_NW_2017_01_06_3666451_2:111-111
+6	VOA	VOA	PROPN	NNP	Number=Sing	2	conj	_	VOA_EN_NW_2017_01_06_3666451_2:112-114
+7	)	)	PUNCT	-RRB-	_	2	punct	_	VOA_EN_NW_2017_01_06_3666451_2:115-115
+

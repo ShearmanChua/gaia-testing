@@ -1,0 +1,26 @@
+1	FILE	file	ADJ	JJ	Degree=Pos	3	amod	_	VOA_EN_NW_2017_06_16_3903412_0:0-3
+2	-	-	PUNCT	HYPH	_	3	punct	_	VOA_EN_NW_2017_06_16_3903412_0:5-5
+3	Former	former	ADJ	JJ	Degree=Pos	6	amod	_	VOA_EN_NW_2017_06_16_3903412_0:7-12
+4	German	german	ADJ	JJ	Degree=Pos	5	amod	_	VOA_EN_NW_2017_06_16_3903412_0:14-19
+5	chancellor	chancellor	NOUN	NN	Number=Sing	6	compound	_	VOA_EN_NW_2017_06_16_3903412_0:21-30
+6	Helmut	Helmut	PROPN	NNP	Number=Sing	0	root	_	VOA_EN_NW_2017_06_16_3903412_0:32-37
+7	Kohl	Kohl	PROPN	NNP	Number=Sing	6	flat	_	VOA_EN_NW_2017_06_16_3903412_0:39-42
+8	on	on	ADP	IN	_	10	case	_	VOA_EN_NW_2017_06_16_3903412_0:44-45
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	VOA_EN_NW_2017_06_16_3903412_0:47-49
+10	shore	shore	NOUN	NN	Number=Sing	6	nmod	_	VOA_EN_NW_2017_06_16_3903412_0:51-55
+11	of	of	ADP	IN	_	12	case	_	VOA_EN_NW_2017_06_16_3903412_0:57-58
+12	Lake	Lake	PROPN	NNP	Number=Sing	10	nmod	_	VOA_EN_NW_2017_06_16_3903412_0:60-63
+13	Tegernsee	Tegernsee	PROPN	NNP	Number=Sing	12	flat	_	VOA_EN_NW_2017_06_16_3903412_0:65-73
+14	in	in	ADP	IN	_	15	case	_	VOA_EN_NW_2017_06_16_3903412_0:75-76
+15	Bad	bad	PROPN	NNP	Number=Sing	6	nmod	_	VOA_EN_NW_2017_06_16_3903412_0:78-80
+16	Wiessee	Wiessee	PROPN	NNP	Number=Sing	15	flat	_	VOA_EN_NW_2017_06_16_3903412_0:82-88
+17	,	,	PUNCT	,	_	15	punct	_	VOA_EN_NW_2017_06_16_3903412_0:89-89
+18	southern	southern	ADJ	JJ	Degree=Pos	19	amod	_	VOA_EN_NW_2017_06_16_3903412_0:91-98
+19	Germany	Germany	PROPN	NNP	Number=Sing	15	appos	_	VOA_EN_NW_2017_06_16_3903412_0:100-106
+20	,	,	PUNCT	,	_	19	punct	_	VOA_EN_NW_2017_06_16_3903412_0:107-107
+21	April	April	PROPN	NNP	Number=Sing	15	appos	_	VOA_EN_NW_2017_06_16_3903412_0:109-113
+22	5	5	NUM	CD	NumType=Card	21	nummod	_	VOA_EN_NW_2017_06_16_3903412_0:115-115
+23	,	,	PUNCT	,	_	21	punct	_	VOA_EN_NW_2017_06_16_3903412_0:116-116
+24	2013	2013	NUM	CD	NumType=Card	21	nummod	_	VOA_EN_NW_2017_06_16_3903412_0:118-121
+25	.	.	PUNCT	.	_	6	punct	_	VOA_EN_NW_2017_06_16_3903412_0:122-122
+

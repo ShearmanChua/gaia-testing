@@ -1,0 +1,32 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	VOA_EN_NW_2017_06_17_3904403_0:0-0
+2	Taxify	Taxify	PROPN	NNP	Number=Sing	3	compound	_	VOA_EN_NW_2017_06_17_3904403_0:2-7
+3	driver	driver	NOUN	NN	Number=Sing	4	nsubj	_	VOA_EN_NW_2017_06_17_3904403_0:9-14
+4	enters	enter	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_06_17_3904403_0:16-21
+5	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	VOA_EN_NW_2017_06_17_3904403_0:23-25
+6	car	car	NOUN	NN	Number=Sing	4	obj	_	VOA_EN_NW_2017_06_17_3904403_0:27-29
+7	in	in	ADP	IN	_	8	case	_	VOA_EN_NW_2017_06_17_3904403_0:31-32
+8	Tallinn	Tallinn	PROPN	NNP	Number=Sing	4	obl	_	VOA_EN_NW_2017_06_17_3904403_0:34-40
+9	,	,	PUNCT	,	_	8	punct	_	VOA_EN_NW_2017_06_17_3904403_0:41-41
+10	Estonia	Estonia	PROPN	NNP	Number=Sing	8	appos	_	VOA_EN_NW_2017_06_17_3904403_0:43-49
+11	,	,	PUNCT	,	_	8	punct	_	VOA_EN_NW_2017_06_17_3904403_0:50-50
+12	June	June	PROPN	NNP	Number=Sing	8	appos	_	VOA_EN_NW_2017_06_17_3904403_0:52-55
+13	13	13	NUM	CD	NumType=Card	12	nummod	_	VOA_EN_NW_2017_06_17_3904403_0:57-58
+14	,	,	PUNCT	,	_	8	punct	_	VOA_EN_NW_2017_06_17_3904403_0:59-59
+15	2017	2017	NUM	CD	NumType=Card	8	appos	_	VOA_EN_NW_2017_06_17_3904403_0:61-64
+16	.	.	PUNCT	.	_	4	punct	_	VOA_EN_NW_2017_06_17_3904403_0:65-65
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	VOA_EN_NW_2017_06_17_3904403_0:67-69
+2	Estonia	Estonia	PROPN	NNP	Number=Sing	3	compound	_	VOA_EN_NW_2017_06_17_3904403_0:71-77
+3	upstart	upstart	PROPN	NNP	Number=Sing	5	nsubj	_	VOA_EN_NW_2017_06_17_3904403_0:79-85
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	VOA_EN_NW_2017_06_17_3904403_0:87-88
+5	hoping	hope	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	VOA_EN_NW_2017_06_17_3904403_0:90-95
+6	to	to	PART	TO	_	7	mark	_	VOA_EN_NW_2017_06_17_3904403_0:97-98
+7	win	win	VERB	VB	VerbForm=Inf	5	xcomp	_	VOA_EN_NW_2017_06_17_3904403_0:100-102
+8	over	over	ADP	RP	_	9	case	_	VOA_EN_NW_2017_06_17_3904403_0:104-107
+9	drivers	drivers	NOUN	NNS	Number=Plur	7	obl	_	VOA_EN_NW_2017_06_17_3904403_0:109-115
+10	and	and	CCONJ	CC	_	11	cc	_	VOA_EN_NW_2017_06_17_3904403_0:117-119
+11	take	take	NOUN	NN	Number=Sing	9	conj	_	VOA_EN_NW_2017_06_17_3904403_0:121-124
+12	on	on	ADP	IN	_	13	case	_	VOA_EN_NW_2017_06_17_3904403_0:126-127
+13	Uber	Uber	PROPN	NNP	Number=Sing	9	nmod	_	VOA_EN_NW_2017_06_17_3904403_0:129-132
+14	.	.	PUNCT	.	_	5	punct	_	VOA_EN_NW_2017_06_17_3904403_0:133-133
+

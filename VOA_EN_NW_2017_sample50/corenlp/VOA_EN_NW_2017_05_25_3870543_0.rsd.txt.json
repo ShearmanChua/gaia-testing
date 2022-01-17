@@ -1,0 +1,424 @@
+{
+  "docId": "VOA_EN_NW_2017_05_25_3870543_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 3,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "Indonesian",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 17,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 11,
+          "tokenBegin": 10,
+          "tokenEnd": 11,
+          "text": "Indonesian",
+          "characterOffsetBegin": 63,
+          "characterOffsetEnd": 73,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 12,
+          "tokenBegin": 11,
+          "tokenEnd": 12,
+          "text": "President",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 83,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 12,
+          "docTokenEnd": 14,
+          "tokenBegin": 12,
+          "tokenEnd": 14,
+          "text": "Joko Widodo",
+          "characterOffsetBegin": 84,
+          "characterOffsetEnd": 95,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 18,
+          "tokenBegin": 17,
+          "tokenEnd": 18,
+          "text": "Jakarta",
+          "characterOffsetBegin": 114,
+          "characterOffsetEnd": 121,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 19,
+          "docTokenEnd": 20,
+          "tokenBegin": 19,
+          "tokenEnd": 20,
+          "text": "Indonesia",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 132,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 21,
+          "docTokenEnd": 25,
+          "tokenBegin": 21,
+          "tokenEnd": 25,
+          "text": "June 29, 2016",
+          "characterOffsetBegin": 134,
+          "characterOffsetEnd": 147,
+          "ner": "DATE",
+          "normalizedNER": "2016-06-29",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-06-29"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Indonesian",
+          "originalText": "Indonesian",
+          "lemma": "indonesian",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 17,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "women",
+          "originalText": "women",
+          "lemma": "woman",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 23,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "carry",
+          "originalText": "carry",
+          "lemma": "carry",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 29,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "free",
+          "originalText": "free",
+          "lemma": "free",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 34,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "food",
+          "originalText": "food",
+          "lemma": "food",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 39,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "packages",
+          "originalText": "packages",
+          "lemma": "package",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 48,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "received",
+          "originalText": "received",
+          "lemma": "receive",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 57,
+          "pos": "VBN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "from",
+          "originalText": "from",
+          "lemma": "from",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 62,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Indonesian",
+          "originalText": "Indonesian",
+          "lemma": "indonesian",
+          "characterOffsetBegin": 63,
+          "characterOffsetEnd": 73,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "President",
+          "originalText": "President",
+          "lemma": "President",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 83,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Joko",
+          "originalText": "Joko",
+          "lemma": "Joko",
+          "characterOffsetBegin": 84,
+          "characterOffsetEnd": 88,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Widodo",
+          "originalText": "Widodo",
+          "lemma": "Widodo",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 95,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "during",
+          "originalText": "during",
+          "lemma": "during",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 102,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Ramadan",
+          "originalText": "Ramadan",
+          "lemma": "Ramadan",
+          "characterOffsetBegin": 103,
+          "characterOffsetEnd": 110,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 113,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Jakarta",
+          "originalText": "Jakarta",
+          "lemma": "Jakarta",
+          "characterOffsetBegin": 114,
+          "characterOffsetEnd": 121,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 122,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "Indonesia",
+          "originalText": "Indonesia",
+          "lemma": "Indonesia",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 132,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 132,
+          "characterOffsetEnd": 133,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 134,
+          "characterOffsetEnd": 138,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2016-06-29",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-06-29"
+          }
+        },
+        {
+          "index": 23,
+          "word": "29",
+          "originalText": "29",
+          "lemma": "29",
+          "characterOffsetBegin": 139,
+          "characterOffsetEnd": 141,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2016-06-29",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-06-29"
+          }
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 141,
+          "characterOffsetEnd": 142,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2016-06-29",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-06-29"
+          }
+        },
+        {
+          "index": 25,
+          "word": "2016",
+          "originalText": "2016",
+          "lemma": "2016",
+          "characterOffsetBegin": 143,
+          "characterOffsetEnd": 147,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2016-06-29",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-06-29"
+          }
+        },
+        {
+          "index": 26,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 147,
+          "characterOffsetEnd": 148,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    }
+  ]
+}

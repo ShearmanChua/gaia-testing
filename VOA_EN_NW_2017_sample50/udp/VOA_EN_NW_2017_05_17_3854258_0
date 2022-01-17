@@ -1,0 +1,17 @@
+1	An	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	VOA_EN_NW_2017_05_17_3854258_0:1-2
+2	Egyptian	egyptian	ADJ	JJ	Degree=Pos	4	amod	_	VOA_EN_NW_2017_05_17_3854258_0:4-11
+3	fruit	fruit	NOUN	NN	Number=Sing	4	compound	_	VOA_EN_NW_2017_05_17_3854258_0:13-17
+4	seller	seller	NOUN	NN	Number=Sing	5	nsubj	_	VOA_EN_NW_2017_05_17_3854258_0:19-24
+5	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_05_17_3854258_0:26-30
+6	in	in	ADP	IN	_	8	case	_	VOA_EN_NW_2017_05_17_3854258_0:32-33
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	VOA_EN_NW_2017_05_17_3854258_0:35-35
+8	market	market	NOUN	NN	Number=Sing	5	obl	_	VOA_EN_NW_2017_05_17_3854258_0:37-42
+9	in	in	ADP	IN	_	10	case	_	VOA_EN_NW_2017_05_17_3854258_0:44-45
+10	Cairo	Cairo	PROPN	NNP	Number=Sing	8	nmod	_	VOA_EN_NW_2017_05_17_3854258_0:47-51
+11	,	,	PUNCT	,	_	10	punct	_	VOA_EN_NW_2017_05_17_3854258_0:52-52
+12	June	June	PROPN	NNP	Number=Sing	10	appos	_	VOA_EN_NW_2017_05_17_3854258_0:54-57
+13	15	15	NUM	CD	NumType=Card	12	nummod	_	VOA_EN_NW_2017_05_17_3854258_0:59-60
+14	,	,	PUNCT	,	_	5	punct	_	VOA_EN_NW_2017_05_17_3854258_0:61-61
+15	2016	2016	NUM	CD	NumType=Card	5	appos	_	VOA_EN_NW_2017_05_17_3854258_0:63-66
+16	.	.	PUNCT	.	_	5	punct	_	VOA_EN_NW_2017_05_17_3854258_0:67-67
+

@@ -1,0 +1,356 @@
+{
+  "docId": "VOA_EN_NW_2017_03_31_3791397_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 6,
+          "docTokenEnd": 7,
+          "tokenBegin": 6,
+          "tokenEnd": 7,
+          "text": "Serbian",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 37,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 7,
+          "docTokenEnd": 9,
+          "tokenBegin": 7,
+          "tokenEnd": 9,
+          "text": "Prime Minister",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 52,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 11,
+          "tokenBegin": 9,
+          "tokenEnd": 11,
+          "text": "Aleksandar Vucic",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 69,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "Serbia",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 89,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 21,
+          "tokenBegin": 17,
+          "tokenEnd": 21,
+          "text": "March 18, 2017",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 105,
+          "ner": "DATE",
+          "normalizedNER": "2017-03-18",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-18"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "People",
+          "originalText": "People",
+          "lemma": "people",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 13,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "pass",
+          "originalText": "pass",
+          "lemma": "pass",
+          "characterOffsetBegin": 14,
+          "characterOffsetEnd": 18,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "posters",
+          "originalText": "posters",
+          "lemma": "poster",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 26,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 29,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Serbian",
+          "originalText": "Serbian",
+          "lemma": "Serbian",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 37,
+          "pos": "NNP",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Prime",
+          "originalText": "Prime",
+          "lemma": "Prime",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 43,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Minister",
+          "originalText": "Minister",
+          "lemma": "Minister",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 52,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Aleksandar",
+          "originalText": "Aleksandar",
+          "lemma": "Aleksandar",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 63,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Vucic",
+          "originalText": "Vucic",
+          "lemma": "Vucic",
+          "characterOffsetBegin": 64,
+          "characterOffsetEnd": 69,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 72,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Novi",
+          "originalText": "Novi",
+          "lemma": "Novi",
+          "characterOffsetBegin": 73,
+          "characterOffsetEnd": 77,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Sad",
+          "originalText": "Sad",
+          "lemma": "Sad",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 81,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 82,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Serbia",
+          "originalText": "Serbia",
+          "lemma": "Serbia",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 89,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 89,
+          "characterOffsetEnd": 90,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "March",
+          "originalText": "March",
+          "lemma": "March",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 96,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-18",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-18"
+          }
+        },
+        {
+          "index": 19,
+          "word": "18",
+          "originalText": "18",
+          "lemma": "18",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 99,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-18",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-18"
+          }
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 99,
+          "characterOffsetEnd": 100,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-18",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-18"
+          }
+        },
+        {
+          "index": 21,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 101,
+          "characterOffsetEnd": 105,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-18",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-18"
+          }
+        },
+        {
+          "index": 22,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 106,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

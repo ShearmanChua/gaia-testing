@@ -1,0 +1,394 @@
+{
+  "docId": "VOA_EN_NW_2017_02_09_3715831_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 11,
+          "tokenBegin": 9,
+          "tokenEnd": 11,
+          "text": "Ifo Extension",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 61,
+          "ner": "MISC"
+        },
+        {
+          "docTokenBegin": 14,
+          "docTokenEnd": 15,
+          "tokenBegin": 14,
+          "tokenEnd": 15,
+          "text": "Dadaab",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 84,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 19,
+          "tokenBegin": 18,
+          "tokenEnd": 19,
+          "text": "Kenya-Somalia",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 108,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 21,
+          "docTokenEnd": 25,
+          "tokenBegin": 21,
+          "tokenEnd": 25,
+          "text": "Oct. 19, 2011",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 130,
+          "ner": "DATE",
+          "normalizedNER": "2011-10-19",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2011-10-19"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Refugees",
+          "originalText": "Refugees",
+          "lemma": "refugee",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 15,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "stand",
+          "originalText": "stand",
+          "lemma": "stand",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 21,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "outside",
+          "originalText": "outside",
+          "lemma": "outside",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 29,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "their",
+          "originalText": "their",
+          "lemma": "they",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 35,
+          "pos": "PRP$",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "tent",
+          "originalText": "tent",
+          "lemma": "tent",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 40,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 43,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 47,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Ifo",
+          "originalText": "Ifo",
+          "lemma": "Ifo",
+          "characterOffsetBegin": 48,
+          "characterOffsetEnd": 51,
+          "pos": "NNP",
+          "ner": "MISC",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Extension",
+          "originalText": "Extension",
+          "lemma": "Extension",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 61,
+          "pos": "NNP",
+          "ner": "MISC",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "refugee",
+          "originalText": "refugee",
+          "lemma": "refugee",
+          "characterOffsetBegin": 62,
+          "characterOffsetEnd": 69,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "camp",
+          "originalText": "camp",
+          "lemma": "camp",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 74,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 77,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Dadaab",
+          "originalText": "Dadaab",
+          "lemma": "Dadaab",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 84,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 16,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 84,
+          "characterOffsetEnd": 85,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "near",
+          "originalText": "near",
+          "lemma": "near",
+          "characterOffsetBegin": 86,
+          "characterOffsetEnd": 90,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 94,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Kenya-Somalia",
+          "originalText": "Kenya-Somalia",
+          "lemma": "Kenya-Somalia",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 108,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "border",
+          "originalText": "border",
+          "lemma": "border",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 115,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 116,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "Oct.",
+          "originalText": "Oct.",
+          "lemma": "Oct.",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 121,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2011-10-19",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2011-10-19"
+          }
+        },
+        {
+          "index": 23,
+          "word": "19",
+          "originalText": "19",
+          "lemma": "19",
+          "characterOffsetBegin": 122,
+          "characterOffsetEnd": 124,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2011-10-19",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2011-10-19"
+          }
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 124,
+          "characterOffsetEnd": 125,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2011-10-19",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2011-10-19"
+          }
+        },
+        {
+          "index": 25,
+          "word": "2011",
+          "originalText": "2011",
+          "lemma": "2011",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 130,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2011-10-19",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2011-10-19"
+          }
+        },
+        {
+          "index": 26,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 130,
+          "characterOffsetEnd": 131,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

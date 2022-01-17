@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_29_3921750_1">
+		<TEXT>
+			<SEG end_char="127" id="VOA_EN_NW_2017_06_29_3921750_1-0" start_char="0">
+				<ORIGINAL_TEXT>Germany's candidate for chancellor Martin Schulz talks to journalists after a news conference in Berlin, Germany, June 27, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="6" id="token-0-0" start_char="0">Germany</TOKEN>
+				<TOKEN end_char="7" id="token-0-1" start_char="7">'</TOKEN>
+				<TOKEN end_char="8" id="token-0-2" start_char="8">s</TOKEN>
+				<TOKEN end_char="18" id="token-0-3" start_char="10">candidate</TOKEN>
+				<TOKEN end_char="22" id="token-0-4" start_char="20">for</TOKEN>
+				<TOKEN end_char="33" id="token-0-5" start_char="24">chancellor</TOKEN>
+				<TOKEN end_char="40" id="token-0-6" start_char="35">Martin</TOKEN>
+				<TOKEN end_char="47" id="token-0-7" start_char="42">Schulz</TOKEN>
+				<TOKEN end_char="53" id="token-0-8" start_char="49">talks</TOKEN>
+				<TOKEN end_char="56" id="token-0-9" start_char="55">to</TOKEN>
+				<TOKEN end_char="68" id="token-0-10" start_char="58">journalists</TOKEN>
+				<TOKEN end_char="74" id="token-0-11" start_char="70">after</TOKEN>
+				<TOKEN end_char="76" id="token-0-12" start_char="76">a</TOKEN>
+				<TOKEN end_char="81" id="token-0-13" start_char="78">news</TOKEN>
+				<TOKEN end_char="92" id="token-0-14" start_char="83">conference</TOKEN>
+				<TOKEN end_char="95" id="token-0-15" start_char="94">in</TOKEN>
+				<TOKEN end_char="102" id="token-0-16" start_char="97">Berlin</TOKEN>
+				<TOKEN end_char="103" id="token-0-17" start_char="103">,</TOKEN>
+				<TOKEN end_char="111" id="token-0-18" start_char="105">Germany</TOKEN>
+				<TOKEN end_char="112" id="token-0-19" start_char="112">,</TOKEN>
+				<TOKEN end_char="117" id="token-0-20" start_char="114">June</TOKEN>
+				<TOKEN end_char="120" id="token-0-21" start_char="119">27</TOKEN>
+				<TOKEN end_char="121" id="token-0-22" start_char="121">,</TOKEN>
+				<TOKEN end_char="126" id="token-0-23" start_char="123">2017</TOKEN>
+				<TOKEN end_char="127" id="token-0-24" start_char="127">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

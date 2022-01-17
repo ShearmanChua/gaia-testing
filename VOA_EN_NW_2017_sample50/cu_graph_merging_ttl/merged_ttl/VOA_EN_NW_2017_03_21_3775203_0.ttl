@@ -1,0 +1,636 @@
+@prefix aida: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/InterchangeOntology#> .
+@prefix ldcOnt: <https://raw.githubusercontent.com/NextCenturyCorporation/AIDA-Interchange-Format/master/java/src/main/resources/com/ncc/aif/ontologies/LDCOntologyM36#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.columbia.edu/AIDA/DVMM/TypeAssertions/GroundingBox/RUN00006/JPG/VOA_EN_NW_2017_03_21_3775203_0/1/ERE> a rdf:Statement ;
+    rdf:object ldcOnt:FAC ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.columbia.edu/AIDA/DVMM/Entities/GroundingBox/RUN00006/JPG/VOA_EN_NW_2017_03_21_3775203_0/1> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 7.540282e-01 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> ] ;
+    aida:justifiedBy _:Ndd40ad5fdca04f81ad9a855d9a5c2f30 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000179/GPE> a rdf:Statement ;
+    rdf:object ldcOnt:GPE ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000179> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000179/VOA_EN_NW_2017_03_21_3775203_0/126/133> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000442/ORG> a rdf:Statement ;
+    rdf:object ldcOnt:ORG ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000442> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/325/331>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/333/344>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/83/90> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000443/FAC> a rdf:Statement ;
+    rdf:object ldcOnt:FAC ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000443> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000443/VOA_EN_NW_2017_03_21_3775203_0/105/121> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000444/ORG> a rdf:Statement ;
+    rdf:object ldcOnt:ORG ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000444> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000444/VOA_EN_NW_2017_03_21_3775203_0/168/173>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000444/VOA_EN_NW_2017_03_21_3775203_0/311/316> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000445/ORG> a rdf:Statement ;
+    rdf:object ldcOnt:ORG ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000445> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/139/150>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/285/290>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/304/306> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000446/ORG> a rdf:Statement ;
+    rdf:object ldcOnt:ORG ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000446> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000446/VOA_EN_NW_2017_03_21_3775203_0/202/214> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000447/ORG> a rdf:Statement ;
+    rdf:object ldcOnt:ORG ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000447> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000447/VOA_EN_NW_2017_03_21_3775203_0/243/247>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000447/VOA_EN_NW_2017_03_21_3775203_0/260/269> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entitytype/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000448/PER> a rdf:Statement ;
+    rdf:object ldcOnt:PER ;
+    rdf:predicate rdf:type ;
+    rdf:subject <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000448> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000448/VOA_EN_NW_2017_03_21_3775203_0/448/452> ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"typeConfidence\": \"canonical_type\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.usc.edu/AIDA/IRIS/Systems/ZSGrounder> a aida:System .
+
+<http://www.columbia.edu/AIDA/DVMM/Systems/Instance-Matching/ResNet152> a aida:System .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000179/VOA_EN_NW_2017_03_21_3775203_0/126/133> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "133"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "126"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/333/344> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "344"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "333"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000443/VOA_EN_NW_2017_03_21_3775203_0/105/121> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "121"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "105"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000444/VOA_EN_NW_2017_03_21_3775203_0/168/173> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "173"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "168"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/285/290> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "290"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "285"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000446/VOA_EN_NW_2017_03_21_3775203_0/202/214> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "214"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "202"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000447/VOA_EN_NW_2017_03_21_3775203_0/260/269> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "269"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "260"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000448/VOA_EN_NW_2017_03_21_3775203_0/448/452> a aida:TextJustification ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "452"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "448"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000179> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "New York"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000179/VOA_EN_NW_2017_03_21_3775203_0/126/133> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000179/VOA_EN_NW_2017_03_21_3775203_0/126/133> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:5128638_VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000442> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Alphabet"^^xsd:string,
+        "Alphabet Inc"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/333/344> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/325/331>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/333/344>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/83/90> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000193_VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000444> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Google"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000444/VOA_EN_NW_2017_03_21_3775203_0/168/173> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000444/VOA_EN_NW_2017_03_21_3775203_0/168/173>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000444/VOA_EN_NW_2017_03_21_3775203_0/311/316> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000195_VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000445> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Jigsaw"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/285/290> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/139/150>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/285/290>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/304/306> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000196_VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000446> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000446/VOA_EN_NW_2017_03_21_3775203_0/202/214> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000446/VOA_EN_NW_2017_03_21_3775203_0/202/214> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000197_VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000447> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000447/VOA_EN_NW_2017_03_21_3775203_0/260/269> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000447/VOA_EN_NW_2017_03_21_3775203_0/243/247>,
+        <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000447/VOA_EN_NW_2017_03_21_3775203_0/260/269> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000198_VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000448> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000448/VOA_EN_NW_2017_03_21_3775203_0/448/452> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000448/VOA_EN_NW_2017_03_21_3775203_0/448/452> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000199_VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"columbia_vector_text_v1.0\": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.043089792132377625, 0.0, 0.0, 0.0, 0.029770398512482643, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.18514607846736908, 0.058970484882593155, 0.0, 0.007910608313977718, 0.0, 0.0, 0.0, 0.0, 0.17697225511074066, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0685378760099411, 0.0, 0.0, 0.07251279801130295, 0.0, 0.0, 0.0, 0.14315065741539001, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.010574053972959518, 0.0, 0.0, 0.0, 0.1515197902917862, 0.0007355913985520601, 0.09014738351106644, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.10738708823919296, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.09323318302631378, 0.0, 0.0, 0.0, 0.0, 0.1442832052707672, 0.16126471757888794, 0.0, 0.037227239459753036, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.020858976989984512, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.08333209902048111, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2259434312582016, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.09261313825845718, 0.0, 0.0, 0.09028106182813644, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0015992955304682255, 0.0, 0.0, 0.0310040432959795, 0.0, 0.07742469012737274, 0.07615538686513901, 0.0, 0.0, 0.0403214655816555, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.09697640687227249, 0.15727756917476654, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03827713057398796, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.054749876260757446, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.003810996189713478, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.06730873137712479, 0.0, 0.0, 0.0, 0.0, 0.0, 0.13965022563934326, 0.0, 0.0, 0.0, 0.0, 0.0, 0.06825361400842667, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.031183961778879166, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.23581631481647491, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.052484069019556046, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03988024964928627, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.08273754268884659, 0.0, 0.0, 0.0, 0.0, 0.0, 0.07924075424671173, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.056637100875377655, 0.0, 0.15588462352752686, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.09962742775678635, 0.026810986921191216, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1221865862607956, 0.1050032451748848, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005117034539580345, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.15060833096504211, 0.04935839772224426, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.14802485704421997, 0.0, 0.0, 0.0, 0.06797382980585098, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.049102962017059326, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.039483752101659775, 0.0, 0.15616104006767273, 0.0774630606174469, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1251658797264099, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.08179232478141785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013538576662540436, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.17860420048236847, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.15564455091953278, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.13010704517364502, 0.0, 0.0, 0.030918888747692108, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.008236340247094631, 0.0, 0.0, 0.004454188048839569, 0.0, 0.0, 0.061503272503614426, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02694377675652504, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.10953206568956375, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1878998875617981, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01790531724691391, 0.22022071480751038, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004718963522464037, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.16555139422416687, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.15085385739803314, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.037882253527641296, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.16946612298488617, 0.0, 0.0, 0.0, 0.053905244916677475, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.007240222301334143, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.061921972781419754, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.10084390640258789, 0.0, 0.0, 0.0, 0.0, 0.25767362117767334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.11617886275053024, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.017005667090415955, 0.0, 0.0, 0.0, 0.16265393793582916, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.12565457820892334, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"^^xsd:string ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.columbia.edu/AIDA/DVMM/Clusters/Grounding/RUN00006/Nasdaq_MarketSite/1> a aida:SameAsCluster ;
+    aida:prototype <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000443> ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> .
+
+<http://www.columbia.edu/AIDA/DVMM/Entities/GroundingBox/RUN00006/JPG/VOA_EN_NW_2017_03_21_3775203_0/1> a aida:Entity ;
+    aida:informativeJustification _:Ndd40ad5fdca04f81ad9a855d9a5c2f30 ;
+    aida:justifiedBy _:Ndd40ad5fdca04f81ad9a855d9a5c2f30 ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"columbia_vector_grounding_v1.0\": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005151133518666029, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2767075002193451, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0012796752853319049, 0.0010953557211905718, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.05224473774433136, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006763446144759655, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0007806281791999936, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0003792680217884481, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004482984077185392, 0.0023378320038318634, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00717805465683341, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3536268472671509, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0007590235909447074, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0001843133068177849, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.17838487029075623, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03528371453285217, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.22011519968509674, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009154274128377438, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006761529948562384, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4206542670726776, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6499231457710266, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.017377281561493874, 0.017595749348402023, 0.0, 0.0, 0.0, 0.0, 6.820923590566963e-05, 0.0, 0.0, 0.0, 0.00035605186712928116, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.035671383142471313, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.014958919957280159, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004936268087476492, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009108771570026875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1697317510843277, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013372190296649933, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.002861158922314644, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.007962455973029137, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00013343161845114082, 0.0, 0.0, 0.0, 0.0, 0.015904417261481285, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2875540554523468, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00035396404564380646, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0009230037685483694, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"^^xsd:string ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"columbia_vector_instance_v1.0\": [0.0, 0.0, 0.0, 0.0, 0.0, 0.019561009481549263, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0006981399492360651, 0.0, 0.018701279535889626, 0.0, 0.0003611400898080319, 0.0, 0.0, 0.0, 0.0015891848597675562, 0.0, 0.0, 0.0, 0.0, 0.02655024453997612, 0.0, 0.004256690852344036, 0.0, 0.002116082701832056, 0.0, 0.0, 0.021159548312425613, 0.0, 0.017866937443614006, 0.0, 0.0, 0.01394139789044857, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0021788848098367453, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.008523219265043736, 0.0, 0.0, 0.0028940802440047264, 0.0, 0.0, 0.0, 0.009166005998849869, 0.014358834363520145, 0.0, 0.0, 0.007134017068892717, 0.0016676688101142645, 0.0, 0.0, 0.0, 0.004046487156301737, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0038192246574908495, 0.01614638790488243, 0.0002056100929621607, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.012575041502714157, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0015019159764051437, 0.0, 0.0, 0.0, 0.0, 0.0, 0.014337819069623947, 0.0, 0.0, 0.0, 0.0, 0.003786953631788492, 0.0, 0.007562931161373854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00098645209800452, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.034796737134456635, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00034112168941646814, 0.0, 0.0, 0.017218267545104027, 0.020955683663487434, 0.0, 0.0, 0.0, 0.007541481871157885, 0.0, 0.0, 0.014461255632340908, 0.0, 0.0, 0.0, 0.0, 0.007670994848012924, 0.015998242422938347, 0.0, 0.0, 0.0, 0.0, 0.007015776354819536, 0.0, 0.003128419630229473, 0.03510564938187599, 0.0, 0.0, 0.0, 0.007997401058673859, 0.0009323723497800529, 0.0, 0.0029955971986055374, 0.003212993498891592, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02800227701663971, 0.0, 0.0, 0.0, 0.0, 0.006377300713211298, 0.0, 0.007015300914645195, 0.0, 0.0017258800799027085, 0.012955673038959503, 0.0, 0.00442419433966279, 0.0069191292859613895, 0.012460151687264442, 0.0021552012767642736, 0.0, 0.0, 0.00015441729919984937, 0.0, 0.0, 0.0, 0.0007174098864197731, 0.0, 0.0034845664631575346, 0.0, 0.002694027731195092, 0.0032493360340595245, 0.010887007229030132, 0.0, 0.021397890523076057, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.016815265640616417, 0.0, 0.02681541070342064, 0.01680060289800167, 0.0, 0.0, 0.004009096417576075, 0.0006635634927079082, 0.0014911285834386945, 0.0, 0.0, 0.0005943107535131276, 0.0, 0.0, 0.005402694921940565, 0.0025677524972707033, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006567880976945162, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015602506697177887, 0.016270054504275322, 0.0, 0.0, 0.0004190633771941066, 0.011240873485803604, 0.014511721208691597, 0.0, 0.0, 0.0017239063745364547, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.003846331499516964, 0.006617231294512749, 0.0, 0.0, 0.010192996822297573, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0004895883030258119, 0.0, 0.0, 0.012572087347507477, 0.0, 0.0, 0.0, 0.0017303109634667635, 0.006383745465427637, 0.006620462518185377, 0.0, 0.005417160224169493, 0.009765483438968658, 0.008020397275686264, 0.012941805645823479, 0.0, 0.0, 0.0018868865445256233, 0.0, 0.0, 0.0, 0.00802331417798996, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004407757893204689, 0.0, 0.0004382129409350455, 0.0, 0.0, 0.0, 0.0, 0.010028472170233727, 0.0, 0.0, 0.001013004221022129, 0.0051774512976408005, 0.0, 0.014410184696316719, 0.0, 0.0, 0.0, 0.010452443733811378, 0.0, 0.0, 0.01457237359136343, 0.006364878732711077, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004123140126466751, 0.0005592311499640346, 0.0, 0.007412484381347895, 0.006527087185531855, 0.0011816779151558876, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0019901548512279987, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00487499637529254, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0030468381009995937, 0.0008356655016541481, 0.0, 0.0, 0.0, 0.0058938851580023766, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0016453656135126948, 0.0, 0.0, 0.0, 0.0011472685728222132, 0.0, 0.0, 0.0, 0.0, 0.033896271139383316, 0.0, 0.006740403361618519, 0.0, 0.0, 0.001224949024617672, 0.0, 0.0, 0.0, 0.005057157948613167, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0074523817747831345, 0.0, 0.0, 0.002571660792455077, 0.0032861302606761456, 0.0, 0.0, 0.0, 0.0, 0.0018346812576055527, 0.0, 0.0, 0.009371320717036724, 0.0, 0.0, 0.0, 0.0, 0.0021647957619279623, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025809722021222115, 0.017599614337086678, 0.0, 0.0, 0.025470085442066193, 0.0, 0.0015096991555765271, 0.021607818081974983, 0.00849615316838026, 0.0, 0.009290479123592377, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.002774233464151621, 0.0, 0.003687923541292548, 0.0, 0.009509589523077011, 0.0, 0.0, 0.0, 0.0, 0.0054379673674702644, 0.0, 0.011564192362129688, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006200441624969244, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015672188252210617, 0.0, 0.0, 0.00394319836050272, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0015926742926239967, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01669897884130478, 0.0, 0.0, 0.0, 0.015614302828907967, 0.0, 0.006154207047075033, 0.016545211896300316, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.014979776926338673, 0.0, 0.0, 0.01482624001801014, 0.020958533510565758, 0.0022677546367049217, 0.0, 0.03442789986729622, 0.017302468419075012, 0.0, 0.024392643943428993, 0.0, 0.0, 0.02834744192659855, 0.0, 0.0, 0.0, 0.0, 0.009684339165687561, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013218852691352367, 0.0, 0.0, 0.003095941385254264, 0.0, 0.0, 0.002000281820073724, 0.0, 0.0, 0.0, 0.0, 0.01939869299530983, 0.0, 0.0, 0.0, 0.0, 0.010293938219547272, 0.0, 0.0, 0.003162663895636797, 0.0, 0.0, 0.01425502821803093, 0.0, 0.0, 0.0, 0.001550360000692308, 0.017810732126235962, 0.018727244809269905, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01373317651450634, 0.0, 0.0, 0.0, 0.0, 0.01316577848047018, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0002918139798566699, 0.0, 0.0, 0.010955202393233776, 0.0, 0.007920139469206333, 0.0, 0.020271724089980125, 0.0, 0.013660583645105362, 0.010287640616297722, 0.006078389007598162, 0.0, 0.0, 0.0, 0.0, 0.02091454528272152, 0.0, 0.0, 0.0, 0.0, 0.019908394664525986, 0.0, 0.0, 0.0030035076197236776, 0.0, 0.004505573306232691, 0.009568504989147186, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.027917491272091866, 0.0, 0.0005836907657794654, 0.009975070133805275, 0.0, 0.0, 0.029717804864048958, 0.0, 0.01022433303296566, 0.0, 0.0, 0.015566526912152767, 0.009204051457345486, 0.0, 0.017951617017388344, 0.0, 0.0, 0.001227473490871489, 0.0, 0.0, 0.0, 0.01951717399060726, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.020168418064713478, 0.024974003434181213, 0.013572918251156807, 0.005724430549889803, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015945609658956528, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0005951458588242531, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0014179982244968414, 0.0, 0.0060020084492862225, 0.0, 0.017346300184726715, 0.0, 0.0042375558987259865, 0.0, 0.0, 0.0, 0.0, 0.0021768060978502035, 0.0, 0.0017702854238450527, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004454475361853838, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00487971818074584, 0.025498811155557632, 0.0, 0.010254676453769207, 0.0, 6.370934715960175e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.007776668295264244, 0.0, 0.0, 0.0, 0.0049284882843494415, 0.007612208835780621, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.002779054455459118, 0.0, 0.055598653852939606, 0.0, 0.0, 0.0, 0.0, 0.04043976217508316, 0.009763766080141068, 0.0, 0.00687826843932271, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0019645909778773785, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01438011135905981, 0.02698802575469017, 0.0024057684931904078, 0.0, 0.0, 0.00859309546649456, 0.01739588938653469, 0.0, 0.0, 0.006851012818515301, 0.0, 0.012857683934271336, 0.012811043299734592, 0.0, 0.0, 0.01592504046857357, 0.02142573706805706, 0.0, 0.0, 0.0, 0.0, 0.022029774263501167, 0.004177223425358534, 0.0, 0.0, 0.0, 0.0, 0.006787344813346863, 0.010122912004590034, 0.0, 0.0, 0.0, 0.022358357906341553, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.011095852591097355, 0.0, 0.0, 0.0, 0.0, 0.02753347158432007, 0.0, 0.0, 0.0, 0.003271524328738451, 0.0, 0.0, 0.0, 0.0, 0.0, 0.008482513949275017, 0.011658133938908577, 0.0, 0.0, 0.001903565600514412, 0.0, 0.0, 0.0034312838688492775, 0.009125554002821445, 0.0, 0.0, 0.0, 0.0, 0.0035263020545244217, 0.01699388585984707, 0.0, 0.0, 0.0, 0.0, 0.00833504181355238, 0.0, 0.0035155077930539846, 0.0, 0.005848749075084925, 0.01862149126827717, 0.013526887632906437, 0.0, 0.0, 0.02636166661977768, 0.0, 0.0, 0.0, 0.0, 0.017987407743930817, 0.005384253337979317, 0.0, 0.0, 0.0, 0.0, 0.014204196631908417, 0.004168957006186247, 0.0, 0.0, 0.0, 0.012749711982905865, 0.0, 0.0017968789907172322, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00904807634651661, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.01558750495314598, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0004827872908208519, 0.0, 0.01349082961678505, 0.0, 0.0, 0.00548695120960474, 0.0023775380104780197, 0.0258475374430418, 0.004835945554077625, 0.0, 0.0, 0.0, 0.0, 0.0, 0.008047118782997131, 0.0, 0.0, 0.008813438005745411, 0.02367365173995495, 0.0, 0.0, 0.0, 0.011221062391996384, 0.0, 0.0, 0.002632656367495656, 0.0, 0.0018779183737933636, 0.0, 0.0, 0.009048779495060444, 0.0, 0.00036042396095581353, 0.0, 0.020050885155797005, 0.0, 0.0, 0.018073031678795815, 0.0, 0.0, 0.0, 0.0, 0.0, 0.022330477833747864, 0.0, 0.0, 0.008642017841339111, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009124933741986752, 0.0, 0.014682619832456112, 0.002491078106686473, 0.0, 0.0, 0.013511220924556255, 0.0, 0.0, 0.0, 0.0, 0.0082912128418684, 0.0018871704814955592, 0.0, 0.0, 0.002987525425851345, 0.0, 0.0, 0.0, 0.0, 0.005516670178622007, 0.01049791183322668, 0.0, 0.0, 0.0, 0.008488345891237259, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0023454183246940374, 0.00875526387244463, 0.005517902318388224, 0.004881388507783413, 0.008351858705282211, 0.0, 0.0, 0.0, 0.0, 0.019199036061763763, 0.01010359637439251, 0.0, 0.0, 0.0, 0.0, 0.0, 0.013932568952441216, 0.0, 0.0, 0.0, 0.0, 0.001506197266280651, 0.0, 0.0027459750417619944, 0.004658290185034275, 0.008588605560362339, 0.0, 0.0, 0.0, 0.0020146192982792854, 0.0, 0.0, 0.0, 0.0, 0.0, 0.003908238373696804, 0.0047530229203403, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.012850763276219368, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03376885876059532, 0.0, 0.0, 0.0, 0.0, 0.047925133258104324, 0.0, 0.0, 0.0, 0.0, 0.019281543791294098, 0.0, 0.003886075457558036, 0.0, 0.01046981755644083, 0.0, 0.0, 0.008032578974962234, 0.013793260790407658, 0.0, 0.0, 0.014879534021019936, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02143404446542263, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.007423509377986193, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0040535940788686275, 0.01794920116662979, 0.025467492640018463, 0.005194114521145821, 0.0014115037629380822, 0.0, 0.0, 0.0, 0.0014579088892787695, 0.0, 0.0, 0.0, 0.03524710610508919, 0.0, 0.0, 0.015051218681037426, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.020346157252788544, 0.0, 0.008752557449042797, 0.0, 0.0, 0.01412653923034668, 0.04231708124279976, 0.0054614064283668995, 0.0060267322696745396, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0019959083292633295, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009581931866705418, 0.0, 0.0, 0.004052610602229834, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.000804261420853436, 0.0, 0.0, 0.005931492894887924, 0.014066260308027267, 0.0, 0.04950149729847908, 0.0, 0.0, 0.0, 0.0, 0.0, 0.000610747083555907, 0.0, 0.004024784080684185, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0185304656624794, 0.0, 0.0, 0.0, 0.002270519034937024, 0.0, 0.0, 0.0, 0.0, 0.014011736027896404, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.003907194826751947, 0.0, 0.006370933726429939, 0.0, 0.0, 0.003038381226360798, 0.029294807463884354, 0.0, 0.004378891084343195, 0.0, 0.0, 0.002384741557762027, 0.0, 0.003749703522771597, 0.0062395622953772545, 0.0, 0.018976105377078056, 0.028697095811367035, 0.00822118204087019, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005573490168899298, 0.0, 0.03651409596204758, 0.0, 0.0, 0.014283320866525173, 0.0, 0.005249112844467163, 0.0028630848973989487, 0.0, 0.0, 0.0, 0.018636899068951607, 0.0, 0.00016270730702672154, 0.0016488897381350398, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.020825810730457306, 0.0, 0.0, 0.003682695562019944, 0.0, 0.0, 0.0, 0.0, 0.005339098162949085, 0.0, 0.0, 0.0, 0.0, 0.011330033652484417, 0.0, 0.011801797896623611, 0.0, 0.0, 0.01880987361073494, 0.0, 0.0027280421927571297, 0.031004473567008972, 0.0, 0.0, 0.0, 0.012391972355544567, 0.0, 0.0, 0.012692822143435478, 0.0, 0.0, 0.030844641849398613, 0.0, 0.019963448867201805, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001148642273619771, 0.007795133162289858, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.012621846981346607, 0.0005304645746946335, 0.0, 0.0, 0.0, 0.0, 0.021251417696475983, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.020918704569339752, 0.003878136398270726, 0.0, 0.0, 0.01009651180356741, 0.0, 0.0044998787343502045, 0.0, 0.0, 0.0, 0.0, 0.0, 0.010654137469828129, 0.0, 0.0, 0.0, 0.0, 0.0, 0.020436786115169525, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009933623485267162, 0.0, 0.003161631990224123, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0013786047929897904, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.012789194472134113, 0.0, 0.0, 0.0, 0.0, 0.016092341393232346, 0.008743362501263618, 0.0, 0.0, 0.005371104925870895, 0.002559768734499812, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.007476531434804201, 0.0, 0.0, 0.008649792522192001, 0.0, 0.0, 0.0, 0.0, 0.0, 0.011924119666218758, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00332812312990427, 0.0, 9.756367944646627e-05, 0.0, 0.014435357414186, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.012906177900731564, 0.0, 0.012349470518529415, 0.0, 0.0, 0.006749759893864393, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0225587897002697, 0.0, 0.0, 0.00023056335339788347, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005302929785102606, 0.0, 0.0, 0.0, 0.0, 0.006471576634794474, 0.004213794134557247, 0.0, 0.0, 0.0, 0.0, 0.0, 0.003916678950190544, 0.0, 0.0, 0.0, 0.008798451162874699, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015433679334819317, 0.0, 0.0, 0.0130305802449584, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0025006267242133617, 0.0, 0.0, 0.0, 0.0, 0.0, 0.04653504863381386, 0.001287058345042169, 0.0, 0.0, 0.0, 0.0, 0.006757755298167467, 0.0, 0.014750287868082523, 0.0, 0.0, 0.0, 0.0, 0.0, 0.019691577181220055, 0.0, 0.0, 0.0, 0.0, 0.010184718295931816, 0.0, 0.0, 0.0022652787156403065, 0.0, 0.0, 0.0, 0.0032980013638734818, 0.0, 0.0031174791511148214, 0.01484255027025938, 0.01835108920931816, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02222917415201664, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004119600635021925, 0.0, 0.0, 0.005310375709086657, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005753029603511095, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015015652403235435, 0.0, 0.0, 0.0, 0.0, 0.020245801657438278, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02512708492577076, 0.0, 0.0, 0.0, 0.0039136577397584915, 0.0, 0.011792943812906742, 0.0, 0.01750974915921688, 0.0, 0.0, 0.0, 0.00784347951412201, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.017716312780976295, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009335534647107124, 0.012638065963983536, 0.0, 0.010266396217048168, 0.0, 0.0, 0.020523935556411743, 0.0, 0.021587109193205833, 0.0, 0.01766858622431755, 0.0, 0.013717884197831154, 0.0033394847996532917, 0.012069731019437313, 0.01893792860209942, 0.0, 0.004559279419481754, 0.0, 0.003301097545772791, 0.0, 0.028630079701542854, 0.0, 0.0, 0.019556259736418724, 0.0, 0.0021880161948502064, 0.017714565619826317, 0.0, 0.0, 0.0, 0.0, 0.02509390376508236, 0.0, 0.0, 0.0, 0.0, 0.0005475776270031929, 0.014813725836575031, 0.0, 0.005804230459034443, 0.0, 0.0, 0.0038940056692808867, 0.011745856143534184, 0.0, 0.0, 0.0, 0.018261289224028587, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03585883975028992, 0.012316468171775341, 0.0020612049847841263, 0.0, 0.0, 0.008908726274967194, 0.0032733273692429066, 0.0, 0.0, 0.0, 0.0, 0.011765683069825172, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.001941582770086825, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.011419507674872875, 0.0, 0.0, 0.0, 0.0, 0.0, 0.007108727470040321, 0.0, 0.0, 0.0075969090685248375, 0.000374660303350538, 0.0, 0.0, 0.0013738102279603481, 0.0, 0.0, 0.0, 0.0, 0.007122624199837446, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.027000464498996735, 0.0, 0.006912675220519304, 0.0, 0.00037070317193865776, 0.0, 0.0, 0.0021143294870853424, 0.0, 0.030604589730501175, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.003490484319627285, 0.0, 0.0, 0.016506344079971313, 0.0, 0.0, 0.0, 0.0, 0.006988676730543375, 0.0, 0.011701182462275028, 0.0, 0.0, 0.0, 0.011643183417618275, 0.0, 0.0, 0.011177917011082172, 0.02900025062263012, 0.006580733694136143, 0.0, 0.0, 0.0, 0.004950110334903002, 0.009158172644674778, 0.003614620305597782, 0.0, 0.0, 0.008551010861992836, 0.0, 0.0, 0.0, 0.0, 0.012980704195797443, 0.0002546088653616607, 0.0, 0.0, 0.0, 0.006213656160980463, 0.0, 0.0, 0.014580144546926022, 0.0, 0.0007520189392380416, 0.0, 4.500364593695849e-05, 0.0, 0.0, 0.023921841755509377, 0.011436393484473228, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005899537820369005, 0.0, 0.0, 0.002873775316402316, 0.020056569948792458, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00023804166994523257, 0.0, 0.0, 0.0016924489755183458, 0.0006079175509512424, 0.0, 0.0, 0.0, 0.0, 0.02660156600177288, 0.0, 0.0, 0.0, 0.0, 0.016205018386244774, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.008218037895858288, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03782545402646065, 0.009752285666763783, 0.0, 0.018253667280077934, 0.0, 0.0, 0.0, 0.0, 0.01732202060520649, 0.0, 0.0, 0.0, 0.0011453896295279264, 0.0, 0.00040116303716786206, 0.0, 0.0, 0.0, 0.00882842019200325, 0.0, 0.0011935682268813252, 0.0, 0.005508123897016048, 0.0, 0.0, 0.0, 0.0, 0.0, 0.021984051913022995, 0.011142776347696781, 0.010991284623742104, 0.029485290870070457, 0.0, 0.0361502431333065, 0.021175559610128403, 0.002000872977077961, 0.0, 0.009225403890013695, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.029332470148801804, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0023977146483957767, 0.02181197889149189, 0.0, 0.0, 0.010025866329669952, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0022619159426540136, 0.0, 0.0, 0.0, 0.0, 5.413637700257823e-05, 0.0, 0.01757308840751648, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.022162510082125664, 0.0, 0.010593377985060215, 0.0, 0.0, 0.0026900116354227066, 0.0, 0.0235778596252203, 0.029560433700680733, 0.0, 0.003343530697748065, 0.013639005832374096, 0.004645425360649824, 6.811370985815302e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0029120976105332375, 0.0, 0.0, 0.0, 0.0, 0.0030977788846939802, 0.01854425109922886, 0.015949824824929237, 0.0, 0.0, 0.007077670656144619, 0.0, 0.0, 0.0, 0.006235417444258928, 0.018234139308333397, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004519657697528601, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009969193488359451, 0.0, 0.0, 0.0, 0.0, 0.02902715839445591, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025364447385072708, 0.00047690351493656635, 0.0, 0.0, 0.002228409517556429, 0.0, 0.0, 0.013070409186184406, 0.0, 0.0, 0.0014468611916527152, 0.0006982522318139672, 0.0, 0.0, 0.003482226748019457, 0.01645570620894432, 0.0, 0.0, 0.0, 0.02651057206094265, 0.0025086633395403624, 0.0, 0.023452483117580414, 0.0, 0.0, 0.034584496170282364, 0.0, 0.0, 0.005293082911521196, 0.0, 0.0007107771234586835, 0.011684193275868893, 0.0039088306948542595, 0.017990896478295326, 0.0, 0.0, 0.0, 0.0, 0.016612574458122253, 0.02021399512887001, 0.0, 0.0, 0.018128128722310066, 0.0, 0.014253221452236176, 0.0, 0.013386290520429611, 0.0, 0.0, 0.0, 0.01080851349979639, 0.0, 0.0, 0.0, 0.0, 0.016426492482423782, 0.0, 0.0, 0.0, 0.004959590267390013, 0.0, 0.011339741759002209, 0.0, 0.0, 0.0, 0.02859630063176155, 0.0068094260059297085, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0019260881235823035, 0.0, 0.0, 0.0, 0.0, 0.0018040791619569063, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.036299556493759155, 0.0, 0.0, 0.0, 0.0, 0.0021953571122139692, 0.0, 0.0, 0.0, 0.0, 0.0, 0.025110814720392227, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.002273235935717821, 0.0, 0.0, 0.00930648110806942, 0.0, 0.0, 0.0, 0.020420420914888382, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.019356736913323402, 0.0, 0.0037400934379547834, 0.0, 0.0, 0.016772989183664322, 0.0, 0.0, 0.0, 0.0, 0.007674119435250759, 0.0, 0.0, 0.0, 0.02778238244354725, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.008708045817911625, 0.0, 0.0, 0.008306673727929592, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006544273346662521, 0.0, 0.0, 0.0, 0.004849777091294527, 0.0, 0.001599275623448193, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0020946545992046595, 0.0, 0.0, 0.008414137177169323, 0.016300497576594353, 0.0, 0.00716847088187933, 0.0006114065181463957, 0.0, 0.0, 0.011339820921421051, 4.2452255001990125e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00728713208809495, 0.0, 0.0, 0.0, 7.020244811428711e-05, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.008666531182825565, 0.00044379691826179624, 0.0, 0.0, 0.008179335854947567, 0.0, 0.0, 0.0026373902801424265, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009154941886663437, 0.0, 0.0, 0.031215064227581024, 0.0, 0.0, 0.0, 0.0, 0.020802060142159462, 0.0, 0.0, 0.007887281477451324, 0.02148197777569294, 0.0, 0.00614911038428545, 0.0, 0.010067546740174294, 0.0, 0.022424817085266113, 0.0, 0.0, 0.0, 0.0, 0.0, 0.010836923494935036, 0.0, 0.0, 0.0, 0.005628697574138641, 0.0, 0.0, 0.005695209372788668, 0.0, 0.0, 0.0, 0.0, 0.005601325538009405, 0.006203424651175737, 0.002853907411918044, 0.0, 0.0, 0.029553424566984177, 0.0, 0.0, 0.0, 0.0, 0.0, 0.012727944180369377, 0.0, 0.02463798224925995, 0.0, 0.0, 0.0, 0.0, 0.008512613363564014, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0028416961431503296, 0.010789665393531322, 0.017760392278432846, 0.025704210624098778, 0.0, 0.0, 0.011486220173537731, 0.0, 0.011538367718458176, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0005547920591197908, 0.0, 0.0, 0.0, 0.005757234524935484, 0.0, 0.0, 0.001675038947723806, 0.0, 0.0, 0.005805745255202055, 0.011927464045584202, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.015107576735317707, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.011025023646652699, 0.0, 0.011389169842004776, 0.0, 0.0, 0.00283419038169086, 0.0, 0.0, 0.0, 0.0026694219559431076, 0.0, 0.0, 0.007607524283230305, 0.0, 0.007836397737264633, 0.0, 0.0, 0.0, 0.0020307409577071667, 0.0, 0.009399089962244034, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.005919366609305143, 0.0, 0.010095587000250816, 0.0, 0.0, 0.022958818823099136, 0.019899526610970497, 0.005353653337806463, 0.0, 0.0141537981107831, 0.0, 0.0, 0.0, 0.019615652039647102, 0.0, 0.0019446503138169646, 0.0, 0.0, 0.015414328314363956, 0.015294482931494713, 0.0, 0.0]}"^^xsd:string ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Instance-Matching/ResNet152> ] ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000179/VOA_EN_NW_2017_03_21_3775203_0/126/133> a aida:TextJustification ;
+    skos:prefLabel "New York" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "133"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "126"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/325/331> a aida:TextJustification ;
+    skos:prefLabel "company" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "331"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "325"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/333/344> a aida:TextJustification ;
+    skos:prefLabel "Alphabet Inc" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "344"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "333"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000442/VOA_EN_NW_2017_03_21_3775203_0/83/90> a aida:TextJustification ;
+    skos:prefLabel "Alphabet" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "90"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "83"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000443/VOA_EN_NW_2017_03_21_3775203_0/105/121> a aida:TextJustification ;
+    skos:prefLabel "Nasdaq MarketSite" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "121"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "105"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000444/VOA_EN_NW_2017_03_21_3775203_0/168/173> a aida:TextJustification ;
+    skos:prefLabel "Google" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "173"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "168"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000444/VOA_EN_NW_2017_03_21_3775203_0/311/316> a aida:TextJustification ;
+    skos:prefLabel "Google" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "316"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "311"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/139/150> a aida:TextJustification ;
+    skos:prefLabel "organization" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "150"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "139"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/285/290> a aida:TextJustification ;
+    skos:prefLabel "Jigsaw" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "290"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "285"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000445/VOA_EN_NW_2017_03_21_3775203_0/304/306> a aida:TextJustification ;
+    skos:prefLabel "arm" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "306"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "304"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000446/VOA_EN_NW_2017_03_21_3775203_0/202/214> a aida:TextJustification ;
+    skos:prefLabel "organizations" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "214"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "202"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000447/VOA_EN_NW_2017_03_21_3775203_0/243/247> a aida:TextJustification ;
+    skos:prefLabel "sites" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "247"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "243"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000447/VOA_EN_NW_2017_03_21_3775203_0/260/269> a aida:TextJustification ;
+    skos:prefLabel "themselves" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "269"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"pronominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "260"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000448/VOA_EN_NW_2017_03_21_3775203_0/448/452> a aida:TextJustification ;
+    skos:prefLabel "human" ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:endOffsetInclusive "452"^^xsd:int ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"fileType\": \"en\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu/fileType> ],
+        [ a aida:PrivateData ;
+            aida:jsonContent "{\"justificationType\": \"nominal_mention\"}"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:startOffset "448"^^xsd:int ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000443> a aida:Entity ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:hasName "Nasdaq MarketSite"^^xsd:string ;
+    aida:informativeJustification <http://www.isi.edu/gaia/assertions/uiuc/entity_informative_justification/EN_Entity_EDL_0000443/VOA_EN_NW_2017_03_21_3775203_0/105/121> ;
+    aida:justifiedBy <http://www.isi.edu/gaia/assertions/uiuc/entityjustification/EN_Entity_EDL_0000443/VOA_EN_NW_2017_03_21_3775203_0/105/121> ;
+    aida:link [ a aida:LinkAssertion ;
+            aida:confidence [ a aida:Confidence ;
+                    aida:confidenceValue 1e+00 ;
+                    aida:system <http://www.uiuc.edu> ] ;
+            aida:linkTarget "REFKB:NIL00000194_VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+            aida:system <http://www.uiuc.edu> ] ;
+    aida:privateData [ a aida:PrivateData ;
+            aida:jsonContent "{\"columbia_vector_text_v1.0\": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.35720083117485046, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.024888401851058006, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.06673331558704376, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.05669311434030533, 0.2781250476837158, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3124133050441742, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.048394523561000824, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.07965723425149918, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.09597226977348328, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.03137906268239021, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.40443581342697144, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.012763729318976402, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.004452844150364399, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1526990830898285, 0.0, 0.0, 0.05625929683446884, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.09990710765123367, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02288401685655117, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02772672474384308, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5979095697402954, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.05085059627890587, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.06788122653961182, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.012570063583552837, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.05379234999418259, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.06475342810153961, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.05333620309829712, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00012499667354859412, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.06562572717666626, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}"^^xsd:string ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> ] ;
+    aida:system <http://www.uiuc.edu> .
+
+<http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> a aida:System .
+
+<http://www.uiuc.edu/fileType> a aida:System .
+
+<http://www.uiuc.edu> a aida:System .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.columbia.edu/AIDA/DVMM/Clusters/Grounding/RUN00006/Nasdaq_MarketSite/1> ;
+    aida:clusterMember <http://www.columbia.edu/AIDA/DVMM/Entities/GroundingBox/RUN00006/JPG/VOA_EN_NW_2017_03_21_3775203_0/1> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 6.752706e-01 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> ] ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> .
+
+[] a aida:ClusterMembership ;
+    aida:cluster <http://www.columbia.edu/AIDA/DVMM/Clusters/Grounding/RUN00006/Nasdaq_MarketSite/1> ;
+    aida:clusterMember <http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_21_3775203_0/EN_Entity_EDL_0000443> ;
+    aida:confidence [ a aida:Confidence ;
+            aida:confidenceValue 1e+00 ;
+            aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> ] ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> .
+
+_:N593e006db59645d08465d598485ddcc8 a aida:BoundingBox ;
+    aida:boundingBoxLowerRightX "4817"^^xsd:int ;
+    aida:boundingBoxLowerRightY "3254"^^xsd:int ;
+    aida:boundingBoxUpperLeftX "561"^^xsd:int ;
+    aida:boundingBoxUpperLeftY "329"^^xsd:int .
+
+_:N6d7256f37b894b7e8a1d664d1c457ce1 a aida:Confidence ;
+    aida:confidenceValue 7.540282e-01 ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> .
+
+_:Ndd40ad5fdca04f81ad9a855d9a5c2f30 a aida:ImageJustification ;
+    aida:boundingBox _:N593e006db59645d08465d598485ddcc8 ;
+    aida:confidence _:N6d7256f37b894b7e8a1d664d1c457ce1 ;
+    aida:source "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:sourceDocument "VOA_EN_NW_2017_03_21_3775203_0"^^xsd:string ;
+    aida:system <http://www.columbia.edu/AIDA/DVMM/Systems/Grounding/ELMo-PNASNET> .
+

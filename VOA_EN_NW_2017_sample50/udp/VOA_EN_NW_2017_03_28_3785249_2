@@ -1,0 +1,25 @@
+1	Participants	participant	NOUN	NNS	Number=Plur	0	root	_	VOA_EN_NW_2017_03_28_3785249_2:0-11
+2	in	in	ADP	IN	_	4	case	_	VOA_EN_NW_2017_03_28_3785249_2:13-14
+3	teachers	teacher	NOUN	NNS	Number=Plur	4	compound	_	VOA_EN_NW_2017_03_28_3785249_2:16-23
+4	strike	strike	NOUN	NN	Number=Sing	1	nmod	_	VOA_EN_NW_2017_03_28_3785249_2:25-30
+5	in	in	ADP	IN	_	6	case	_	VOA_EN_NW_2017_03_28_3785249_2:32-33
+6	Yaounde	Yaounde	PROPN	NNP	Number=Sing	4	nmod	_	VOA_EN_NW_2017_03_28_3785249_2:35-41
+7	,	,	PUNCT	,	_	6	punct	_	VOA_EN_NW_2017_03_28_3785249_2:42-42
+8	Cameroon	Cameroon	PROPN	NNP	Number=Sing	6	appos	_	VOA_EN_NW_2017_03_28_3785249_2:44-51
+9	,	,	PUNCT	,	_	1	punct	_	VOA_EN_NW_2017_03_28_3785249_2:52-52
+10	March	March	PROPN	NNP	Number=Sing	1	appos	_	VOA_EN_NW_2017_03_28_3785249_2:54-58
+11	27	27	NUM	CD	NumType=Card	10	nummod	_	VOA_EN_NW_2017_03_28_3785249_2:60-61
+12	,	,	PUNCT	,	_	1	punct	_	VOA_EN_NW_2017_03_28_3785249_2:62-62
+13	2017	2017	NUM	CD	NumType=Card	1	appos	_	VOA_EN_NW_2017_03_28_3785249_2:64-67
+14	.	.	PUNCT	.	_	1	punct	_	VOA_EN_NW_2017_03_28_3785249_2:68-68
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	VOA_EN_NW_2017_03_28_3785249_2:70-70
+2	Photo	photo	NOUN	NN	Number=Sing	0	root	_	VOA_EN_NW_2017_03_28_3785249_2:71-75
+3	:	:	PUNCT	:	_	2	punct	_	VOA_EN_NW_2017_03_28_3785249_2:76-76
+4	Moki	Moki	PROPN	NNP	Number=Sing	2	appos	_	VOA_EN_NW_2017_03_28_3785249_2:78-81
+5	Edwin	Edwin	PROPN	NNP	Number=Sing	4	flat	_	VOA_EN_NW_2017_03_28_3785249_2:83-87
+6	Kindzeka	Kindzeka	PROPN	NNP	Number=Sing	4	flat	_	VOA_EN_NW_2017_03_28_3785249_2:89-96
+7	for	for	ADP	IN	_	8	case	_	VOA_EN_NW_2017_03_28_3785249_2:98-100
+8	VOA	VOA	PROPN	NNP	Number=Sing	4	nmod	_	VOA_EN_NW_2017_03_28_3785249_2:102-104
+9	)	)	PUNCT	-RRB-	_	2	punct	_	VOA_EN_NW_2017_03_28_3785249_2:105-105
+

@@ -1,0 +1,33 @@
+1	Marine	Marine	PROPN	NNP	Number=Sing	10	nsubj:pass	_	VOA_EN_NW_2017_01_06_3666451_1:0-5
+2	Le	Le	PROPN	NNP	Number=Sing	1	flat	_	VOA_EN_NW_2017_01_06_3666451_1:7-8
+3	Pen	Pen	PROPN	NNP	Number=Sing	1	flat	_	VOA_EN_NW_2017_01_06_3666451_1:10-12
+4	of	of	ADP	IN	_	8	case	_	VOA_EN_NW_2017_01_06_3666451_1:14-15
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	VOA_EN_NW_2017_01_06_3666451_1:17-19
+6	National	National	PROPN	NNP	Number=Sing	8	compound	_	VOA_EN_NW_2017_01_06_3666451_1:21-28
+7	Front	Front	PROPN	NNP	Number=Sing	8	compound	_	VOA_EN_NW_2017_01_06_3666451_1:30-34
+8	party	party	PROPN	NNP	Number=Sing	1	nmod	_	VOA_EN_NW_2017_01_06_3666451_1:36-40
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	VOA_EN_NW_2017_01_06_3666451_1:42-43
+10	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	VOA_EN_NW_2017_01_06_3666451_1:45-48
+11	as	as	SCONJ	IN	_	12	mark	_	VOA_EN_NW_2017_01_06_3666451_1:50-51
+12	making	make	VERB	VBG	VerbForm=Ger	10	advcl	_	VOA_EN_NW_2017_01_06_3666451_1:53-58
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	VOA_EN_NW_2017_01_06_3666451_1:60-62
+14	runoff	runoff	NOUN	NN	Number=Sing	12	obj	_	VOA_EN_NW_2017_01_06_3666451_1:64-69
+15	in	in	ADP	IN	_	19	case	_	VOA_EN_NW_2017_01_06_3666451_1:71-72
+16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	VOA_EN_NW_2017_01_06_3666451_1:74-76
+17	French	french	ADJ	JJ	Degree=Pos	19	amod	_	VOA_EN_NW_2017_01_06_3666451_1:78-83
+18	presidential	presidential	ADJ	JJ	Degree=Pos	19	amod	_	VOA_EN_NW_2017_01_06_3666451_1:85-96
+19	election	election	NOUN	NN	Number=Sing	12	obl	_	VOA_EN_NW_2017_01_06_3666451_1:98-105
+20	but	but	CCONJ	CC	_	21	cc	_	VOA_EN_NW_2017_01_06_3666451_1:107-109
+21	failing	fail	VERB	VBG	VerbForm=Ger	12	conj	_	VOA_EN_NW_2017_01_06_3666451_1:111-117
+22	to	to	PART	TO	_	23	mark	_	VOA_EN_NW_2017_01_06_3666451_1:119-120
+23	win	win	VERB	VB	VerbForm=Inf	21	xcomp	_	VOA_EN_NW_2017_01_06_3666451_1:122-124
+24	.	.	PUNCT	.	_	10	punct	_	VOA_EN_NW_2017_01_06_3666451_1:125-125
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	VOA_EN_NW_2017_01_06_3666451_1:127-127
+2	L	L	PROPN	NNP	Number=Sing	0	root	_	VOA_EN_NW_2017_01_06_3666451_1:128-128
+3	.	.	PUNCT	.	_	2	punct	_	VOA_EN_NW_2017_01_06_3666451_1:129-129
+4	Bryant	Bryant	PROPN	NNP	Number=Sing	6	compound	_	VOA_EN_NW_2017_01_06_3666451_1:131-136
+5	/	/	PUNCT	,	_	6	cc	_	VOA_EN_NW_2017_01_06_3666451_1:137-137
+6	VOA	VOA	PROPN	NNP	Number=Sing	2	conj	_	VOA_EN_NW_2017_01_06_3666451_1:138-140
+7	)	)	PUNCT	-RRB-	_	2	punct	_	VOA_EN_NW_2017_01_06_3666451_1:141-141
+

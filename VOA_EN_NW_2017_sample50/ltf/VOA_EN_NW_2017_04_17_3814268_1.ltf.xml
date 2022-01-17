@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_04_17_3814268_1">
+		<TEXT>
+			<SEG end_char="218" id="VOA_EN_NW_2017_04_17_3814268_1-0" start_char="0">
+				<ORIGINAL_TEXT>Turkey's President Recep Tayyip Erdogan and his wife Emine Erdogan pose for photos with cheering supporters in the background after unofficial referendum results were announced, in Istanbul, late Sunday, April 16, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="5" id="token-0-0" start_char="0">Turkey</TOKEN>
+				<TOKEN end_char="6" id="token-0-1" start_char="6">'</TOKEN>
+				<TOKEN end_char="7" id="token-0-2" start_char="7">s</TOKEN>
+				<TOKEN end_char="17" id="token-0-3" start_char="9">President</TOKEN>
+				<TOKEN end_char="23" id="token-0-4" start_char="19">Recep</TOKEN>
+				<TOKEN end_char="30" id="token-0-5" start_char="25">Tayyip</TOKEN>
+				<TOKEN end_char="38" id="token-0-6" start_char="32">Erdogan</TOKEN>
+				<TOKEN end_char="42" id="token-0-7" start_char="40">and</TOKEN>
+				<TOKEN end_char="46" id="token-0-8" start_char="44">his</TOKEN>
+				<TOKEN end_char="51" id="token-0-9" start_char="48">wife</TOKEN>
+				<TOKEN end_char="57" id="token-0-10" start_char="53">Emine</TOKEN>
+				<TOKEN end_char="65" id="token-0-11" start_char="59">Erdogan</TOKEN>
+				<TOKEN end_char="70" id="token-0-12" start_char="67">pose</TOKEN>
+				<TOKEN end_char="74" id="token-0-13" start_char="72">for</TOKEN>
+				<TOKEN end_char="81" id="token-0-14" start_char="76">photos</TOKEN>
+				<TOKEN end_char="86" id="token-0-15" start_char="83">with</TOKEN>
+				<TOKEN end_char="95" id="token-0-16" start_char="88">cheering</TOKEN>
+				<TOKEN end_char="106" id="token-0-17" start_char="97">supporters</TOKEN>
+				<TOKEN end_char="109" id="token-0-18" start_char="108">in</TOKEN>
+				<TOKEN end_char="113" id="token-0-19" start_char="111">the</TOKEN>
+				<TOKEN end_char="124" id="token-0-20" start_char="115">background</TOKEN>
+				<TOKEN end_char="130" id="token-0-21" start_char="126">after</TOKEN>
+				<TOKEN end_char="141" id="token-0-22" start_char="132">unofficial</TOKEN>
+				<TOKEN end_char="152" id="token-0-23" start_char="143">referendum</TOKEN>
+				<TOKEN end_char="160" id="token-0-24" start_char="154">results</TOKEN>
+				<TOKEN end_char="165" id="token-0-25" start_char="162">were</TOKEN>
+				<TOKEN end_char="175" id="token-0-26" start_char="167">announced</TOKEN>
+				<TOKEN end_char="176" id="token-0-27" start_char="176">,</TOKEN>
+				<TOKEN end_char="179" id="token-0-28" start_char="178">in</TOKEN>
+				<TOKEN end_char="188" id="token-0-29" start_char="181">Istanbul</TOKEN>
+				<TOKEN end_char="189" id="token-0-30" start_char="189">,</TOKEN>
+				<TOKEN end_char="194" id="token-0-31" start_char="191">late</TOKEN>
+				<TOKEN end_char="201" id="token-0-32" start_char="196">Sunday</TOKEN>
+				<TOKEN end_char="202" id="token-0-33" start_char="202">,</TOKEN>
+				<TOKEN end_char="208" id="token-0-34" start_char="204">April</TOKEN>
+				<TOKEN end_char="211" id="token-0-35" start_char="210">16</TOKEN>
+				<TOKEN end_char="212" id="token-0-36" start_char="212">,</TOKEN>
+				<TOKEN end_char="217" id="token-0-37" start_char="214">2017</TOKEN>
+				<TOKEN end_char="218" id="token-0-38" start_char="218">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

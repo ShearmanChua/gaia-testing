@@ -1,0 +1,14 @@
+{
+    "http://www.isi.edu/gaia/entities/uiuc/VOA_EN_NW_2017_03_10_3760351_0/EN_Entity_EDL_0000299": {
+        "offset": [
+            "VOA_EN_NW_2017_03_10_3760351_0:22-32",
+            "VOA_EN_NW_2017_03_10_3760351_0:12-20"
+        ],
+        "bboxs": [
+            "VOA_EN_NW_2017_03_10_3760351_0-1661-907-3798-2888.png"
+        ],
+        "bboxs_confidence": [
+            "0.5057386"
+        ]
+    }
+}

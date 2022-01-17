@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_30_3789250_0">
+		<TEXT>
+			<SEG end_char="150" id="VOA_EN_NW_2017_03_30_3789250_0-0" start_char="0">
+				<ORIGINAL_TEXT>A federal policeman looks towards IS positions during fighting at the front line near the old city, on the western side of Mosul, Iraq, March 29, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="0" id="token-0-0" start_char="0">A</TOKEN>
+				<TOKEN end_char="8" id="token-0-1" start_char="2">federal</TOKEN>
+				<TOKEN end_char="18" id="token-0-2" start_char="10">policeman</TOKEN>
+				<TOKEN end_char="24" id="token-0-3" start_char="20">looks</TOKEN>
+				<TOKEN end_char="32" id="token-0-4" start_char="26">towards</TOKEN>
+				<TOKEN end_char="35" id="token-0-5" start_char="34">IS</TOKEN>
+				<TOKEN end_char="45" id="token-0-6" start_char="37">positions</TOKEN>
+				<TOKEN end_char="52" id="token-0-7" start_char="47">during</TOKEN>
+				<TOKEN end_char="61" id="token-0-8" start_char="54">fighting</TOKEN>
+				<TOKEN end_char="64" id="token-0-9" start_char="63">at</TOKEN>
+				<TOKEN end_char="68" id="token-0-10" start_char="66">the</TOKEN>
+				<TOKEN end_char="74" id="token-0-11" start_char="70">front</TOKEN>
+				<TOKEN end_char="79" id="token-0-12" start_char="76">line</TOKEN>
+				<TOKEN end_char="84" id="token-0-13" start_char="81">near</TOKEN>
+				<TOKEN end_char="88" id="token-0-14" start_char="86">the</TOKEN>
+				<TOKEN end_char="92" id="token-0-15" start_char="90">old</TOKEN>
+				<TOKEN end_char="97" id="token-0-16" start_char="94">city</TOKEN>
+				<TOKEN end_char="98" id="token-0-17" start_char="98">,</TOKEN>
+				<TOKEN end_char="101" id="token-0-18" start_char="100">on</TOKEN>
+				<TOKEN end_char="105" id="token-0-19" start_char="103">the</TOKEN>
+				<TOKEN end_char="113" id="token-0-20" start_char="107">western</TOKEN>
+				<TOKEN end_char="118" id="token-0-21" start_char="115">side</TOKEN>
+				<TOKEN end_char="121" id="token-0-22" start_char="120">of</TOKEN>
+				<TOKEN end_char="127" id="token-0-23" start_char="123">Mosul</TOKEN>
+				<TOKEN end_char="128" id="token-0-24" start_char="128">,</TOKEN>
+				<TOKEN end_char="133" id="token-0-25" start_char="130">Iraq</TOKEN>
+				<TOKEN end_char="134" id="token-0-26" start_char="134">,</TOKEN>
+				<TOKEN end_char="140" id="token-0-27" start_char="136">March</TOKEN>
+				<TOKEN end_char="143" id="token-0-28" start_char="142">29</TOKEN>
+				<TOKEN end_char="144" id="token-0-29" start_char="144">,</TOKEN>
+				<TOKEN end_char="149" id="token-0-30" start_char="146">2017</TOKEN>
+				<TOKEN end_char="150" id="token-0-31" start_char="150">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

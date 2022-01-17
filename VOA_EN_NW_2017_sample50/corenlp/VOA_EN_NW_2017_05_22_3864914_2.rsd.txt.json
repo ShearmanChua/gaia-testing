@@ -1,0 +1,334 @@
+{
+  "docId": "VOA_EN_NW_2017_05_22_3864914_2.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 4,
+          "tokenBegin": 2,
+          "tokenEnd": 4,
+          "text": "Pope Francis",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 19,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 12,
+          "tokenBegin": 11,
+          "tokenEnd": 12,
+          "text": "Mexico",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 71,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 13,
+          "docTokenEnd": 14,
+          "tokenBegin": 13,
+          "tokenEnd": 14,
+          "text": "Italy",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 80,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 20,
+          "tokenBegin": 16,
+          "tokenEnd": 20,
+          "text": "Feb. 18, 2016",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 98,
+          "ner": "DATE",
+          "normalizedNER": "2016-02-18",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-02-18"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Pope",
+          "originalText": "Pope",
+          "lemma": "Pope",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 11,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Francis",
+          "originalText": "Francis",
+          "lemma": "Francis",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 19,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "speaks",
+          "originalText": "speaks",
+          "lemma": "speak",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 26,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 27,
+          "characterOffsetEnd": 29,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "journalists",
+          "originalText": "journalists",
+          "lemma": "journalist",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 41,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "aboard",
+          "originalText": "aboard",
+          "lemma": "aboard",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 48,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 52,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "flight",
+          "originalText": "flight",
+          "lemma": "flight",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 59,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "from",
+          "originalText": "from",
+          "lemma": "from",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 64,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Mexico",
+          "originalText": "Mexico",
+          "lemma": "Mexico",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 71,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 72,
+          "characterOffsetEnd": 74,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Italy",
+          "originalText": "Italy",
+          "lemma": "Italy",
+          "characterOffsetBegin": 75,
+          "characterOffsetEnd": 80,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 80,
+          "characterOffsetEnd": 81,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "on",
+          "originalText": "on",
+          "lemma": "on",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 84,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Feb.",
+          "originalText": "Feb.",
+          "lemma": "Feb.",
+          "characterOffsetBegin": 85,
+          "characterOffsetEnd": 89,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2016-02-18",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-02-18"
+          }
+        },
+        {
+          "index": 18,
+          "word": "18",
+          "originalText": "18",
+          "lemma": "18",
+          "characterOffsetBegin": 90,
+          "characterOffsetEnd": 92,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2016-02-18",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-02-18"
+          }
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 92,
+          "characterOffsetEnd": 93,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2016-02-18",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-02-18"
+          }
+        },
+        {
+          "index": 20,
+          "word": "2016",
+          "originalText": "2016",
+          "lemma": "2016",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 98,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2016-02-18",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2016-02-18"
+          }
+        },
+        {
+          "index": 21,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 99,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

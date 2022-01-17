@@ -1,0 +1,22 @@
+1	FILE	file	PROPN	NNP	Number=Sing	16	nsubj	_	VOA_EN_NW_2017_03_27_3783363_1:0-3
+2	-	-	PUNCT	,	_	1	punct	_	VOA_EN_NW_2017_03_27_3783363_1:5-5
+3	Russia	Russia	PROPN	NNP	Number=Sing	6	nmod:poss	_	VOA_EN_NW_2017_03_27_3783363_1:7-12
+4	'	'	PART	POS	_	3	case	_	VOA_EN_NW_2017_03_27_3783363_1:13-13
+5	s	's	PART	POS	_	3	case	_	VOA_EN_NW_2017_03_27_3783363_1:14-14
+6	ambassador	ambassador	NOUN	NN	Number=Sing	1	appos	_	VOA_EN_NW_2017_03_27_3783363_1:16-25
+7	to	to	ADP	IN	_	9	case	_	VOA_EN_NW_2017_03_27_3783363_1:27-28
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	VOA_EN_NW_2017_03_27_3783363_1:30-32
+9	U	u	PROPN	NNP	Number=Sing	6	nmod	_	VOA_EN_NW_2017_03_27_3783363_1:34-34
+10	.	.	PUNCT	.	_	1	punct	_	VOA_EN_NW_2017_03_27_3783363_1:35-35
+11	S	S	PROPN	NNP	Number=Sing	1	flat	_	VOA_EN_NW_2017_03_27_3783363_1:36-36
+12	.	.	PUNCT	.	_	1	punct	_	VOA_EN_NW_2017_03_27_3783363_1:37-37
+13	Sergey	Sergey	PROPN	NNP	Number=Sing	1	appos	_	VOA_EN_NW_2017_03_27_3783363_1:39-44
+14	Kislyak	Kislyak	PROPN	NNP	Number=Sing	13	flat	_	VOA_EN_NW_2017_03_27_3783363_1:46-52
+15	,	,	PUNCT	,	_	1	punct	_	VOA_EN_NW_2017_03_27_3783363_1:53-53
+16	speaks	speak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	VOA_EN_NW_2017_03_27_3783363_1:55-60
+17	with	with	ADP	IN	_	18	case	_	VOA_EN_NW_2017_03_27_3783363_1:62-65
+18	reporters	reporter	NOUN	NNS	Number=Plur	16	obl	_	VOA_EN_NW_2017_03_27_3783363_1:67-75
+19	in	in	ADP	IN	_	20	case	_	VOA_EN_NW_2017_03_27_3783363_1:77-78
+20	Washington	Washington	PROPN	NNP	Number=Sing	18	nmod	_	VOA_EN_NW_2017_03_27_3783363_1:80-89
+21	.	.	PUNCT	.	_	16	punct	_	VOA_EN_NW_2017_03_27_3783363_1:90-90
+

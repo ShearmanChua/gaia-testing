@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_28_3785249_2">
+		<TEXT>
+			<SEG end_char="68" id="VOA_EN_NW_2017_03_28_3785249_2-0" start_char="0">
+				<ORIGINAL_TEXT>Participants in teachers strike in Yaounde, Cameroon, March 27, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="11" id="token-0-0" start_char="0">Participants</TOKEN>
+				<TOKEN end_char="14" id="token-0-1" start_char="13">in</TOKEN>
+				<TOKEN end_char="23" id="token-0-2" start_char="16">teachers</TOKEN>
+				<TOKEN end_char="30" id="token-0-3" start_char="25">strike</TOKEN>
+				<TOKEN end_char="33" id="token-0-4" start_char="32">in</TOKEN>
+				<TOKEN end_char="41" id="token-0-5" start_char="35">Yaounde</TOKEN>
+				<TOKEN end_char="42" id="token-0-6" start_char="42">,</TOKEN>
+				<TOKEN end_char="51" id="token-0-7" start_char="44">Cameroon</TOKEN>
+				<TOKEN end_char="52" id="token-0-8" start_char="52">,</TOKEN>
+				<TOKEN end_char="58" id="token-0-9" start_char="54">March</TOKEN>
+				<TOKEN end_char="61" id="token-0-10" start_char="60">27</TOKEN>
+				<TOKEN end_char="62" id="token-0-11" start_char="62">,</TOKEN>
+				<TOKEN end_char="67" id="token-0-12" start_char="64">2017</TOKEN>
+				<TOKEN end_char="68" id="token-0-13" start_char="68">.</TOKEN>
+			</SEG>
+			<SEG end_char="105" id="VOA_EN_NW_2017_03_28_3785249_2-1" start_char="70">
+				<ORIGINAL_TEXT>(Photo: Moki Edwin Kindzeka for VOA)</ORIGINAL_TEXT>
+				<TOKEN end_char="70" id="token-1-0" start_char="70">(</TOKEN>
+				<TOKEN end_char="75" id="token-1-1" start_char="71">Photo</TOKEN>
+				<TOKEN end_char="76" id="token-1-2" start_char="76">:</TOKEN>
+				<TOKEN end_char="81" id="token-1-3" start_char="78">Moki</TOKEN>
+				<TOKEN end_char="87" id="token-1-4" start_char="83">Edwin</TOKEN>
+				<TOKEN end_char="96" id="token-1-5" start_char="89">Kindzeka</TOKEN>
+				<TOKEN end_char="100" id="token-1-6" start_char="98">for</TOKEN>
+				<TOKEN end_char="104" id="token-1-7" start_char="102">VOA</TOKEN>
+				<TOKEN end_char="105" id="token-1-8" start_char="105">)</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_29_3921750_0">
+		<TEXT>
+			<SEG end_char="145" id="VOA_EN_NW_2017_06_29_3921750_0-0" start_char="0">
+				<ORIGINAL_TEXT>Turkey's President and leader of ruling Justice and Development Party Recep Tayyip Erdogan addresses his party members in Istanbul, June 25, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="5" id="token-0-0" start_char="0">Turkey</TOKEN>
+				<TOKEN end_char="6" id="token-0-1" start_char="6">'</TOKEN>
+				<TOKEN end_char="7" id="token-0-2" start_char="7">s</TOKEN>
+				<TOKEN end_char="17" id="token-0-3" start_char="9">President</TOKEN>
+				<TOKEN end_char="21" id="token-0-4" start_char="19">and</TOKEN>
+				<TOKEN end_char="28" id="token-0-5" start_char="23">leader</TOKEN>
+				<TOKEN end_char="31" id="token-0-6" start_char="30">of</TOKEN>
+				<TOKEN end_char="38" id="token-0-7" start_char="33">ruling</TOKEN>
+				<TOKEN end_char="46" id="token-0-8" start_char="40">Justice</TOKEN>
+				<TOKEN end_char="50" id="token-0-9" start_char="48">and</TOKEN>
+				<TOKEN end_char="62" id="token-0-10" start_char="52">Development</TOKEN>
+				<TOKEN end_char="68" id="token-0-11" start_char="64">Party</TOKEN>
+				<TOKEN end_char="74" id="token-0-12" start_char="70">Recep</TOKEN>
+				<TOKEN end_char="81" id="token-0-13" start_char="76">Tayyip</TOKEN>
+				<TOKEN end_char="89" id="token-0-14" start_char="83">Erdogan</TOKEN>
+				<TOKEN end_char="99" id="token-0-15" start_char="91">addresses</TOKEN>
+				<TOKEN end_char="103" id="token-0-16" start_char="101">his</TOKEN>
+				<TOKEN end_char="109" id="token-0-17" start_char="105">party</TOKEN>
+				<TOKEN end_char="117" id="token-0-18" start_char="111">members</TOKEN>
+				<TOKEN end_char="120" id="token-0-19" start_char="119">in</TOKEN>
+				<TOKEN end_char="129" id="token-0-20" start_char="122">Istanbul</TOKEN>
+				<TOKEN end_char="130" id="token-0-21" start_char="130">,</TOKEN>
+				<TOKEN end_char="135" id="token-0-22" start_char="132">June</TOKEN>
+				<TOKEN end_char="138" id="token-0-23" start_char="137">25</TOKEN>
+				<TOKEN end_char="139" id="token-0-24" start_char="139">,</TOKEN>
+				<TOKEN end_char="144" id="token-0-25" start_char="141">2017</TOKEN>
+				<TOKEN end_char="145" id="token-0-26" start_char="145">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

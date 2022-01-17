@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_05_22_3864914_4">
+		<TEXT>
+			<SEG end_char="156" id="VOA_EN_NW_2017_05_22_3864914_4-0" start_char="0">
+				<ORIGINAL_TEXT>President Donald Trump delivers a speech to the Arab Islamic American Summit, at the King Abdulaziz Conference Center, May 21, 2017, in Riyadh, Saudi Arabia.</ORIGINAL_TEXT>
+				<TOKEN end_char="8" id="token-0-0" start_char="0">President</TOKEN>
+				<TOKEN end_char="15" id="token-0-1" start_char="10">Donald</TOKEN>
+				<TOKEN end_char="21" id="token-0-2" start_char="17">Trump</TOKEN>
+				<TOKEN end_char="30" id="token-0-3" start_char="23">delivers</TOKEN>
+				<TOKEN end_char="32" id="token-0-4" start_char="32">a</TOKEN>
+				<TOKEN end_char="39" id="token-0-5" start_char="34">speech</TOKEN>
+				<TOKEN end_char="42" id="token-0-6" start_char="41">to</TOKEN>
+				<TOKEN end_char="46" id="token-0-7" start_char="44">the</TOKEN>
+				<TOKEN end_char="51" id="token-0-8" start_char="48">Arab</TOKEN>
+				<TOKEN end_char="59" id="token-0-9" start_char="53">Islamic</TOKEN>
+				<TOKEN end_char="68" id="token-0-10" start_char="61">American</TOKEN>
+				<TOKEN end_char="75" id="token-0-11" start_char="70">Summit</TOKEN>
+				<TOKEN end_char="76" id="token-0-12" start_char="76">,</TOKEN>
+				<TOKEN end_char="79" id="token-0-13" start_char="78">at</TOKEN>
+				<TOKEN end_char="83" id="token-0-14" start_char="81">the</TOKEN>
+				<TOKEN end_char="88" id="token-0-15" start_char="85">King</TOKEN>
+				<TOKEN end_char="98" id="token-0-16" start_char="90">Abdulaziz</TOKEN>
+				<TOKEN end_char="109" id="token-0-17" start_char="100">Conference</TOKEN>
+				<TOKEN end_char="116" id="token-0-18" start_char="111">Center</TOKEN>
+				<TOKEN end_char="117" id="token-0-19" start_char="117">,</TOKEN>
+				<TOKEN end_char="121" id="token-0-20" start_char="119">May</TOKEN>
+				<TOKEN end_char="124" id="token-0-21" start_char="123">21</TOKEN>
+				<TOKEN end_char="125" id="token-0-22" start_char="125">,</TOKEN>
+				<TOKEN end_char="130" id="token-0-23" start_char="127">2017</TOKEN>
+				<TOKEN end_char="131" id="token-0-24" start_char="131">,</TOKEN>
+				<TOKEN end_char="134" id="token-0-25" start_char="133">in</TOKEN>
+				<TOKEN end_char="141" id="token-0-26" start_char="136">Riyadh</TOKEN>
+				<TOKEN end_char="142" id="token-0-27" start_char="142">,</TOKEN>
+				<TOKEN end_char="148" id="token-0-28" start_char="144">Saudi</TOKEN>
+				<TOKEN end_char="155" id="token-0-29" start_char="150">Arabia</TOKEN>
+				<TOKEN end_char="156" id="token-0-30" start_char="156">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

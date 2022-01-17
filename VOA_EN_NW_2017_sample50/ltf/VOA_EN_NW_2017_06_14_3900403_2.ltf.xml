@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_06_14_3900403_2">
+		<TEXT>
+			<SEG end_char="164" id="VOA_EN_NW_2017_06_14_3900403_2-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - In this January, 2015 photo, Hakainde Hichilema, of the Zambia opposition United Party for National Development addresses an election rally in Lusaka, Zambia.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="8" id="token-0-2" start_char="7">In</TOKEN>
+				<TOKEN end_char="13" id="token-0-3" start_char="10">this</TOKEN>
+				<TOKEN end_char="21" id="token-0-4" start_char="15">January</TOKEN>
+				<TOKEN end_char="22" id="token-0-5" start_char="22">,</TOKEN>
+				<TOKEN end_char="27" id="token-0-6" start_char="24">2015</TOKEN>
+				<TOKEN end_char="33" id="token-0-7" start_char="29">photo</TOKEN>
+				<TOKEN end_char="34" id="token-0-8" start_char="34">,</TOKEN>
+				<TOKEN end_char="43" id="token-0-9" start_char="36">Hakainde</TOKEN>
+				<TOKEN end_char="53" id="token-0-10" start_char="45">Hichilema</TOKEN>
+				<TOKEN end_char="54" id="token-0-11" start_char="54">,</TOKEN>
+				<TOKEN end_char="57" id="token-0-12" start_char="56">of</TOKEN>
+				<TOKEN end_char="61" id="token-0-13" start_char="59">the</TOKEN>
+				<TOKEN end_char="68" id="token-0-14" start_char="63">Zambia</TOKEN>
+				<TOKEN end_char="79" id="token-0-15" start_char="70">opposition</TOKEN>
+				<TOKEN end_char="86" id="token-0-16" start_char="81">United</TOKEN>
+				<TOKEN end_char="92" id="token-0-17" start_char="88">Party</TOKEN>
+				<TOKEN end_char="96" id="token-0-18" start_char="94">for</TOKEN>
+				<TOKEN end_char="105" id="token-0-19" start_char="98">National</TOKEN>
+				<TOKEN end_char="117" id="token-0-20" start_char="107">Development</TOKEN>
+				<TOKEN end_char="127" id="token-0-21" start_char="119">addresses</TOKEN>
+				<TOKEN end_char="130" id="token-0-22" start_char="129">an</TOKEN>
+				<TOKEN end_char="139" id="token-0-23" start_char="132">election</TOKEN>
+				<TOKEN end_char="145" id="token-0-24" start_char="141">rally</TOKEN>
+				<TOKEN end_char="148" id="token-0-25" start_char="147">in</TOKEN>
+				<TOKEN end_char="155" id="token-0-26" start_char="150">Lusaka</TOKEN>
+				<TOKEN end_char="156" id="token-0-27" start_char="156">,</TOKEN>
+				<TOKEN end_char="163" id="token-0-28" start_char="158">Zambia</TOKEN>
+				<TOKEN end_char="164" id="token-0-29" start_char="164">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

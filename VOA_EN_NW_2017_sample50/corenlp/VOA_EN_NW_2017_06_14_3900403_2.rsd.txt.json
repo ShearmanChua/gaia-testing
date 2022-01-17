@@ -1,0 +1,462 @@
+{
+  "docId": "VOA_EN_NW_2017_06_14_3900403_2.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 3,
+          "docTokenEnd": 7,
+          "tokenBegin": 3,
+          "tokenEnd": 7,
+          "text": "this January, 2015",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 28,
+          "ner": "DATE",
+          "normalizedNER": "THIS XXXX-01 INTERSECT 2015",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "altValue": "THIS XXXX-01 INTERSECT 2015"
+          }
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 11,
+          "tokenBegin": 9,
+          "tokenEnd": 11,
+          "text": "Hakainde Hichilema",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 54,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 14,
+          "docTokenEnd": 15,
+          "tokenBegin": 14,
+          "tokenEnd": 15,
+          "text": "Zambia",
+          "characterOffsetBegin": 63,
+          "characterOffsetEnd": 69,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 21,
+          "tokenBegin": 16,
+          "tokenEnd": 21,
+          "text": "United Party for National Development",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 118,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 26,
+          "docTokenEnd": 27,
+          "tokenBegin": 26,
+          "tokenEnd": 27,
+          "text": "Lusaka",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 156,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 28,
+          "docTokenEnd": 29,
+          "tokenBegin": 28,
+          "tokenEnd": 29,
+          "text": "Zambia",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 164,
+          "ner": "COUNTRY"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "FILE",
+          "originalText": "FILE",
+          "lemma": "file",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "SYM",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "-",
+          "originalText": "-",
+          "lemma": "-",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 6,
+          "pos": ":",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "In",
+          "originalText": "In",
+          "lemma": "in",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 9,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "this",
+          "originalText": "this",
+          "lemma": "this",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 14,
+          "pos": "DT",
+          "ner": "DATE",
+          "normalizedNER": "THIS XXXX-01 INTERSECT 2015",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "altValue": "THIS XXXX-01 INTERSECT 2015"
+          }
+        },
+        {
+          "index": 5,
+          "word": "January",
+          "originalText": "January",
+          "lemma": "January",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 22,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "THIS XXXX-01 INTERSECT 2015",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "altValue": "THIS XXXX-01 INTERSECT 2015"
+          }
+        },
+        {
+          "index": 6,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 22,
+          "characterOffsetEnd": 23,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "THIS XXXX-01 INTERSECT 2015",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "altValue": "THIS XXXX-01 INTERSECT 2015"
+          }
+        },
+        {
+          "index": 7,
+          "word": "2015",
+          "originalText": "2015",
+          "lemma": "2015",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 28,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "THIS XXXX-01 INTERSECT 2015",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "altValue": "THIS XXXX-01 INTERSECT 2015"
+          }
+        },
+        {
+          "index": 8,
+          "word": "photo",
+          "originalText": "photo",
+          "lemma": "photo",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 34,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 9,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 35,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Hakainde",
+          "originalText": "Hakainde",
+          "lemma": "Hakainde",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 44,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "Hichilema",
+          "originalText": "Hichilema",
+          "lemma": "Hichilema",
+          "characterOffsetBegin": 45,
+          "characterOffsetEnd": 54,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 12,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 54,
+          "characterOffsetEnd": 55,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 56,
+          "characterOffsetEnd": 58,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 62,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "Zambia",
+          "originalText": "Zambia",
+          "lemma": "Zambia",
+          "characterOffsetBegin": 63,
+          "characterOffsetEnd": 69,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "opposition",
+          "originalText": "opposition",
+          "lemma": "opposition",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 80,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "United",
+          "originalText": "United",
+          "lemma": "United",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 87,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Party",
+          "originalText": "Party",
+          "lemma": "Party",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 93,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "for",
+          "originalText": "for",
+          "lemma": "for",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 97,
+          "pos": "IN",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "National",
+          "originalText": "National",
+          "lemma": "National",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 106,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Development",
+          "originalText": "Development",
+          "lemma": "Development",
+          "characterOffsetBegin": 107,
+          "characterOffsetEnd": 118,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "addresses",
+          "originalText": "addresses",
+          "lemma": "address",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 128,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "an",
+          "originalText": "an",
+          "lemma": "a",
+          "characterOffsetBegin": 129,
+          "characterOffsetEnd": 131,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 24,
+          "word": "election",
+          "originalText": "election",
+          "lemma": "election",
+          "characterOffsetBegin": 132,
+          "characterOffsetEnd": 140,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "rally",
+          "originalText": "rally",
+          "lemma": "rally",
+          "characterOffsetBegin": 141,
+          "characterOffsetEnd": 146,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 26,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 147,
+          "characterOffsetEnd": 149,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 27,
+          "word": "Lusaka",
+          "originalText": "Lusaka",
+          "lemma": "Lusaka",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 156,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 28,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 156,
+          "characterOffsetEnd": 157,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 29,
+          "word": "Zambia",
+          "originalText": "Zambia",
+          "lemma": "Zambia",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 164,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 30,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 164,
+          "characterOffsetEnd": 165,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

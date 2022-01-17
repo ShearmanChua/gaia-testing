@@ -1,0 +1,392 @@
+{
+  "docId": "VOA_EN_NW_2017_01_16_3678023_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 6,
+          "tokenBegin": 4,
+          "tokenEnd": 6,
+          "text": "Samsung Electronics",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 39,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 10,
+          "docTokenEnd": 12,
+          "tokenBegin": 10,
+          "tokenEnd": 12,
+          "text": "South Korean",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 73,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "Seoul",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 96,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 19,
+          "tokenBegin": 17,
+          "tokenEnd": 19,
+          "text": "South Korea",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 109,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 20,
+          "docTokenEnd": 24,
+          "tokenBegin": 20,
+          "tokenEnd": 24,
+          "text": "Jan. 16, 2017",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 124,
+          "ner": "DATE",
+          "normalizedNER": "2017-01-16",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-01-16"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "lemma": "the",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3,
+          "pos": "DT",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "company",
+          "originalText": "company",
+          "lemma": "company",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 11,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "flag",
+          "originalText": "flag",
+          "lemma": "flag",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 16,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 17,
+          "characterOffsetEnd": 19,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Samsung",
+          "originalText": "Samsung",
+          "lemma": "Samsung",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 27,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Electronics",
+          "originalText": "Electronics",
+          "lemma": "Electronics",
+          "characterOffsetBegin": 28,
+          "characterOffsetEnd": 39,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "flutters",
+          "originalText": "flutters",
+          "lemma": "flutter",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 48,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "next",
+          "originalText": "next",
+          "lemma": "next",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 53,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 54,
+          "characterOffsetEnd": 56,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 57,
+          "characterOffsetEnd": 60,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "South",
+          "originalText": "South",
+          "lemma": "south",
+          "characterOffsetBegin": 61,
+          "characterOffsetEnd": 66,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Korean",
+          "originalText": "Korean",
+          "lemma": "korean",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 73,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "national",
+          "originalText": "national",
+          "lemma": "national",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 82,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "flag",
+          "originalText": "flag",
+          "lemma": "flag",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 87,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 88,
+          "characterOffsetEnd": 90,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Seoul",
+          "originalText": "Seoul",
+          "lemma": "Seoul",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 96,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 97,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "South",
+          "originalText": "South",
+          "lemma": "South",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 103,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Korea",
+          "originalText": "Korea",
+          "lemma": "Korea",
+          "characterOffsetBegin": 104,
+          "characterOffsetEnd": 109,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 110,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "Jan.",
+          "originalText": "Jan.",
+          "lemma": "Jan.",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 115,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-01-16",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-01-16"
+          }
+        },
+        {
+          "index": 22,
+          "word": "16",
+          "originalText": "16",
+          "lemma": "16",
+          "characterOffsetBegin": 116,
+          "characterOffsetEnd": 118,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-01-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-01-16"
+          }
+        },
+        {
+          "index": 23,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 118,
+          "characterOffsetEnd": 119,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-01-16",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-01-16"
+          }
+        },
+        {
+          "index": 24,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 120,
+          "characterOffsetEnd": 124,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-01-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-01-16"
+          }
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 124,
+          "characterOffsetEnd": 125,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

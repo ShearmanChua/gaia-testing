@@ -1,0 +1,559 @@
+{
+  "docId": "VOA_EN_NW_2017_04_03_3794587_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Venezuelan",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 10,
+          "ner": "NATIONALITY"
+        },
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 2,
+          "tokenBegin": 1,
+          "tokenEnd": 2,
+          "text": "President",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 20,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 4,
+          "tokenBegin": 2,
+          "tokenEnd": 4,
+          "text": "Nicolas Maduro",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 35,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 9,
+          "docTokenEnd": 11,
+          "tokenBegin": 9,
+          "tokenEnd": 11,
+          "text": "Attorney General",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 67,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 11,
+          "docTokenEnd": 14,
+          "tokenBegin": 11,
+          "tokenEnd": 14,
+          "text": "Luisa Ortega Diaz",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 85,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 19,
+          "tokenBegin": 18,
+          "tokenEnd": 19,
+          "text": "Miraflores",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 116,
+          "ner": "LOCATION"
+        },
+        {
+          "docTokenBegin": 22,
+          "docTokenEnd": 23,
+          "tokenBegin": 22,
+          "tokenEnd": 23,
+          "text": "Caracas",
+          "characterOffsetBegin": 140,
+          "characterOffsetEnd": 147,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 24,
+          "docTokenEnd": 28,
+          "tokenBegin": 24,
+          "tokenEnd": 28,
+          "text": "April 1, 2017",
+          "characterOffsetBegin": 149,
+          "characterOffsetEnd": 162,
+          "ner": "DATE",
+          "normalizedNER": "2017-04-01",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-01"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Venezuelan",
+          "originalText": "Venezuelan",
+          "lemma": "venezuelan",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 10,
+          "pos": "JJ",
+          "ner": "NATIONALITY",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "President",
+          "originalText": "President",
+          "lemma": "President",
+          "characterOffsetBegin": 11,
+          "characterOffsetEnd": 20,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "Nicolas",
+          "originalText": "Nicolas",
+          "lemma": "Nicolas",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 28,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Maduro",
+          "originalText": "Maduro",
+          "lemma": "Maduro",
+          "characterOffsetBegin": 29,
+          "characterOffsetEnd": 35,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "-LRB-",
+          "originalText": "(",
+          "lemma": "-lrb-",
+          "characterOffsetBegin": 36,
+          "characterOffsetEnd": 37,
+          "pos": "-LRB-",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": "R",
+          "originalText": "R",
+          "lemma": "R",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 38,
+          "pos": "NNP",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 7,
+          "word": "-RRB-",
+          "originalText": ")",
+          "lemma": "-rrb-",
+          "characterOffsetBegin": 38,
+          "characterOffsetEnd": 39,
+          "pos": "-RRB-",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "talks",
+          "originalText": "talks",
+          "lemma": "talk",
+          "characterOffsetBegin": 40,
+          "characterOffsetEnd": 45,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "with",
+          "originalText": "with",
+          "lemma": "with",
+          "characterOffsetBegin": 46,
+          "characterOffsetEnd": 50,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "Attorney",
+          "originalText": "Attorney",
+          "lemma": "Attorney",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 59,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "General",
+          "originalText": "General",
+          "lemma": "General",
+          "characterOffsetBegin": 60,
+          "characterOffsetEnd": 67,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "Luisa",
+          "originalText": "Luisa",
+          "lemma": "Luisa",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 73,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "Ortega",
+          "originalText": "Ortega",
+          "lemma": "Ortega",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 80,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "Diaz",
+          "originalText": "Diaz",
+          "lemma": "Diaz",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 85,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "during",
+          "originalText": "during",
+          "lemma": "during",
+          "characterOffsetBegin": 86,
+          "characterOffsetEnd": 92,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 94,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "meeting",
+          "originalText": "meeting",
+          "lemma": "meeting",
+          "characterOffsetBegin": 95,
+          "characterOffsetEnd": 102,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 103,
+          "characterOffsetEnd": 105,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "Miraflores",
+          "originalText": "Miraflores",
+          "lemma": "Miraflores",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 116,
+          "pos": "NNP",
+          "ner": "LOCATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "presidential",
+          "originalText": "presidential",
+          "lemma": "presidential",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 129,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 21,
+          "word": "palace",
+          "originalText": "palace",
+          "lemma": "palace",
+          "characterOffsetBegin": 130,
+          "characterOffsetEnd": 136,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 22,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 137,
+          "characterOffsetEnd": 139,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 23,
+          "word": "Caracas",
+          "originalText": "Caracas",
+          "lemma": "Caracas",
+          "characterOffsetBegin": 140,
+          "characterOffsetEnd": 147,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 24,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 147,
+          "characterOffsetEnd": 148,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 25,
+          "word": "April",
+          "originalText": "April",
+          "lemma": "April",
+          "characterOffsetBegin": 149,
+          "characterOffsetEnd": 154,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-01",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-01"
+          }
+        },
+        {
+          "index": 26,
+          "word": "1",
+          "originalText": "1",
+          "lemma": "1",
+          "characterOffsetBegin": 155,
+          "characterOffsetEnd": 156,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-01",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-01"
+          }
+        },
+        {
+          "index": 27,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 156,
+          "characterOffsetEnd": 157,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-01",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-01"
+          }
+        },
+        {
+          "index": 28,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 162,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-04-01",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-04-01"
+          }
+        },
+        {
+          "index": 29,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 162,
+          "characterOffsetEnd": 163,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 32,
+          "docTokenEnd": 33,
+          "tokenBegin": 3,
+          "tokenEnd": 4,
+          "text": "Venezuela",
+          "characterOffsetBegin": 180,
+          "characterOffsetEnd": 189,
+          "ner": "COUNTRY"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "-LRB-",
+          "originalText": "(",
+          "lemma": "-lrb-",
+          "characterOffsetBegin": 164,
+          "characterOffsetEnd": 165,
+          "pos": "-LRB-",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": "Presidencia",
+          "originalText": "Presidencia",
+          "lemma": "Presidencia",
+          "characterOffsetBegin": 165,
+          "characterOffsetEnd": 176,
+          "pos": "NNP",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "de",
+          "originalText": "de",
+          "lemma": "de",
+          "characterOffsetBegin": 177,
+          "characterOffsetEnd": 179,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Venezuela",
+          "originalText": "Venezuela",
+          "lemma": "Venezuela",
+          "characterOffsetBegin": 180,
+          "characterOffsetEnd": 189,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Handout",
+          "originalText": "Handout",
+          "lemma": "Handout",
+          "characterOffsetBegin": 190,
+          "characterOffsetEnd": 197,
+          "pos": "NNP",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 6,
+          "word": "-RRB-",
+          "originalText": ")",
+          "lemma": "-rrb-",
+          "characterOffsetBegin": 197,
+          "characterOffsetEnd": 198,
+          "pos": "-RRB-",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

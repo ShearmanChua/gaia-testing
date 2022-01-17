@@ -1,0 +1,378 @@
+{
+  "docId": "VOA_EN_NW_2017_03_12_3761985_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 2,
+          "tokenBegin": 0,
+          "tokenEnd": 2,
+          "text": "White House",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 11,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 5,
+          "tokenBegin": 2,
+          "tokenEnd": 5,
+          "text": "deputy press secretary",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 34,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 8,
+          "tokenBegin": 5,
+          "tokenEnd": 8,
+          "text": "Sarah Huckabee Sanders",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 57,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 13,
+          "docTokenEnd": 15,
+          "tokenBegin": 13,
+          "tokenEnd": 15,
+          "text": "White House",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 92,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 16,
+          "docTokenEnd": 17,
+          "tokenBegin": 16,
+          "tokenEnd": 17,
+          "text": "Washington",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 106,
+          "ner": "STATE_OR_PROVINCE"
+        },
+        {
+          "docTokenBegin": 18,
+          "docTokenEnd": 22,
+          "tokenBegin": 18,
+          "tokenEnd": 22,
+          "text": "March 8, 2017",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 121,
+          "ner": "DATE",
+          "normalizedNER": "2017-03-08",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-08"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "White",
+          "originalText": "White",
+          "lemma": "White",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 5,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "House",
+          "originalText": "House",
+          "lemma": "House",
+          "characterOffsetBegin": 6,
+          "characterOffsetEnd": 11,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "deputy",
+          "originalText": "deputy",
+          "lemma": "deputy",
+          "characterOffsetBegin": 12,
+          "characterOffsetEnd": 18,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "press",
+          "originalText": "press",
+          "lemma": "press",
+          "characterOffsetBegin": 19,
+          "characterOffsetEnd": 24,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "secretary",
+          "originalText": "secretary",
+          "lemma": "secretary",
+          "characterOffsetBegin": 25,
+          "characterOffsetEnd": 34,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Sarah",
+          "originalText": "Sarah",
+          "lemma": "Sarah",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 40,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Huckabee",
+          "originalText": "Huckabee",
+          "lemma": "Huckabee",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 49,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "Sanders",
+          "originalText": "Sanders",
+          "lemma": "Sanders",
+          "characterOffsetBegin": 50,
+          "characterOffsetEnd": 57,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "stands",
+          "originalText": "stands",
+          "lemma": "stand",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 64,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 65,
+          "characterOffsetEnd": 67,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "front",
+          "originalText": "front",
+          "lemma": "front",
+          "characterOffsetBegin": 68,
+          "characterOffsetEnd": 73,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 76,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 77,
+          "characterOffsetEnd": 80,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "White",
+          "originalText": "White",
+          "lemma": "White",
+          "characterOffsetBegin": 81,
+          "characterOffsetEnd": 86,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "House",
+          "originalText": "House",
+          "lemma": "House",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 92,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 93,
+          "characterOffsetEnd": 95,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 17,
+          "word": "Washington",
+          "originalText": "Washington",
+          "lemma": "Washington",
+          "characterOffsetBegin": 96,
+          "characterOffsetEnd": 106,
+          "pos": "NNP",
+          "ner": "STATE_OR_PROVINCE",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 18,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 106,
+          "characterOffsetEnd": 107,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 19,
+          "word": "March",
+          "originalText": "March",
+          "lemma": "March",
+          "characterOffsetBegin": 108,
+          "characterOffsetEnd": 113,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-08",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-08"
+          }
+        },
+        {
+          "index": 20,
+          "word": "8",
+          "originalText": "8",
+          "lemma": "8",
+          "characterOffsetBegin": 114,
+          "characterOffsetEnd": 115,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-08",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-08"
+          }
+        },
+        {
+          "index": 21,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 116,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-08",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-08"
+          }
+        },
+        {
+          "index": 22,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 121,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-03-08",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-03-08"
+          }
+        },
+        {
+          "index": 23,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 122,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

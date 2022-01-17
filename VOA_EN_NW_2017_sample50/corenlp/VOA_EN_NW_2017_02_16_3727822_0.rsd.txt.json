@@ -1,0 +1,573 @@
+{
+  "docId": "VOA_EN_NW_2017_02_16_3727822_0.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "U.S.",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 4,
+          "tokenBegin": 1,
+          "tokenEnd": 4,
+          "text": "Secretary of Defense",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 25,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 6,
+          "tokenBegin": 4,
+          "tokenEnd": 6,
+          "text": "Jim Mattis",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 36,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 12,
+          "docTokenEnd": 13,
+          "tokenBegin": 12,
+          "tokenEnd": 13,
+          "text": "NATO",
+          "characterOffsetBegin": 73,
+          "characterOffsetEnd": 77,
+          "ner": "ORGANIZATION"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "Brussels",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 102,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 21,
+          "tokenBegin": 17,
+          "tokenEnd": 21,
+          "text": "Feb. 16, 2017",
+          "characterOffsetBegin": 104,
+          "characterOffsetEnd": 117,
+          "ner": "DATE",
+          "normalizedNER": "2017-02-16",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-02-16"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "U.S.",
+          "originalText": "U.S.",
+          "lemma": "U.S.",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 4,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "Secretary",
+          "originalText": "Secretary",
+          "lemma": "Secretary",
+          "characterOffsetBegin": 5,
+          "characterOffsetEnd": 14,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 15,
+          "characterOffsetEnd": 17,
+          "pos": "IN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "Defense",
+          "originalText": "Defense",
+          "lemma": "Defense",
+          "characterOffsetBegin": 18,
+          "characterOffsetEnd": 25,
+          "pos": "NNP",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "Jim",
+          "originalText": "Jim",
+          "lemma": "Jim",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 29,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Mattis",
+          "originalText": "Mattis",
+          "lemma": "Mattis",
+          "characterOffsetBegin": 30,
+          "characterOffsetEnd": 36,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "speaks",
+          "originalText": "speaks",
+          "lemma": "speak",
+          "characterOffsetBegin": 37,
+          "characterOffsetEnd": 43,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "during",
+          "originalText": "during",
+          "lemma": "during",
+          "characterOffsetBegin": 44,
+          "characterOffsetEnd": 50,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 51,
+          "characterOffsetEnd": 52,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "media",
+          "originalText": "media",
+          "lemma": "media",
+          "characterOffsetBegin": 53,
+          "characterOffsetEnd": 58,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "conference",
+          "originalText": "conference",
+          "lemma": "conference",
+          "characterOffsetBegin": 59,
+          "characterOffsetEnd": 69,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "at",
+          "originalText": "at",
+          "lemma": "at",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 72,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "NATO",
+          "originalText": "NATO",
+          "lemma": "NATO",
+          "characterOffsetBegin": 73,
+          "characterOffsetEnd": 77,
+          "pos": "NNP",
+          "ner": "ORGANIZATION",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "headquarters",
+          "originalText": "headquarters",
+          "lemma": "headquarters",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 90,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 91,
+          "characterOffsetEnd": 93,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Brussels",
+          "originalText": "Brussels",
+          "lemma": "Brussels",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 102,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 103,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Feb.",
+          "originalText": "Feb.",
+          "lemma": "Feb.",
+          "characterOffsetBegin": 104,
+          "characterOffsetEnd": 108,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-02-16",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-02-16"
+          }
+        },
+        {
+          "index": 19,
+          "word": "16",
+          "originalText": "16",
+          "lemma": "16",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 111,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-02-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-02-16"
+          }
+        },
+        {
+          "index": 20,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 111,
+          "characterOffsetEnd": 112,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-02-16",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-02-16"
+          }
+        },
+        {
+          "index": 21,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 113,
+          "characterOffsetEnd": 117,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-02-16",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-02-16"
+          }
+        },
+        {
+          "index": 22,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 117,
+          "characterOffsetEnd": 118,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "entitymentions": [
+        {
+          "docTokenBegin": 26,
+          "docTokenEnd": 27,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "U.S.-Russian",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 150,
+          "ner": "MISC"
+        },
+        {
+          "docTokenBegin": 30,
+          "docTokenEnd": 31,
+          "tokenBegin": 8,
+          "tokenEnd": 9,
+          "text": "Mattis",
+          "characterOffsetBegin": 173,
+          "characterOffsetEnd": 179,
+          "ner": "PERSON"
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "On",
+          "originalText": "On",
+          "lemma": "on",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 121,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "the",
+          "originalText": "the",
+          "lemma": "the",
+          "characterOffsetBegin": 122,
+          "characterOffsetEnd": 125,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "prospect",
+          "originalText": "prospect",
+          "lemma": "prospect",
+          "characterOffsetBegin": 126,
+          "characterOffsetEnd": 134,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "of",
+          "originalText": "of",
+          "lemma": "of",
+          "characterOffsetBegin": 135,
+          "characterOffsetEnd": 137,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "U.S.-Russian",
+          "originalText": "U.S.-Russian",
+          "lemma": "u.s.-russian",
+          "characterOffsetBegin": 138,
+          "characterOffsetEnd": 150,
+          "pos": "JJ",
+          "ner": "MISC",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "military",
+          "originalText": "military",
+          "lemma": "military",
+          "characterOffsetBegin": 151,
+          "characterOffsetEnd": 159,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "cooperation",
+          "originalText": "cooperation",
+          "lemma": "cooperation",
+          "characterOffsetBegin": 160,
+          "characterOffsetEnd": 171,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 8,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 171,
+          "characterOffsetEnd": 172,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "Mattis",
+          "originalText": "Mattis",
+          "lemma": "Mattis",
+          "characterOffsetBegin": 173,
+          "characterOffsetEnd": 179,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "said",
+          "originalText": "said",
+          "lemma": "say",
+          "characterOffsetBegin": 180,
+          "characterOffsetEnd": 184,
+          "pos": "VBD",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "conditions",
+          "originalText": "conditions",
+          "lemma": "condition",
+          "characterOffsetBegin": 185,
+          "characterOffsetEnd": 195,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "are",
+          "originalText": "are",
+          "lemma": "be",
+          "characterOffsetBegin": 196,
+          "characterOffsetEnd": 199,
+          "pos": "VBP",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "not",
+          "originalText": "not",
+          "lemma": "not",
+          "characterOffsetBegin": 200,
+          "characterOffsetEnd": 203,
+          "pos": "RB",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "ideal",
+          "originalText": "ideal",
+          "lemma": "ideal",
+          "characterOffsetBegin": 204,
+          "characterOffsetEnd": 209,
+          "pos": "JJ",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 15,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 209,
+          "characterOffsetEnd": 210,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

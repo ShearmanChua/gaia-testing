@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_01_06_3666451_1">
+		<TEXT>
+			<SEG end_char="125" id="VOA_EN_NW_2017_01_06_3666451_1-0" start_char="0">
+				<ORIGINAL_TEXT>Marine Le Pen of the National Front party is seen as making the runoff in the French presidential election but failing to win.</ORIGINAL_TEXT>
+				<TOKEN end_char="5" id="token-0-0" start_char="0">Marine</TOKEN>
+				<TOKEN end_char="8" id="token-0-1" start_char="7">Le</TOKEN>
+				<TOKEN end_char="12" id="token-0-2" start_char="10">Pen</TOKEN>
+				<TOKEN end_char="15" id="token-0-3" start_char="14">of</TOKEN>
+				<TOKEN end_char="19" id="token-0-4" start_char="17">the</TOKEN>
+				<TOKEN end_char="28" id="token-0-5" start_char="21">National</TOKEN>
+				<TOKEN end_char="34" id="token-0-6" start_char="30">Front</TOKEN>
+				<TOKEN end_char="40" id="token-0-7" start_char="36">party</TOKEN>
+				<TOKEN end_char="43" id="token-0-8" start_char="42">is</TOKEN>
+				<TOKEN end_char="48" id="token-0-9" start_char="45">seen</TOKEN>
+				<TOKEN end_char="51" id="token-0-10" start_char="50">as</TOKEN>
+				<TOKEN end_char="58" id="token-0-11" start_char="53">making</TOKEN>
+				<TOKEN end_char="62" id="token-0-12" start_char="60">the</TOKEN>
+				<TOKEN end_char="69" id="token-0-13" start_char="64">runoff</TOKEN>
+				<TOKEN end_char="72" id="token-0-14" start_char="71">in</TOKEN>
+				<TOKEN end_char="76" id="token-0-15" start_char="74">the</TOKEN>
+				<TOKEN end_char="83" id="token-0-16" start_char="78">French</TOKEN>
+				<TOKEN end_char="96" id="token-0-17" start_char="85">presidential</TOKEN>
+				<TOKEN end_char="105" id="token-0-18" start_char="98">election</TOKEN>
+				<TOKEN end_char="109" id="token-0-19" start_char="107">but</TOKEN>
+				<TOKEN end_char="117" id="token-0-20" start_char="111">failing</TOKEN>
+				<TOKEN end_char="120" id="token-0-21" start_char="119">to</TOKEN>
+				<TOKEN end_char="124" id="token-0-22" start_char="122">win</TOKEN>
+				<TOKEN end_char="125" id="token-0-23" start_char="125">.</TOKEN>
+			</SEG>
+			<SEG end_char="141" id="VOA_EN_NW_2017_01_06_3666451_1-1" start_char="127">
+				<ORIGINAL_TEXT>(L. Bryant/VOA)</ORIGINAL_TEXT>
+				<TOKEN end_char="127" id="token-1-0" start_char="127">(</TOKEN>
+				<TOKEN end_char="128" id="token-1-1" start_char="128">L</TOKEN>
+				<TOKEN end_char="129" id="token-1-2" start_char="129">.</TOKEN>
+				<TOKEN end_char="136" id="token-1-3" start_char="131">Bryant</TOKEN>
+				<TOKEN end_char="137" id="token-1-4" start_char="137">/</TOKEN>
+				<TOKEN end_char="140" id="token-1-5" start_char="138">VOA</TOKEN>
+				<TOKEN end_char="141" id="token-1-6" start_char="141">)</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

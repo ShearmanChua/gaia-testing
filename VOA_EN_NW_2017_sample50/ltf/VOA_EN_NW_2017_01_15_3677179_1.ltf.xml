@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_01_15_3677179_1">
+		<TEXT>
+			<SEG end_char="19" id="VOA_EN_NW_2017_01_15_3677179_1-0" start_char="0">
+				<ORIGINAL_TEXT>Barada Valley, Syria</ORIGINAL_TEXT>
+				<TOKEN end_char="5" id="token-0-0" start_char="0">Barada</TOKEN>
+				<TOKEN end_char="12" id="token-0-1" start_char="7">Valley</TOKEN>
+				<TOKEN end_char="13" id="token-0-2" start_char="13">,</TOKEN>
+				<TOKEN end_char="19" id="token-0-3" start_char="15">Syria</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

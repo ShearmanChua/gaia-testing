@@ -1,0 +1,168 @@
+{
+  "docId": "VOA_EN_NW_2017_06_14_3899965_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Guatemala",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 9,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 1,
+          "docTokenEnd": 2,
+          "tokenBegin": 1,
+          "tokenEnd": 2,
+          "text": "earthquake",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 20,
+          "ner": "CAUSE_OF_DEATH"
+        },
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 8,
+          "tokenBegin": 4,
+          "tokenEnd": 8,
+          "text": "June 14, 2017",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 39,
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Guatemala",
+          "originalText": "Guatemala",
+          "lemma": "Guatemala",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 9,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 2,
+          "word": "earthquake",
+          "originalText": "earthquake",
+          "lemma": "earthquake",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 20,
+          "pos": "NN",
+          "ner": "CAUSE_OF_DEATH",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "map",
+          "originalText": "map",
+          "lemma": "map",
+          "characterOffsetBegin": 21,
+          "characterOffsetEnd": 24,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 4,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 25,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 26,
+          "characterOffsetEnd": 30,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        },
+        {
+          "index": 6,
+          "word": "14",
+          "originalText": "14",
+          "lemma": "14",
+          "characterOffsetBegin": 31,
+          "characterOffsetEnd": 33,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        },
+        {
+          "index": 7,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 33,
+          "characterOffsetEnd": 34,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        },
+        {
+          "index": 8,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 39,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-14",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-14"
+          }
+        }
+      ]
+    }
+  ]
+}

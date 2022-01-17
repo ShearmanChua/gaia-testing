@@ -1,0 +1,21 @@
+1	Supporters	supporter	NOUN	NNS	Number=Plur	0	root	_	VOA_EN_NW_2017_04_17_3814268_2:0-9
+2	of	of	ADP	IN	_	7	case	_	VOA_EN_NW_2017_04_17_3814268_2:11-12
+3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	VOA_EN_NW_2017_04_17_3814268_2:14-16
+4	"	"	PUNCT	``	_	7	punct	_	VOA_EN_NW_2017_04_17_3814268_2:18-18
+5	No	no	INTJ	UH	_	7	discourse	_	VOA_EN_NW_2017_04_17_3814268_2:19-20
+6	"	"	PUNCT	''	_	7	punct	_	VOA_EN_NW_2017_04_17_3814268_2:21-21
+7	vote	vote	NOUN	NN	Number=Sing	1	nmod	_	VOA_EN_NW_2017_04_17_3814268_2:23-26
+8	protest	protest	ADJ	JJS	Degree=Sup	7	amod	_	VOA_EN_NW_2017_04_17_3814268_2:28-34
+9	against	against	ADP	IN	_	12	case	_	VOA_EN_NW_2017_04_17_3814268_2:36-42
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	VOA_EN_NW_2017_04_17_3814268_2:44-46
+11	referendum	referendum	NOUN	NN	Number=Sing	12	compound	_	VOA_EN_NW_2017_04_17_3814268_2:48-57
+12	outcome	outcome	NOUN	NN	Number=Sing	8	obl	_	VOA_EN_NW_2017_04_17_3814268_2:59-65
+13	in	in	ADP	IN	_	14	case	_	VOA_EN_NW_2017_04_17_3814268_2:67-68
+14	Istanbul	Istanbul	PROPN	NNP	Number=Sing	8	obl	_	VOA_EN_NW_2017_04_17_3814268_2:70-77
+15	,	,	PUNCT	,	_	14	punct	_	VOA_EN_NW_2017_04_17_3814268_2:78-78
+16	April	April	PROPN	NNP	Number=Sing	14	appos	_	VOA_EN_NW_2017_04_17_3814268_2:80-84
+17	17	17	NUM	CD	NumType=Card	16	nummod	_	VOA_EN_NW_2017_04_17_3814268_2:86-87
+18	,	,	PUNCT	,	_	14	punct	_	VOA_EN_NW_2017_04_17_3814268_2:88-88
+19	2017	2017	NUM	CD	NumType=Card	14	appos	_	VOA_EN_NW_2017_04_17_3814268_2:90-93
+20	.	.	PUNCT	.	_	1	punct	_	VOA_EN_NW_2017_04_17_3814268_2:94-94
+

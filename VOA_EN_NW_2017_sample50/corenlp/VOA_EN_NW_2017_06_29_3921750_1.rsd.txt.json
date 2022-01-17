@@ -1,0 +1,400 @@
+{
+  "docId": "VOA_EN_NW_2017_06_29_3921750_1.rsd.txt",
+  "sentences": [
+    {
+      "index": 0,
+      "entitymentions": [
+        {
+          "docTokenBegin": 0,
+          "docTokenEnd": 1,
+          "tokenBegin": 0,
+          "tokenEnd": 1,
+          "text": "Germany",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 7,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 2,
+          "docTokenEnd": 3,
+          "tokenBegin": 2,
+          "tokenEnd": 3,
+          "text": "candidate",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 19,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 4,
+          "docTokenEnd": 5,
+          "tokenBegin": 4,
+          "tokenEnd": 5,
+          "text": "chancellor",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 34,
+          "ner": "TITLE"
+        },
+        {
+          "docTokenBegin": 5,
+          "docTokenEnd": 7,
+          "tokenBegin": 5,
+          "tokenEnd": 7,
+          "text": "Martin Schulz",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 48,
+          "ner": "PERSON"
+        },
+        {
+          "docTokenBegin": 15,
+          "docTokenEnd": 16,
+          "tokenBegin": 15,
+          "tokenEnd": 16,
+          "text": "Berlin",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 103,
+          "ner": "CITY"
+        },
+        {
+          "docTokenBegin": 17,
+          "docTokenEnd": 18,
+          "tokenBegin": 17,
+          "tokenEnd": 18,
+          "text": "Germany",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 112,
+          "ner": "COUNTRY"
+        },
+        {
+          "docTokenBegin": 19,
+          "docTokenEnd": 23,
+          "tokenBegin": 19,
+          "tokenEnd": 23,
+          "text": "June 27, 2017",
+          "characterOffsetBegin": 114,
+          "characterOffsetEnd": 127,
+          "ner": "DATE",
+          "normalizedNER": "2017-06-27",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-27"
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Germany",
+          "originalText": "Germany",
+          "lemma": "Germany",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 7,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": "",
+          "after": ""
+        },
+        {
+          "index": 2,
+          "word": "'s",
+          "originalText": "'s",
+          "lemma": "'s",
+          "characterOffsetBegin": 7,
+          "characterOffsetEnd": 9,
+          "pos": "POS",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 3,
+          "word": "candidate",
+          "originalText": "candidate",
+          "lemma": "candidate",
+          "characterOffsetBegin": 10,
+          "characterOffsetEnd": 19,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 4,
+          "word": "for",
+          "originalText": "for",
+          "lemma": "for",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 23,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 5,
+          "word": "chancellor",
+          "originalText": "chancellor",
+          "lemma": "chancellor",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 34,
+          "pos": "NN",
+          "ner": "TITLE",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 6,
+          "word": "Martin",
+          "originalText": "Martin",
+          "lemma": "Martin",
+          "characterOffsetBegin": 35,
+          "characterOffsetEnd": 41,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 7,
+          "word": "Schulz",
+          "originalText": "Schulz",
+          "lemma": "Schulz",
+          "characterOffsetBegin": 42,
+          "characterOffsetEnd": 48,
+          "pos": "NNP",
+          "ner": "PERSON",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 8,
+          "word": "talks",
+          "originalText": "talks",
+          "lemma": "talk",
+          "characterOffsetBegin": 49,
+          "characterOffsetEnd": 54,
+          "pos": "VBZ",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 9,
+          "word": "to",
+          "originalText": "to",
+          "lemma": "to",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 57,
+          "pos": "TO",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 10,
+          "word": "journalists",
+          "originalText": "journalists",
+          "lemma": "journalist",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 69,
+          "pos": "NNS",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 11,
+          "word": "after",
+          "originalText": "after",
+          "lemma": "after",
+          "characterOffsetBegin": 70,
+          "characterOffsetEnd": 75,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 12,
+          "word": "a",
+          "originalText": "a",
+          "lemma": "a",
+          "characterOffsetBegin": 76,
+          "characterOffsetEnd": 77,
+          "pos": "DT",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 13,
+          "word": "news",
+          "originalText": "news",
+          "lemma": "news",
+          "characterOffsetBegin": 78,
+          "characterOffsetEnd": 82,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 14,
+          "word": "conference",
+          "originalText": "conference",
+          "lemma": "conference",
+          "characterOffsetBegin": 83,
+          "characterOffsetEnd": 93,
+          "pos": "NN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 15,
+          "word": "in",
+          "originalText": "in",
+          "lemma": "in",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 96,
+          "pos": "IN",
+          "ner": "O",
+          "before": " ",
+          "after": " "
+        },
+        {
+          "index": 16,
+          "word": "Berlin",
+          "originalText": "Berlin",
+          "lemma": "Berlin",
+          "characterOffsetBegin": 97,
+          "characterOffsetEnd": 103,
+          "pos": "NNP",
+          "ner": "CITY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 17,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 103,
+          "characterOffsetEnd": 104,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 18,
+          "word": "Germany",
+          "originalText": "Germany",
+          "lemma": "Germany",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 112,
+          "pos": "NNP",
+          "ner": "COUNTRY",
+          "before": " ",
+          "after": ""
+        },
+        {
+          "index": 19,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 112,
+          "characterOffsetEnd": 113,
+          "pos": ",",
+          "ner": "O",
+          "before": "",
+          "after": " "
+        },
+        {
+          "index": 20,
+          "word": "June",
+          "originalText": "June",
+          "lemma": "June",
+          "characterOffsetBegin": 114,
+          "characterOffsetEnd": 118,
+          "pos": "NNP",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-27",
+          "before": " ",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-27"
+          }
+        },
+        {
+          "index": 21,
+          "word": "27",
+          "originalText": "27",
+          "lemma": "27",
+          "characterOffsetBegin": 119,
+          "characterOffsetEnd": 121,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-27",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-27"
+          }
+        },
+        {
+          "index": 22,
+          "word": ",",
+          "originalText": ",",
+          "lemma": ",",
+          "characterOffsetBegin": 121,
+          "characterOffsetEnd": 122,
+          "pos": ",",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-27",
+          "before": "",
+          "after": " ",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-27"
+          }
+        },
+        {
+          "index": 23,
+          "word": "2017",
+          "originalText": "2017",
+          "lemma": "2017",
+          "characterOffsetBegin": 123,
+          "characterOffsetEnd": 127,
+          "pos": "CD",
+          "ner": "DATE",
+          "normalizedNER": "2017-06-27",
+          "before": " ",
+          "after": "",
+          "timex": {
+            "tid": "t1",
+            "type": "DATE",
+            "value": "2017-06-27"
+          }
+        },
+        {
+          "index": 24,
+          "word": ".",
+          "originalText": ".",
+          "lemma": ".",
+          "characterOffsetBegin": 127,
+          "characterOffsetEnd": 128,
+          "pos": ".",
+          "ner": "O",
+          "before": "",
+          "after": ""
+        }
+      ]
+    }
+  ]
+}

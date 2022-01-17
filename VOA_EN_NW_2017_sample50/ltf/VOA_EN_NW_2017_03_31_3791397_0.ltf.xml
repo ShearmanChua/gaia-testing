@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_31_3791397_0">
+		<TEXT>
+			<SEG end_char="105" id="VOA_EN_NW_2017_03_31_3791397_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - People pass posters of Serbian Prime Minister Aleksandar Vucic in Novi Sad, Serbia, March 18, 2017.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="12" id="token-0-2" start_char="7">People</TOKEN>
+				<TOKEN end_char="17" id="token-0-3" start_char="14">pass</TOKEN>
+				<TOKEN end_char="25" id="token-0-4" start_char="19">posters</TOKEN>
+				<TOKEN end_char="28" id="token-0-5" start_char="27">of</TOKEN>
+				<TOKEN end_char="36" id="token-0-6" start_char="30">Serbian</TOKEN>
+				<TOKEN end_char="42" id="token-0-7" start_char="38">Prime</TOKEN>
+				<TOKEN end_char="51" id="token-0-8" start_char="44">Minister</TOKEN>
+				<TOKEN end_char="62" id="token-0-9" start_char="53">Aleksandar</TOKEN>
+				<TOKEN end_char="68" id="token-0-10" start_char="64">Vucic</TOKEN>
+				<TOKEN end_char="71" id="token-0-11" start_char="70">in</TOKEN>
+				<TOKEN end_char="76" id="token-0-12" start_char="73">Novi</TOKEN>
+				<TOKEN end_char="80" id="token-0-13" start_char="78">Sad</TOKEN>
+				<TOKEN end_char="81" id="token-0-14" start_char="81">,</TOKEN>
+				<TOKEN end_char="88" id="token-0-15" start_char="83">Serbia</TOKEN>
+				<TOKEN end_char="89" id="token-0-16" start_char="89">,</TOKEN>
+				<TOKEN end_char="95" id="token-0-17" start_char="91">March</TOKEN>
+				<TOKEN end_char="98" id="token-0-18" start_char="97">18</TOKEN>
+				<TOKEN end_char="99" id="token-0-19" start_char="99">,</TOKEN>
+				<TOKEN end_char="104" id="token-0-20" start_char="101">2017</TOKEN>
+				<TOKEN end_char="105" id="token-0-21" start_char="105">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_01_25_3691253_0">
+		<TEXT>
+			<SEG end_char="143" id="VOA_EN_NW_2017_01_25_3691253_0-0" start_char="0">
+				<ORIGINAL_TEXT>A medical worker attends to a child at Ndirande Health Center, one of eight health centers using the Chipatala Robot program in southern Malawi.</ORIGINAL_TEXT>
+				<TOKEN end_char="0" id="token-0-0" start_char="0">A</TOKEN>
+				<TOKEN end_char="8" id="token-0-1" start_char="2">medical</TOKEN>
+				<TOKEN end_char="15" id="token-0-2" start_char="10">worker</TOKEN>
+				<TOKEN end_char="23" id="token-0-3" start_char="17">attends</TOKEN>
+				<TOKEN end_char="26" id="token-0-4" start_char="25">to</TOKEN>
+				<TOKEN end_char="28" id="token-0-5" start_char="28">a</TOKEN>
+				<TOKEN end_char="34" id="token-0-6" start_char="30">child</TOKEN>
+				<TOKEN end_char="37" id="token-0-7" start_char="36">at</TOKEN>
+				<TOKEN end_char="46" id="token-0-8" start_char="39">Ndirande</TOKEN>
+				<TOKEN end_char="53" id="token-0-9" start_char="48">Health</TOKEN>
+				<TOKEN end_char="60" id="token-0-10" start_char="55">Center</TOKEN>
+				<TOKEN end_char="61" id="token-0-11" start_char="61">,</TOKEN>
+				<TOKEN end_char="65" id="token-0-12" start_char="63">one</TOKEN>
+				<TOKEN end_char="68" id="token-0-13" start_char="67">of</TOKEN>
+				<TOKEN end_char="74" id="token-0-14" start_char="70">eight</TOKEN>
+				<TOKEN end_char="81" id="token-0-15" start_char="76">health</TOKEN>
+				<TOKEN end_char="89" id="token-0-16" start_char="83">centers</TOKEN>
+				<TOKEN end_char="95" id="token-0-17" start_char="91">using</TOKEN>
+				<TOKEN end_char="99" id="token-0-18" start_char="97">the</TOKEN>
+				<TOKEN end_char="109" id="token-0-19" start_char="101">Chipatala</TOKEN>
+				<TOKEN end_char="115" id="token-0-20" start_char="111">Robot</TOKEN>
+				<TOKEN end_char="123" id="token-0-21" start_char="117">program</TOKEN>
+				<TOKEN end_char="126" id="token-0-22" start_char="125">in</TOKEN>
+				<TOKEN end_char="135" id="token-0-23" start_char="128">southern</TOKEN>
+				<TOKEN end_char="142" id="token-0-24" start_char="137">Malawi</TOKEN>
+				<TOKEN end_char="143" id="token-0-25" start_char="143">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LCTL_TEXT>
+	<DOC id="VOA_EN_NW_2017_03_27_3783363_0">
+		<TEXT>
+			<SEG end_char="191" id="VOA_EN_NW_2017_03_27_3783363_0-0" start_char="0">
+				<ORIGINAL_TEXT>FILE - White House Senior Adviser Jared Kushner, right, listens to President Donald Trump speak during a breakfast with business leaders in the Roosevelt Room of the White House in Washington.</ORIGINAL_TEXT>
+				<TOKEN end_char="3" id="token-0-0" start_char="0">FILE</TOKEN>
+				<TOKEN end_char="5" id="token-0-1" start_char="5">-</TOKEN>
+				<TOKEN end_char="11" id="token-0-2" start_char="7">White</TOKEN>
+				<TOKEN end_char="17" id="token-0-3" start_char="13">House</TOKEN>
+				<TOKEN end_char="24" id="token-0-4" start_char="19">Senior</TOKEN>
+				<TOKEN end_char="32" id="token-0-5" start_char="26">Adviser</TOKEN>
+				<TOKEN end_char="38" id="token-0-6" start_char="34">Jared</TOKEN>
+				<TOKEN end_char="46" id="token-0-7" start_char="40">Kushner</TOKEN>
+				<TOKEN end_char="47" id="token-0-8" start_char="47">,</TOKEN>
+				<TOKEN end_char="53" id="token-0-9" start_char="49">right</TOKEN>
+				<TOKEN end_char="54" id="token-0-10" start_char="54">,</TOKEN>
+				<TOKEN end_char="62" id="token-0-11" start_char="56">listens</TOKEN>
+				<TOKEN end_char="65" id="token-0-12" start_char="64">to</TOKEN>
+				<TOKEN end_char="75" id="token-0-13" start_char="67">President</TOKEN>
+				<TOKEN end_char="82" id="token-0-14" start_char="77">Donald</TOKEN>
+				<TOKEN end_char="88" id="token-0-15" start_char="84">Trump</TOKEN>
+				<TOKEN end_char="94" id="token-0-16" start_char="90">speak</TOKEN>
+				<TOKEN end_char="101" id="token-0-17" start_char="96">during</TOKEN>
+				<TOKEN end_char="103" id="token-0-18" start_char="103">a</TOKEN>
+				<TOKEN end_char="113" id="token-0-19" start_char="105">breakfast</TOKEN>
+				<TOKEN end_char="118" id="token-0-20" start_char="115">with</TOKEN>
+				<TOKEN end_char="127" id="token-0-21" start_char="120">business</TOKEN>
+				<TOKEN end_char="135" id="token-0-22" start_char="129">leaders</TOKEN>
+				<TOKEN end_char="138" id="token-0-23" start_char="137">in</TOKEN>
+				<TOKEN end_char="142" id="token-0-24" start_char="140">the</TOKEN>
+				<TOKEN end_char="152" id="token-0-25" start_char="144">Roosevelt</TOKEN>
+				<TOKEN end_char="157" id="token-0-26" start_char="154">Room</TOKEN>
+				<TOKEN end_char="160" id="token-0-27" start_char="159">of</TOKEN>
+				<TOKEN end_char="164" id="token-0-28" start_char="162">the</TOKEN>
+				<TOKEN end_char="170" id="token-0-29" start_char="166">White</TOKEN>
+				<TOKEN end_char="176" id="token-0-30" start_char="172">House</TOKEN>
+				<TOKEN end_char="179" id="token-0-31" start_char="178">in</TOKEN>
+				<TOKEN end_char="190" id="token-0-32" start_char="181">Washington</TOKEN>
+				<TOKEN end_char="191" id="token-0-33" start_char="191">.</TOKEN>
+			</SEG>
+		</TEXT>
+	</DOC>
+</LCTL_TEXT>
